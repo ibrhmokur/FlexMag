@@ -6,5 +6,5 @@ This project contains the LabVIEW software for the FlexMag Roll-to-Roll Sputteri
 
 This sputtering system was used in the production of large-area giant magnetoresistive (GMR) thin-film stacks, which consist of 30 metallic Co and Cu bilayers on a 100-meter long polyethylene terephthalate (PET) web foil.
 
-For more information, you can refer to the published paper: [Link to paper (https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admt.202200190)
+For more information, you can refer to the published paper: [Link to paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admt.202200190)
 
