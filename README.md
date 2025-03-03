@@ -8,4 +8,4 @@ This sputtering system was used in the production of large-area giant magnetores
 
 For more information, you can refer to the published paper: [Link to paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admt.202200190)
 
-![FlexMag System](FlexMag R-2-R Sputtering Machine.jpg)
+![FlexMag System](FlexMag R-2-R Sputtering Machine.jpeg)
