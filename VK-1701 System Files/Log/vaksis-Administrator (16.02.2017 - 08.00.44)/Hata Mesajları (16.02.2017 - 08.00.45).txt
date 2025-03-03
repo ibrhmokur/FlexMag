@@ -1,0 +1,4 @@
+Hata Mesajlarý -  vaksis-Administrator  / 08:00:45
+
+16.02.2017 / 08:00:48   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.

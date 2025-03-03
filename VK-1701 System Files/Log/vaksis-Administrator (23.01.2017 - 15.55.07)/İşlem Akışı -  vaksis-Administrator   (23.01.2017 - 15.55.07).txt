@@ -1,0 +1,23 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:55:07
+23.01.2017 / 15:55:09  -Kelebek vana kapatýldý.
+23.01.2017 / 15:57:39  -Gaz Purifier baypas vanasý açýldý.
+23.01.2017 / 15:57:43  -Gaz Purifier baypas vanasý kapatýldý.
+23.01.2017 / 15:57:50  -Gaz Purifier giriþ vanasý kapatýldý.
+23.01.2017 / 15:57:54  -Gaz Purifier çýkýþ vanasý açýldý.
+23.01.2017 / 15:58:03  -Gaz Purifier çýkýþ vanasý açýldý.
+
+***** ERROR  23.01.2017 / 15:58:03    GaV-GP-BP Giriþ açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+23.01.2017 / 15:58:34  -Gaz Purifier çýkýþ vanasý açýldý.
+                                                      
+23.01.2017 / 15:58:54  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+23.01.2017 / 15:58:56  -1. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 15:58:58  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 15:59:12  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+23.01.2017 / 15:59:14  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+23.01.2017 / 15:59:21  -DP'nin ýsýnmasý bekleniyor.
+23.01.2017 / 15:59:27  -Ýstenilen basýnç seviyesine geldi.
+23.01.2017 / 15:59:35  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+23.01.2017 / 15:59:37  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

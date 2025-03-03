@@ -1,0 +1,93 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 07:56:40
+27.02.2017 / 07:56:42  -Kelebek vana kapatýldý.
+27.02.2017 / 07:56:44  -AH-ATM açýldý.
+
+***** ERROR  27.02.2017 / 07:56:44    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+27.02.2017 / 07:58:36  -AH-ATM açýldý.
+27.02.2017 / 07:58:43                                             
+27.02.2017 / 07:58:44  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+27.02.2017 / 07:58:47  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 07:58:50  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 07:58:59  -DP'nin soðumasý bekleniyor.
+27.02.2017 / 07:59:07  -K-VKV açýldý.
+27.02.2017 / 07:59:07  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+27.02.2017 / 08:01:56  -K-ATM açýldý.
+27.02.2017 / 08:01:58  -K-VKV kapatýldý.
+27.02.2017 / 08:01:59  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+27.02.2017 / 08:02:00  -Alt Hat atmosfer basýncýna ulaþtý.
+27.02.2017 / 08:02:03  -Durdurma iþlemi tamamlandý
+                                                      
+27.02.2017 / 08:02:06  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+                                                      
+27.02.2017 / 08:08:08  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+27.02.2017 / 08:08:11  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:08:13  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:08:13  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:08:20  -Su akýþ vanasý açýldý.
+27.02.2017 / 08:08:32  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+27.02.2017 / 08:08:33  -Alt Hat atmosfer basýncýna ulaþtý.
+27.02.2017 / 08:08:38  -AH-ATM kapatýldý.
+27.02.2017 / 08:08:47  -Kelebek vana ara pozisyona alýndý.
+27.02.2017 / 08:09:13  -Kelebek vana açýldý.
+27.02.2017 / 08:09:17  -K-ATM kapatýldý.
+27.02.2017 / 08:09:19  -MP'ye çalýþ komutu gönderildi.
+27.02.2017 / 08:09:20  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+27.02.2017 / 08:14:41  -RP'ye çalýþ komutu gönderildi.
+27.02.2017 / 08:14:41  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+27.02.2017 / 08:15:19  -BBÖ-BV açýldý.
+27.02.2017 / 08:15:29  -Kelebek vana ara pozisyona alýndý.
+27.02.2017 / 08:15:54  -Kelebek vana kapatýldý.
+27.02.2017 / 08:16:03  -DP-BV açýldý.
+27.02.2017 / 08:16:08  -DP-BV açýldý.
+
+***** ERROR  27.02.2017 / 08:16:08    DP-BV çalýþmasý ile ilgili sorun tespit edildi (Kod 1).
+
+27.02.2017 / 08:16:08  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:16:09  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:16:09  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:16:10  -BBÖ-BV kapatýldý.
+27.02.2017 / 08:16:10  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:16:13  -RP'ye dur komutu gönderildi.
+27.02.2017 / 08:16:32  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:16:32  -DP-BV kapatýldý.
+27.02.2017 / 08:16:33  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:16:36  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:17:12  -Gaz Purifier deaktif hale getirildi.
+27.02.2017 / 08:17:16  -Gaz Purifier aktif hale getirildi.
+27.02.2017 / 08:17:25  -Gaz Purifier aktif hale getirildi.
+                                                      
+27.02.2017 / 08:17:35  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+27.02.2017 / 08:17:38  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:17:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:17:52  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+27.02.2017 / 08:17:56  -RP'ye çalýþ komutu gönderildi.
+27.02.2017 / 08:17:56  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+27.02.2017 / 08:18:05  -DP-BV açýldý.
+27.02.2017 / 08:18:08  -DP'ye çalýþ komutu gönderildi.
+27.02.2017 / 08:18:10  -DP'nin ýsýnmasý bekleniyor.
+27.02.2017 / 08:23:42  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:23:42  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:23:42  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 08:23:43  -DP'ye dur komutu gönderildi.
+27.02.2017 / 08:23:45  -RP'ye dur komutu gönderildi.
+27.02.2017 / 08:24:05  -DP-BV kapatýldý.
+27.02.2017 / 08:24:08  -RP'ye çalýþ komutu gönderildi.
+27.02.2017 / 08:24:18  -Kelebek vana ara pozisyona alýndý.
+27.02.2017 / 08:24:44  -Kelebek vana açýldý.
+27.02.2017 / 08:46:31  -DP'ye çalýþ komutu gönderildi.
+27.02.2017 / 08:54:28  -DP'ye dur komutu gönderildi.
+27.02.2017 / 08:56:02  -Kelebek vana ara pozisyona alýndý.
+27.02.2017 / 08:56:28  -Kelebek vana kapatýldý.
+27.02.2017 / 09:00:24  -Kelebek vana ara pozisyona alýndý.
+27.02.2017 / 09:00:50  -Kelebek vana açýldý.
+27.02.2017 / 09:03:46  -Kelebek vana ara pozisyona alýndý.
+27.02.2017 / 09:03:47  -RP'ye dur komutu gönderildi.
+27.02.2017 / 09:04:11  -Kelebek vana kapatýldý.
+27.02.2017 / 09:04:16  -MP'ye dur komutu gönderildi.
+27.02.2017 / 09:04:19  -K-VKV açýldý.
+27.02.2017 / 09:06:01  -AH-ATM açýldý.
+27.02.2017 / 09:06:03  -AH-VKV kapatýldý.
+27.02.2017 / 09:07:05  -K-ATM açýldý.
+27.02.2017 / 09:07:07  -K-VKV kapatýldý.

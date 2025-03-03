@@ -1,0 +1,22 @@
+Hata Mesajlarý -  -  / 13:02:58
+
+9.12.2016 / 11:59   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 11:59   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+
+9.12.2016 / 11:59   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 11:59   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+9.12.2016 / 13:03   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+
+9.12.2016 / 11:59   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 11:59   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+9.12.2016 / 13:03   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:04   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 

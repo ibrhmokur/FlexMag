@@ -1,0 +1,32 @@
+Hata Mesajlarý -  vaksis-Administrator  / 08:15:25
+
+17.02.2017 / 08:19:47   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+17.02.2017 / 08:19:47   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+17.02.2017 / 08:20:32   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+17.02.2017 / 08:19:47   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+17.02.2017 / 08:20:32   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+17.02.2017 / 10:05:39   BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 
+17.02.2017 / 08:19:47   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+17.02.2017 / 08:20:32   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+17.02.2017 / 10:05:39   BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 
+17.02.2017 / 10:23:28   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+17.02.2017 / 08:19:47   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+17.02.2017 / 08:20:32   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+17.02.2017 / 10:05:39   BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 
+17.02.2017 / 10:23:28   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+17.02.2017 / 10:23:29   DP durdurulamaz !
+Sebep : AV açýk.

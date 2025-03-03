@@ -1,0 +1,32 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:34:12
+16.1.2017 / 08:34  -AH-VKV kapatýldý.
+
+***** ERROR  16.1.2017 / 08:34    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+16.1.2017 / 08:35  -AH-VKV kapatýldý.
+16.1.2017 / 08:35  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  16.1.2017 / 08:35    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+
+***** ERROR  16.1.2017 / 08:35    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+16.1.2017 / 08:36  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  16.1.2017 / 08:36    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+
+***** ERROR  16.1.2017 / 08:36    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+16.1.2017 / 08:37  -Isýtýcý sýfýra set edildi.
+16.1.2017 / 08:38  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  16.1.2017 / 08:38    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+
+***** ERROR  16.1.2017 / 08:38    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+

@@ -1,0 +1,4 @@
+Hata Mesajlarý -  -  / 16:26:46
+
+14.12.2016 / 16:27   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 

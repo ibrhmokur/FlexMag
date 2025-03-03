@@ -1,0 +1,55 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:41:12
+24.01.2017 / 13:41:14  -Kelebek vana kapatýldý.
+                                                      
+24.01.2017 / 13:42:31  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+24.01.2017 / 13:42:33  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:42:34  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:42:36  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:42:52  -Alt Hat atmosfer basýncýna ulaþtý.
+24.01.2017 / 13:43:00  -AH-ATM kapatýldý.
+24.01.2017 / 13:43:11  -Kelebek vana ara pozisyona alýndý.
+24.01.2017 / 13:43:36  -Kelebek vana açýldý.
+24.01.2017 / 13:43:42  -K-ATM kapatýldý.
+24.01.2017 / 13:43:45  -MP'ye çalýþ komutu gönderildi.
+24.01.2017 / 13:43:46  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+24.01.2017 / 13:49:11  -RP'ye çalýþ komutu gönderildi.
+24.01.2017 / 13:49:12  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+24.01.2017 / 13:49:51  -BBÖ-BV açýldý.
+24.01.2017 / 13:50:01  -Kelebek vana ara pozisyona alýndý.
+24.01.2017 / 13:50:27  -Kelebek vana kapatýldý.
+24.01.2017 / 13:50:37  -DP-BV açýldý.
+24.01.2017 / 13:50:40  -DP'ye çalýþ komutu gönderildi.
+24.01.2017 / 13:53:49  -DP'nin ýsýnmasý bekleniyor.
+24.01.2017 / 14:10:10  -Ana vana açýldý.
+24.01.2017 / 14:10:10  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+24.01.2017 / 14:23:54  -Ýstenilen basýnç seviyesine geldi.
+24.01.2017 / 14:24:01  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+24.01.2017 / 14:24:04  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+24.01.2017 / 15:45:06  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.01.2017 / 15:45:06  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.01.2017 / 15:45:08  -Isýtýcý istenilen deðere set edildi.
+24.01.2017 / 15:45:37  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.01.2017 / 15:45:39  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.01.2017 / 15:46:11  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.01.2017 / 16:11:47  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.01.2017 / 16:29:38  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.01.2017 / 16:29:39  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.01.2017 / 16:45:38  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 16:45:39  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 16:45:40  -Isýtýcý sýfýra set edildi.
+24.01.2017 / 17:58:53  -BBÖ-BV kapatýldý.
+24.01.2017 / 17:58:55  -BBÖ-BV kapatýldý.
+
+***** ERROR  24.01.2017 / 17:58:55    DP durdurulamaz !
+Sebep : AV açýk.
+
+24.01.2017 / 17:58:57  -Ana vana kapatýldý.
+24.01.2017 / 17:58:58  -Ana vana kapatýldý.
+24.01.2017 / 17:59:09  -DP'ye dur komutu gönderildi.
+24.01.2017 / 18:24:20  -DP-BV kapatýldý.
+24.01.2017 / 18:24:25  -RP'ye dur komutu gönderildi.
+24.01.2017 / 18:24:31  -MP'ye dur komutu gönderildi.
+24.01.2017 / 18:24:34  -AH-VKV açýldý.
+24.01.2017 / 18:24:53  -Su akýþ vanasý kapatýldý.
+24.01.2017 / 18:26:14  -AH-ATM açýldý.

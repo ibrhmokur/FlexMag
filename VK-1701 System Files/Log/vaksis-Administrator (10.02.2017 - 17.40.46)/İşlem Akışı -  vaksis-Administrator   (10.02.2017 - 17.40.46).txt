@@ -1,0 +1,7 @@
+İşlem Akışı -  vaksis-Administrator  / 17:40:46
+10.02.2017 / 17:40:48  -Kelebek vana kapatıldı.
+10.02.2017 / 17:41:27  -1. Bölge Isıtıcısı istenilen değere set edildi.
+10.02.2017 / 17:41:28  -Isıtıcı istenilen değere set edildi.
+10.02.2017 / 17:49:37  -1. Bölge Isıtıcısı istenilen değere set edildi.
+10.02.2017 / 17:52:15  -1. Bölge Isıtıcısı sıfıra set edildi.
+10.02.2017 / 17:52:15  -Isıtıcı sıfıra set edildi.

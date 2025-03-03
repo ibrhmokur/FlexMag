@@ -1,0 +1,92 @@
+Hata Mesajlarý -  vaksis-Administrator  / 12:36:44
+
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:21:10   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:21:10   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 16:22:13   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:21:10   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 16:22:13   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:23:33   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:21:10   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 16:22:13   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:23:33   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:24:27   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:21:10   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 16:22:13   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:23:33   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:24:27   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:25:42   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:21:10   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 16:22:13   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:23:33   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:24:27   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:25:42   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:32:52   Elektrik Yok  !
+Lütfen güvenlik prosedürü tamamlandýktan sonra Bilsisayarýnýzý kapatýnýz !
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:21:10   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 16:22:13   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:23:33   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:24:27   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:25:42   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:32:52   Elektrik Yok  !
+Lütfen güvenlik prosedürü tamamlandýktan sonra Bilsisayarýnýzý kapatýnýz !
+20.02.2017 / 16:37:29   Elektrik Yok  !
+Lütfen güvenlik prosedürü tamamlandýktan sonra Bilsisayarýnýzý kapatýnýz !
+20.02.2017 / 16:03:18   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:21:10   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 16:22:13   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:23:33   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:24:27   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:25:42   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+20.02.2017 / 16:32:52   Elektrik Yok  !
+Lütfen güvenlik prosedürü tamamlandýktan sonra Bilsisayarýnýzý kapatýnýz !
+20.02.2017 / 16:37:29   Elektrik Yok  !
+Lütfen güvenlik prosedürü tamamlandýktan sonra Bilsisayarýnýzý kapatýnýz !
+20.02.2017 / 16:38:11   MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.

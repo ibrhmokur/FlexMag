@@ -1,0 +1,22 @@
+Hata Mesajlarý -  vaksis-Administrator  / 08:01:27
+
+20.02.2017 / 08:01:30   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+20.02.2017 / 08:01:30   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+20.02.2017 / 08:42:24   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 08:01:30   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+20.02.2017 / 08:42:24   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 08:45:22   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+20.02.2017 / 08:01:30   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+20.02.2017 / 08:42:24   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+20.02.2017 / 08:45:22   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+20.02.2017 / 08:45:37   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.

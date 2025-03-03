@@ -1,0 +1,32 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:08:56
+20.01.2017 / 13:08:58  -Kelebek vana kapatýldý.
+20.01.2017 / 15:31:56  -Kelebek vana kapatýldý.
+
+***** ERROR  20.01.2017 / 15:31:56    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+20.01.2017 / 15:31:56  -Su akýþ vanasý kapatýldý.
+20.01.2017 / 15:31:59  -Su akýþ vanasý kapatýldý.
+
+***** ERROR  20.01.2017 / 15:31:59    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+20.01.2017 / 15:32:00  -TP'ye dur komutu gönderildi
+20.01.2017 / 15:32:03  -Ana vana kapatýldý.
+20.01.2017 / 15:32:04  -1. Bölge Isýtýcý sýfýra set edildi.
+20.01.2017 / 15:32:04  -2. Bölge Isýtýcý sýfýra set edildi.
+20.01.2017 / 15:32:04  -3. Bölge Isýtýcý sýfýra set edildi.
+20.01.2017 / 15:32:05  -RP'ye dur komutu gönderildi.
+20.01.2017 / 15:32:06  -BBÖ-BV kapatýldý.
+20.01.2017 / 15:32:33  -DP-BV kapatýldý.
+20.01.2017 / 15:32:46  -RP'ye çalýþ komutu gönderildi.
+20.01.2017 / 15:33:02  -DP-BV açýldý.
+20.01.2017 / 15:33:07  -DP-BV açýldý.
+
+***** ERROR  20.01.2017 / 15:33:07    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+20.01.2017 / 15:33:16  -DP-BV açýldý.
+20.01.2017 / 15:34:40  -Su akýþ vanasý açýldý.
+20.01.2017 / 15:35:05  -TP'ye çalýþ komutu gönderildi.
+20.01.2017 / 15:37:14  -Ana vana açýldý.
+20.01.2017 / 15:37:24  -BBÖ-BV açýldý.

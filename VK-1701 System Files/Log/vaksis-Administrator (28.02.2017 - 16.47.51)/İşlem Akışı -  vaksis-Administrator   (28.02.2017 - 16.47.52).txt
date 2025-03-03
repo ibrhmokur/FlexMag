@@ -1,0 +1,17 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 16:47:52
+28.02.2017 / 16:47:53  -Kelebek vana kapatýldý.
+
+***** ERROR  28.02.2017 / 16:47:53    1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+28.02.2017 / 16:47:53  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:47:54  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:47:54  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:47:56  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:47:57  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:47:59  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:47:59  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:48:10  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:48:46  -Kelebek vana ara pozisyona alýndý.
+28.02.2017 / 16:49:11  -Kelebek vana açýldý.
+28.02.2017 / 16:58:50  -AH-ATM kapatýldý.

@@ -1,0 +1,13 @@
+Hata Mesajlarý -  vaksis-Administrator  / 10:24:28
+4.03.2017 / 11:18:31   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+4.03.2017 / 11:18:46   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+4.03.2017 / 11:18:31   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+4.03.2017 / 13:25:51   MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+4.03.2017 / 11:18:46   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+4.03.2017 / 11:18:31   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !

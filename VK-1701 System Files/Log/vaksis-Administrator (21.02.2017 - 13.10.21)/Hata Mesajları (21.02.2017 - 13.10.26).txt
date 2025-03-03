@@ -1,0 +1,38 @@
+Hata Mesajlarý -  vaksis-Administrator  / 13:10:26
+
+21.02.2017 / 11:20:14   N2 gaz akýþý yok ! Lütfen N2 Regülatör vanasýnýn açýk olduðundan emin olunuz.
+21.02.2017 / 12:18:09   MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+21.02.2017 / 13:10:54   Sistemi vakuma alma iþlemi su akýþý (MS)
+yeterli olmadýðý için durduruldu !
+Lütfen su akýþýný kontrol ediniz.
+21.02.2017 / 11:20:14   N2 gaz akýþý yok ! Lütfen N2 Regülatör vanasýnýn açýk olduðundan emin olunuz.
+21.02.2017 / 12:18:09   MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+21.02.2017 / 13:10:54   Sistemi vakuma alma iþlemi su akýþý (MS)
+yeterli olmadýðý için durduruldu !
+Lütfen su akýþýný kontrol ediniz.
+21.02.2017 / 17:46:50   DP durdurulamaz !
+Sebep : AV açýk.
+21.02.2017 / 11:20:14   N2 gaz akýþý yok ! Lütfen N2 Regülatör vanasýnýn açýk olduðundan emin olunuz.
+21.02.2017 / 12:18:09   MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+21.02.2017 / 13:10:54   Sistemi vakuma alma iþlemi su akýþý (MS)
+yeterli olmadýðý için durduruldu !
+Lütfen su akýþýný kontrol ediniz.
+21.02.2017 / 17:46:50   DP durdurulamaz !
+Sebep : AV açýk.
+21.02.2017 / 17:47:00   DP durdurulamaz !
+Sebep : AV açýk.
+21.02.2017 / 11:20:14   N2 gaz akýþý yok ! Lütfen N2 Regülatör vanasýnýn açýk olduðundan emin olunuz.
+21.02.2017 / 12:18:09   MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+21.02.2017 / 13:10:54   Sistemi vakuma alma iþlemi su akýþý (MS)
+yeterli olmadýðý için durduruldu !
+Lütfen su akýþýný kontrol ediniz.
+21.02.2017 / 17:46:50   DP durdurulamaz !
+Sebep : AV açýk.
+21.02.2017 / 17:47:00   DP durdurulamaz !
+Sebep : AV açýk.
+21.02.2017 / 17:47:05   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.

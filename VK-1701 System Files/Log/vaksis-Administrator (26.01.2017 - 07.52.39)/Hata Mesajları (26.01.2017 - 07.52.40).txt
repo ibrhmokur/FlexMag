@@ -1,0 +1,18 @@
+Hata Mesajlarý -  vaksis-Administrator  / 07:52:40
+
+26.01.2017 / 11:01:03   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+26.01.2017 / 11:01:03   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+26.01.2017 / 13:10:00   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+26.01.2017 / 11:01:03   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+26.01.2017 / 13:10:00   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+26.01.2017 / 13:10:50   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+26.01.2017 / 11:01:03   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+26.01.2017 / 13:10:00   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+26.01.2017 / 13:10:50   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+26.01.2017 / 13:12:10   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).

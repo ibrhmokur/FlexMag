@@ -1,0 +1,8 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:37:13
+
+24.01.2017 / 11:37:18   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+24.01.2017 / 11:37:18   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+24.01.2017 / 11:52:12   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.

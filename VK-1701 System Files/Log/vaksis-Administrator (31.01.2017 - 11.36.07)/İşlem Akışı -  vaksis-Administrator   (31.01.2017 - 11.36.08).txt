@@ -1,0 +1,43 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:36:08
+31.01.2017 / 11:36:09  -Kelebek vana kapatýldý.
+31.01.2017 / 11:36:41                                             
+31.01.2017 / 11:36:41  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+31.01.2017 / 11:36:44  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:36:44  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:36:46  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:37:03  -Alt Hat atmosfer basýncýna ulaþtý.
+31.01.2017 / 11:37:11  -AH-ATM kapatýldý.
+31.01.2017 / 11:37:22  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 11:37:48  -Kelebek vana açýldý.
+31.01.2017 / 11:37:53  -K-ATM kapatýldý.
+31.01.2017 / 11:37:56  -K-ATM kapatýldý.
+
+***** ERROR  31.01.2017 / 11:37:56    BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+
+31.01.2017 / 11:37:57  -MP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:38:01  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:38:01  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:38:01  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:38:06  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 11:38:31  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  31.01.2017 / 11:38:31    MP durdurulamaz !
+Sebep : DP-BV ya da BK-KV açýk, RP çalýþýyor  olabilir.
+
+31.01.2017 / 11:38:33  -Kelebek vana kapatýldý.
+31.01.2017 / 11:38:40  -K-VKV açýldý.
+31.01.2017 / 11:38:43  -K-VKV açýldý.
+
+***** ERROR  31.01.2017 / 11:38:43    MP çalýþmasý ile ilgili sorun tespit edildi (Kod 3).
+
+31.01.2017 / 11:38:43  -MP'ye dur komutu gönderildi.
+31.01.2017 / 11:38:47  -K-VKV kapatýldý.
+31.01.2017 / 11:38:47  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:38:47  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:38:48  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:39:29  -K-VKV açýldý.
+31.01.2017 / 11:39:59  -K-ATM açýldý.
+31.01.2017 / 11:40:02  -K-VKV kapatýldý.
+31.01.2017 / 11:40:26  -AH-ATM açýldý.
+31.01.2017 / 11:40:30  -AH-VKV kapatýldý.
+31.01.2017 / 11:40:48  -AH-VKV kapatýldý.

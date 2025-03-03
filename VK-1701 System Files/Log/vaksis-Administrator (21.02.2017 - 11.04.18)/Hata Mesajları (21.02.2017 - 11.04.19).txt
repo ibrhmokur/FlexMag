@@ -1,0 +1,6 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:04:19
+
+21.02.2017 / 11:20:14   N2 gaz akýþý yok ! Lütfen N2 Regülatör vanasýnýn açýk olduðundan emin olunuz.
+21.02.2017 / 11:20:14   N2 gaz akýþý yok ! Lütfen N2 Regülatör vanasýnýn açýk olduðundan emin olunuz.
+21.02.2017 / 12:18:09   MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.

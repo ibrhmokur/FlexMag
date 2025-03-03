@@ -1,0 +1,26 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:27:01
+                                                      
+2.02.2017 / 11:27:20  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+2.02.2017 / 11:27:23  -2. Bölge Isýtýcýsý sýfýra set edildi.
+2.02.2017 / 11:27:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+2.02.2017 / 11:27:42  -Alt Hat atmosfer basýncýna ulaþtý.
+2.02.2017 / 11:27:49  -AH-ATM kapatýldý.
+2.02.2017 / 11:27:59  -Kelebek vana ara pozisyona alýndý.
+2.02.2017 / 11:28:24  -Kelebek vana açýldý.
+2.02.2017 / 11:28:29  -K-ATM kapatýldý.
+2.02.2017 / 11:28:32  -MP'ye çalýþ komutu gönderildi.
+2.02.2017 / 11:28:33  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+2.02.2017 / 11:33:49  -RP'ye çalýþ komutu gönderildi.
+2.02.2017 / 11:33:50  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+2.02.2017 / 11:34:28  -BBÖ-BV açýldý.
+2.02.2017 / 11:34:38  -Kelebek vana ara pozisyona alýndý.
+2.02.2017 / 11:35:04  -Kelebek vana kapatýldý.
+2.02.2017 / 11:35:13  -DP-BV açýldý.
+2.02.2017 / 11:35:17  -DP'ye çalýþ komutu gönderildi.
+2.02.2017 / 11:35:20  -DP'nin ýsýnmasý bekleniyor.
+2.02.2017 / 11:55:07  -Ana vana açýldý.
+2.02.2017 / 11:55:07  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+2.02.2017 / 12:09:10  -Ýstenilen basýnç seviyesine geldi.
+2.02.2017 / 12:09:17  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+2.02.2017 / 12:09:20  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

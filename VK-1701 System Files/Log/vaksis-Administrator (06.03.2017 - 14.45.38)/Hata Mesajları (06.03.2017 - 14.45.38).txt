@@ -1,0 +1,3 @@
+Hata Mesajlarý -  vaksis-Administrator  / 14:45:38
+6.03.2017 / 14:46:19   AV açýlamaz !
+Sebep : MP, RP veya DP çalýþmýyor ya da DP-BV açýk yada kazan basýncý 1 Torr'un üzerinde olabilir.

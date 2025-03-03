@@ -1,0 +1,108 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:59:22
+28.02.2017 / 13:59:24  -Kelebek vana kapatýldý.
+28.02.2017 / 13:59:46  -Kelebek vana kapatýldý.
+
+***** ERROR  28.02.2017 / 13:59:46    N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+28.02.2017 / 14:00:10  -Kelebek vana kapatýldý.
+28.02.2017 / 14:00:13  -Kelebek vana kapatýldý.
+
+***** ERROR  28.02.2017 / 14:00:13    N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+28.02.2017 / 14:00:37  -Kelebek vana kapatýldý.
+28.02.2017 / 14:00:49  -Kelebek vana ara pozisyona alýndý.
+28.02.2017 / 14:01:15  -Kelebek vana açýldý.
+28.02.2017 / 14:01:23  -AH-ATM kapatýldý.
+28.02.2017 / 14:01:34  -AH-ATM kapatýldý.
+
+***** ERROR  28.02.2017 / 14:01:34    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+28.02.2017 / 14:01:37  -AH-ATM kapatýldý.
+
+***** ERROR  28.02.2017 / 14:01:37    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+28.02.2017 / 14:04:22  -AH-ATM kapatýldý.
+
+***** ERROR  28.02.2017 / 14:04:22    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+28.02.2017 / 14:04:26  -AH-ATM kapatýldý.
+28.02.2017 / 14:04:33  -RP'ye çalýþ komutu gönderildi.
+28.02.2017 / 14:10:48  -Kelebek vana ara pozisyona alýndý.
+28.02.2017 / 14:10:55  -RP'ye dur komutu gönderildi.
+28.02.2017 / 14:11:14  -Kelebek vana kapatýldý.
+28.02.2017 / 14:11:18  -MP'ye dur komutu gönderildi.
+28.02.2017 / 14:11:20  -AH-VKV açýldý.
+28.02.2017 / 14:13:01  -AH-ATM açýldý.
+28.02.2017 / 14:13:04  -AH-VKV kapatýldý.
+28.02.2017 / 14:26:18  -AH-VKV kapatýldý.
+
+***** ERROR  28.02.2017 / 14:26:18    1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+28.02.2017 / 14:26:19  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:26:20  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:26:20  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:26:55  -K-VKV açýldý.
+28.02.2017 / 14:27:21  -K-VKV açýldý.
+28.02.2017 / 14:29:36  -K-ATM açýldý.
+28.02.2017 / 14:29:38  -K-VKV kapatýldý.
+28.02.2017 / 14:31:30  -K-VKV kapatýldý.
+
+***** ERROR  28.02.2017 / 14:31:30    1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+28.02.2017 / 14:31:32  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:31:32  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:31:33  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:32:09  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:39:48  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 14:39:48    Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 14:39:49  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:39:50  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:39:50  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:41:34  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:48:27  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 14:48:27    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+28.02.2017 / 14:48:30  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:48:50  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 14:48:50    Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+
+28.02.2017 / 14:54:38  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 14:54:38    Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 14:54:38  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:54:39  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:54:39  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:54:40  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:54:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 14:54:43  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 15:19:47  -1. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 15:19:47    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+28.02.2017 / 15:44:29  -1. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 15:44:29    N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+28.02.2017 / 15:50:08  -1. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 15:50:08    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+

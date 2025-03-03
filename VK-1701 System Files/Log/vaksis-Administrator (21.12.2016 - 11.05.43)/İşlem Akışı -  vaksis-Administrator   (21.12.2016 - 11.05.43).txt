@@ -1,0 +1,6 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:05:43
+21.12.2016 / 11:05  -Kelebek vana kapatýldý.
+
+***** ERROR  21.12.2016 / 11:05    GaV-Ortak kapatýlamaz !
+Sebep :  HATA KOD 16 !
+

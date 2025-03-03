@@ -1,0 +1,81 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:27:56
+1.03.2017 / 09:27:58  -Kelebek vana kapatýldý.
+1.03.2017 / 09:27:59  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 09:28:05  -Kelebek vana açýldý.
+1.03.2017 / 09:28:09  -Kelebek vana açýldý.
+
+***** ERROR  1.03.2017 / 09:28:09    BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+
+1.03.2017 / 09:28:10  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 09:28:10  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 09:28:14  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 09:28:18  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 09:28:45  -Kelebek vana kapatýldý.
+1.03.2017 / 09:29:38  -Kelebek vana kapatýldý.
+
+***** ERROR  1.03.2017 / 09:29:38    BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+
+1.03.2017 / 09:29:42  -Kelebek vana kapatýldý.
+1.03.2017 / 09:29:49  -MP'ye çalýþ komutu gönderildi.
+1.03.2017 / 09:30:46  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 09:31:12  -Kelebek vana açýldý.
+1.03.2017 / 09:33:32  -RP'ye çalýþ komutu gönderildi.
+1.03.2017 / 09:33:34  -BBÖ-BV açýldý.
+1.03.2017 / 09:37:55  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 09:38:21  -Kelebek vana kapatýldý.
+1.03.2017 / 09:38:27  -RP'ye dur komutu gönderildi.
+1.03.2017 / 09:38:33  -MP'ye dur komutu gönderildi.
+1.03.2017 / 09:38:36  -AH-VKV açýldý.
+1.03.2017 / 09:40:19  -AH-ATM açýldý.
+1.03.2017 / 09:40:21  -AH-VKV kapatýldý.
+1.03.2017 / 09:42:16  -AH-ATM kapatýldý.
+1.03.2017 / 09:42:50  -MP'ye çalýþ komutu gönderildi.
+1.03.2017 / 09:44:28  -RP'ye çalýþ komutu gönderildi.
+1.03.2017 / 09:44:37  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 09:45:03  -Kelebek vana açýldý.
+1.03.2017 / 09:45:57  -Ortak gaz vanasý açýldý.
+1.03.2017 / 09:46:04  -Ar gaz vanasý açýldý.
+1.03.2017 / 09:46:07  -Hidrojen gaz vanasý açýldý.
+1.03.2017 / 09:46:12  -Azot (Purge) gaz vanasý açýldý.
+1.03.2017 / 09:46:17  -Azot (Purge) gaz vanasý kapatýldý.
+1.03.2017 / 09:46:27  -Azot (Purge) gaz vanasý açýldý.
+1.03.2017 / 09:46:57  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 09:49:13  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 09:49:19  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 09:49:24  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  1.03.2017 / 09:49:24    Ar gaz akýþý yok !
+Lütfen Ar Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+1.03.2017 / 09:49:50  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 09:50:37  -Hidrojenn gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 09:59:47  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:02:20  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:03:12  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:03:26  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:04:15  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:05:32  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:05:40  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+1.03.2017 / 10:06:22  -Su akýþ vanasý açýldý.
+1.03.2017 / 10:06:36  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 10:06:37  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 10:06:37  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 10:06:55  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  1.03.2017 / 10:06:55    1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+1.03.2017 / 10:06:57  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:06:57  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:06:57  -BBÖ-BV kapatýldý.
+1.03.2017 / 10:06:57  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:07:00  -Hidrojen gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:07:00  -Hidrojen gaz vanasý kapatýldý.
+1.03.2017 / 10:07:04  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 10:07:06  -Ar gaz vanasý kapatýldý.
+1.03.2017 / 10:07:08  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:07:13  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:07:21  -Ortak gaz vanasý kapatýldý.
+1.03.2017 / 10:07:30  -Kelebek vana kapatýldý.
+1.03.2017 / 10:07:51  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.

@@ -1,0 +1,50 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:34:05
+9.02.2017 / 09:35:01  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:35:02  -Isýtýcý istenilen deðere set edildi.
+9.02.2017 / 09:35:03  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:35:04  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:40:04  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:40:05  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:40:06  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:45:10  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:45:11  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:45:12  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:50:02  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:50:04  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:50:06  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:55:06  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:55:08  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 09:55:09  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:00:16  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:00:17  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:00:21  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:15:04  -1. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 10:15:05  -2. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 10:15:06  -3. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 10:15:07  -Isýtýcý sýfýra set edildi.
+9.02.2017 / 10:15:28  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:15:29  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:15:29  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:15:36  -Isýtýcý istenilen deðere set edildi.
+9.02.2017 / 10:51:40  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:51:40  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 10:51:41  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 11:06:09  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 11:06:10  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 11:06:12  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 11:08:12  -Ortak gaz vanasý açýldý.
+9.02.2017 / 11:08:15  -Ar gaz vanasý açýldý.
+9.02.2017 / 11:08:18  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+9.02.2017 / 11:08:21  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+9.02.2017 / 11:08:39  -Ana vana kapatýldý.
+9.02.2017 / 11:08:50  -DP'ye dur komutu gönderildi.
+9.02.2017 / 12:00:27  -DP-BV kapatýldý.
+9.02.2017 / 12:00:30  -RP'ye dur komutu gönderildi.
+9.02.2017 / 12:00:36  -MP'ye dur komutu gönderildi.
+9.02.2017 / 12:00:39  -AH-VKV açýldý.
+9.02.2017 / 12:02:23  -AH-ATM açýldý.
+9.02.2017 / 12:02:25  -AH-VKV kapatýldý.
+9.02.2017 / 12:02:38  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+9.02.2017 / 12:02:44  -Ar gaz vanasý kapatýldý.
+9.02.2017 / 12:02:49  -Ortak gaz vanasý kapatýldý.
+9.02.2017 / 12:02:53  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.

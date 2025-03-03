@@ -1,0 +1,16 @@
+Hata Mesajlarý -  vaksis-Administrator  / 13:54:35
+
+31.01.2017 / 14:14:28   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+31.01.2017 / 14:14:28   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+31.01.2017 / 14:14:32   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+31.01.2017 / 14:14:28   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+31.01.2017 / 14:14:32   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+31.01.2017 / 15:35:38   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+31.01.2017 / 14:14:28   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+31.01.2017 / 14:14:32   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+31.01.2017 / 15:35:38   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+31.01.2017 / 15:36:50   Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)

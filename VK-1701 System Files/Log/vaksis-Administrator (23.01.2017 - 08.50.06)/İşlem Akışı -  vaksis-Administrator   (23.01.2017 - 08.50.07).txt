@@ -1,0 +1,13 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:50:07
+23.01.2017 / 08:50:08  -Kelebek vana kapatýldý.
+23.01.2017 / 08:50:10  -Kelebek vana kapatýldý.
+
+***** ERROR  23.01.2017 / 08:50:10    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+23.01.2017 / 08:50:25  -Kelebek vana kapatýldý.
+
+***** ERROR  23.01.2017 / 08:50:25    DP-BV açýlamaz !
+Sebep : HATA KOD 5 !
+
+23.01.2017 / 08:50:25  -Su akýþ vanasý açýldý.

@@ -1,0 +1,70 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:41:06
+9.02.2017 / 13:41:08  -Kelebek vana kapatýldý.
+9.02.2017 / 13:41:18  -Kelebek vana kapatýldý.
+
+***** ERROR  9.02.2017 / 13:41:18    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+9.02.2017 / 13:41:21  -Kelebek vana kapatýldý.
+9.02.2017 / 13:44:00  -1. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 13:44:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+9.02.2017 / 13:44:06  -1. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 14:09:55  -K-VKV açýldý.
+9.02.2017 / 14:11:39  -K-ATM açýldý.
+9.02.2017 / 14:11:41  -K-VKV kapatýldý.
+9.02.2017 / 15:07:40  -Su akýþ vanasý açýldý.
+                                                      
+9.02.2017 / 15:07:56  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+9.02.2017 / 15:07:59  -1. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:07:59  -2. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:08:01  -3. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:08:18  -Alt Hat atmosfer basýncýna ulaþtý.
+9.02.2017 / 15:08:25  -AH-ATM kapatýldý.
+9.02.2017 / 15:08:34  -Kelebek vana ara pozisyona alýndý.
+9.02.2017 / 15:08:59  -Kelebek vana açýldý.
+9.02.2017 / 15:09:03  -K-ATM kapatýldý.
+9.02.2017 / 15:09:06  -MP'ye çalýþ komutu gönderildi.
+9.02.2017 / 15:09:07  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+9.02.2017 / 15:09:43  -Su akýþ vanasý kapatýldý.
+9.02.2017 / 15:14:09  -RP'ye çalýþ komutu gönderildi.
+9.02.2017 / 15:14:10  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+9.02.2017 / 15:14:47  -BBÖ-BV açýldý.
+9.02.2017 / 15:14:57  -Kelebek vana ara pozisyona alýndý.
+9.02.2017 / 15:15:22  -Kelebek vana kapatýldý.
+9.02.2017 / 15:15:31  -DP-BV açýldý.
+9.02.2017 / 15:15:35  -DP'ye çalýþ komutu gönderildi.
+9.02.2017 / 15:33:02  -Su akýþ vanasý açýldý.
+9.02.2017 / 15:33:32  -Su akýþ vanasý kapatýldý.
+9.02.2017 / 15:34:33  -Su akýþ vanasý açýldý.
+9.02.2017 / 15:35:36  -Su akýþ vanasý açýldý.
+
+***** ERROR  9.02.2017 / 15:35:36    Sistemi vakuma alma iþlemi  
+DP baþlatýlamadýðý için durduruldu !
+Lütfen baðlantýlarý kontrol ediniz.
+
+9.02.2017 / 15:35:39  -DP'ye dur komutu gönderildi.
+9.02.2017 / 15:35:40  -2. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:35:41  -3. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:35:42  -RP'ye dur komutu gönderildi.
+9.02.2017 / 15:35:42  -1. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:35:43  -BBÖ-BV kapatýldý.
+9.02.2017 / 15:35:44  -2. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:35:54  -2. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:36:10  -DP-BV kapatýldý.
+                                                      
+9.02.2017 / 15:36:12  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+9.02.2017 / 15:36:15  -2. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:36:17  -3. Bölge Isýtýcýsý sýfýra set edildi.
+9.02.2017 / 15:36:29  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+9.02.2017 / 15:36:33  -RP'ye çalýþ komutu gönderildi.
+9.02.2017 / 15:36:33  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+9.02.2017 / 15:36:42  -DP-BV açýldý.
+9.02.2017 / 15:36:45  -DP'ye çalýþ komutu gönderildi.
+9.02.2017 / 15:36:48  -DP'nin ýsýnmasý bekleniyor.
+9.02.2017 / 15:52:37  -BBÖ-BV açýldý.
+9.02.2017 / 15:52:55  -Ana vana açýldý.
+9.02.2017 / 15:52:56  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+9.02.2017 / 16:00:05  -Ýstenilen basýnç seviyesine geldi.
+9.02.2017 / 16:00:13  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+9.02.2017 / 16:00:15  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

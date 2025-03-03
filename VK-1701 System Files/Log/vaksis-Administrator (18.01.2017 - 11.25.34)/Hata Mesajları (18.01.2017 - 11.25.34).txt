@@ -1,0 +1,5 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:25:34
+
+18.01.2017 / 11:26   Sistemi durdurma iþlemi  
+AV kapatýlamadýðý için durduruldu !
+Lütfen baðlantýlarý kontrol ediniz.

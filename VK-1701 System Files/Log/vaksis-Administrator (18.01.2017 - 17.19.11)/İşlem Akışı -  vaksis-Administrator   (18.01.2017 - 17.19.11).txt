@@ -1,0 +1,12 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:19:11
+           -Kelebek vana kapatýldý.
+18.01.2017 / 17:20  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 17:20  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 17:20  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 17:20  -Alt Hat basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 17:20  -DP'nin ýsýnmasý bekleniyor.
+18.01.2017 / 17:20  -Ýstenilen basýnç seviyesine geldi.
+18.01.2017 / 17:20  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+18.01.2017 / 17:20                                             
+18.01.2017 / 17:20  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

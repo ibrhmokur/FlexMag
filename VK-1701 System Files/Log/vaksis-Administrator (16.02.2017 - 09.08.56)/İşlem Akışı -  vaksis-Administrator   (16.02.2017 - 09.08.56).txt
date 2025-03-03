@@ -1,0 +1,29 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:08:56
+16.02.2017 / 09:08:58  -Kelebek vana kapatýldý.
+16.02.2017 / 09:09:32  -Su akýþ vanasý açýldý.
+                                                      
+16.02.2017 / 09:09:43  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+16.02.2017 / 09:09:45  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:09:46  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:09:48  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:10:04  -Alt Hat atmosfer basýncýna ulaþtý.
+16.02.2017 / 09:10:11  -AH-ATM kapatýldý.
+16.02.2017 / 09:10:21  -Kelebek vana ara pozisyona alýndý.
+16.02.2017 / 09:10:47  -Kelebek vana açýldý.
+16.02.2017 / 09:10:52  -K-ATM kapatýldý.
+16.02.2017 / 09:10:55  -K-ATM kapatýldý.
+
+***** ERROR  16.02.2017 / 09:10:55    BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+
+16.02.2017 / 09:10:55  -MP'ye çalýþ komutu gönderildi.
+16.02.2017 / 09:10:59  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:11:00  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:11:00  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:11:04  -Kelebek vana ara pozisyona alýndý.
+16.02.2017 / 09:11:05  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:11:30  -Kelebek vana kapatýldý.
+16.02.2017 / 09:11:59  -MP'ye dur komutu gönderildi.
+16.02.2017 / 09:12:02  -K-VKV açýldý.
+16.02.2017 / 09:12:03  -K-VKV açýldý.
+16.02.2017 / 09:12:44  -K-ATM açýldý.
+16.02.2017 / 09:12:46  -K-VKV kapatýldý.

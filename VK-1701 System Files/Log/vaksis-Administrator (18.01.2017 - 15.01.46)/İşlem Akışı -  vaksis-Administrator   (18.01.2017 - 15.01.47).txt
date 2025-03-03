@@ -1,0 +1,60 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:01:47
+           -Kelebek vana kapatýldý.
+                                                      
+18.01.2017 / 15:06                                             
+18.01.2017 / 15:07  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  18.01.2017 / 15:07    Sistemi vakuma alma iþlemi 
+AH-ATM kapatýlamadýðý  için iptal edildi !
+Lütfen baðlantýlarý kontrol ediniz.
+
+18.01.2017 / 15:07  -PL-ATM kapatýldý.
+18.01.2017 / 15:08  -AH-VKV kapatýldý.
+18.01.2017 / 15:08  -AH-VKV açýldý.
+           -AH-VKV kapatýldý.
+                                                      
+18.01.2017 / 15:08                                             
+18.01.2017 / 15:08  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 15:08  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:08  -K-ATM kapatýldý.
+
+***** ERROR  18.01.2017 / 15:08    BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+
+18.01.2017 / 15:09  -K-ATM kapatýldý.
+18.01.2017 / 15:09  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:10  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:11  -Isýtýcý sýfýra set edildi.
+           -K-ATM açýldý.
+18.01.2017 / 15:11                                             
+18.01.2017 / 15:11  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 15:11  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:11  -K-ATM kapatýldý.
+
+***** ERROR  18.01.2017 / 15:11    BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+
+18.01.2017 / 15:11  -Isýtýcý sýfýra set edildi.
+                                                      
+18.01.2017 / 15:12                                             
+18.01.2017 / 15:12  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 15:12  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:13  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:13  -Kelebek vana ara pozisyona alýndý.
+18.01.2017 / 15:13  -Kelebek vana açýldý.
+18.01.2017 / 15:13  -MP'ye çalýþ komutu gönderildi.
+18.01.2017 / 15:13  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 15:18  -RP'ye çalýþ komutu gönderildi.
+18.01.2017 / 15:18  -Kazan basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 15:19  -Kazan basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 15:20  -Kelebek vana ara pozisyona alýndý.
+18.01.2017 / 15:20  -DP-BV açýldý.
+18.01.2017 / 15:22  -DP-BV açýldý.
+
+***** ERROR  18.01.2017 / 15:22    Sistemi vakuma alma iþlemi  
+DP baþlatýlamadýðý için durduruldu !
+Lütfen baðlantýlarý kontrol ediniz.
+
+18.01.2017 / 15:22  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:22  -RP'ye dur komutu gönderildi.
+18.01.2017 / 15:23  -DP-BV kapatýldý.

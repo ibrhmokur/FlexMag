@@ -1,0 +1,4 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:31:40
+
+19.01.2017 / 11:32:06   MP durdurulamaz !
+Sebep : DP-BV ya da BK-KV açýk, RP çalýþýyor  olabilir.

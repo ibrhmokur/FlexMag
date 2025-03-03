@@ -1,0 +1,15 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:17:31
+19.01.2017 / 11:17:32  -Kelebek vana kapatýldý.
+19.01.2017 / 11:17:53  -AH-ATM açýldý.
+19.01.2017 / 11:18:05  -AH-ATM kapatýldý.
+19.01.2017 / 11:18:06  -MP'ye çalýþ komutu gönderildi.
+19.01.2017 / 11:18:10  -MP'ye çalýþ komutu gönderildi.
+
+***** ERROR  19.01.2017 / 11:18:10    BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+
+19.01.2017 / 11:18:15  -MP'ye dur komutu gönderildi.
+19.01.2017 / 11:18:18  -AH-VKV açýldý.
+19.01.2017 / 11:19:26  -AH-VKV açýldý.
+19.01.2017 / 11:20:01  -AH-ATM açýldý.
+19.01.2017 / 11:20:04  -AH-VKV kapatýldý.

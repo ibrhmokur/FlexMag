@@ -1,0 +1,69 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:10:44
+6.02.2017 / 08:10:45  -Kelebek vana kapatýldý.
+6.02.2017 / 08:10:47  -AH-ATM açýldý.
+                                                      
+6.02.2017 / 08:13:24  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+6.02.2017 / 08:13:29  -2. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 08:13:31  -3. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 08:13:40  -DP'nin soðumasý bekleniyor.
+6.02.2017 / 08:13:48  -K-VKV açýldý.
+6.02.2017 / 08:13:48  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+6.02.2017 / 08:16:38  -K-ATM açýldý.
+6.02.2017 / 08:16:40  -K-VKV kapatýldý.
+6.02.2017 / 08:16:41  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+6.02.2017 / 08:16:41  -Alt Hat atmosfer basýncýna ulaþtý.
+6.02.2017 / 08:16:45  -Durdurma iþlemi tamamlandý
+                                                      
+6.02.2017 / 08:16:48  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+6.02.2017 / 08:24:56  -Su akýþ vanasý kapatýldý.
+6.02.2017 / 13:40:44  -1. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 13:40:44  -2. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 13:40:45  -3. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 13:40:48  -2. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 14:59:32  -Su akýþ vanasý açýldý.
+6.02.2017 / 14:59:49  -Kelebek vana ara pozisyona alýndý.
+6.02.2017 / 15:00:15  -Kelebek vana açýldý.
+6.02.2017 / 15:02:19  -AH-ATM kapatýldý.
+6.02.2017 / 15:02:51  -RP'ye çalýþ komutu gönderildi.
+6.02.2017 / 15:28:14  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  6.02.2017 / 15:28:14    MP durdurulamaz !
+Sebep : DP-BV ya da BK-KV açýk, RP çalýþýyor  olabilir.
+
+6.02.2017 / 15:28:21  -Kelebek vana ara pozisyona alýndý.
+6.02.2017 / 15:28:23  -Kelebek vana ara pozisyona alýndý.
+6.02.2017 / 15:28:46  -Kelebek vana kapatýldý.
+6.02.2017 / 15:29:57  -RP'ye dur komutu gönderildi.
+6.02.2017 / 15:30:02  -MP'ye dur komutu gönderildi.
+6.02.2017 / 15:30:05  -AH-VKV açýldý.
+6.02.2017 / 15:31:44  -AH-ATM açýldý.
+6.02.2017 / 15:31:47  -AH-VKV kapatýldý.
+6.02.2017 / 15:34:22  -K-ATM açýldý.
+6.02.2017 / 15:34:24  -K-VKV kapatýldý.
+                                                      
+6.02.2017 / 16:08:00  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+6.02.2017 / 16:08:03  -1. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 16:08:03  -2. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 16:08:05  -3. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 16:08:21  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+6.02.2017 / 16:08:22  -Alt Hat atmosfer basýncýna ulaþtý.
+6.02.2017 / 16:08:28  -AH-ATM kapatýldý.
+6.02.2017 / 16:08:38  -Kelebek vana ara pozisyona alýndý.
+6.02.2017 / 16:09:04  -Kelebek vana açýldý.
+6.02.2017 / 16:09:08  -K-ATM kapatýldý.
+6.02.2017 / 16:09:11  -MP'ye çalýþ komutu gönderildi.
+6.02.2017 / 16:09:12  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+6.02.2017 / 16:14:24  -RP'ye çalýþ komutu gönderildi.
+6.02.2017 / 16:14:24  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+6.02.2017 / 16:15:02  -BBÖ-BV açýldý.
+6.02.2017 / 16:15:12  -Kelebek vana ara pozisyona alýndý.
+6.02.2017 / 16:15:38  -Kelebek vana kapatýldý.
+6.02.2017 / 16:15:47  -DP-BV açýldý.
+6.02.2017 / 16:15:50  -DP'ye çalýþ komutu gönderildi.
+6.02.2017 / 16:17:20  -DP'nin ýsýnmasý bekleniyor.
+6.02.2017 / 16:35:16  -Ana vana açýldý.
+6.02.2017 / 16:35:17  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+6.02.2017 / 16:45:52  -Ýstenilen basýnç seviyesine geldi.
+6.02.2017 / 16:46:00  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+6.02.2017 / 16:46:02  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

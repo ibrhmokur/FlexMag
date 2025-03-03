@@ -1,0 +1,116 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:20:28
+28.02.2017 / 10:20:30  -Kelebek vana kapatýldý.
+28.02.2017 / 10:36:02  -Ana vana kapatýldý.
+28.02.2017 / 10:36:11  -DP'ye dur komutu gönderildi.
+28.02.2017 / 10:36:16  -DP-BV kapatýldý.
+28.02.2017 / 10:36:25  -RP'ye dur komutu gönderildi.
+28.02.2017 / 10:36:28  -Ortak gaz vanasý açýldý.
+28.02.2017 / 10:36:33  -Azot (Purge) gaz vanasý açýldý.
+28.02.2017 / 10:36:39  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+28.02.2017 / 10:38:04  -RP'ye çalýþ komutu gönderildi.
+28.02.2017 / 10:59:15  -RP'ye dur komutu gönderildi.
+28.02.2017 / 11:02:27  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+28.02.2017 / 11:02:32  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  28.02.2017 / 11:02:32    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+28.02.2017 / 11:05:17  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+28.02.2017 / 11:05:53  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+28.02.2017 / 11:09:48  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 11:09:52  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 11:09:57  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 11:10:23  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 11:10:23    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+
+***** ERROR  28.02.2017 / 11:10:23    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+28.02.2017 / 11:10:24  -Su akýþ vanasý kapatýldý.
+28.02.2017 / 11:10:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:10:24  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:10:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:10:25  -BBÖ-BV kapatýldý.
+28.02.2017 / 11:10:42  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+28.02.2017 / 11:10:47  -Azot (Purge) gaz vanasý kapatýldý.
+28.02.2017 / 11:10:49  -Ortak gaz vanasý kapatýldý.
+28.02.2017 / 11:12:31  -Su akýþ vanasý açýldý.
+28.02.2017 / 11:12:37  -Su akýþ vanasý açýldý.
+28.02.2017 / 11:12:44  -Su akýþ vanasý açýldý.
+
+***** ERROR  28.02.2017 / 11:12:44    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+28.02.2017 / 11:13:59  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:13:59  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:14:00  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:14:23  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:14:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 11:14:40    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 11:14:41  -Su akýþ vanasý kapatýldý.
+28.02.2017 / 11:14:42  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:14:42  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:14:43  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:14:53  -Su akýþ vanasý açýldý.
+28.02.2017 / 11:15:07  -Su akýþ vanasý açýldý.
+28.02.2017 / 11:16:18  -Kelebek vana ara pozisyona alýndý.
+28.02.2017 / 11:16:44  -Kelebek vana açýldý.
+28.02.2017 / 11:16:49  -BBÖ-BV açýldý.
+28.02.2017 / 11:16:57  -Ortak gaz vanasý açýldý.
+28.02.2017 / 11:17:01  -Azot (Purge) gaz vanasý açýldý.
+28.02.2017 / 11:17:11  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+28.02.2017 / 11:23:12  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 11:23:12  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 11:23:13  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 11:23:55  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 11:23:55    Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 11:23:56  -Kelebek vana kapatýldý.
+28.02.2017 / 11:23:56  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:23:57  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:23:57  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:23:57  -BBÖ-BV kapatýldý.
+28.02.2017 / 11:24:14  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+28.02.2017 / 11:24:20  -Azot (Purge) gaz vanasý kapatýldý.
+28.02.2017 / 11:24:21  -Ortak gaz vanasý kapatýldý.
+28.02.2017 / 11:25:32  -Ortak gaz vanasý kapatýldý.
+28.02.2017 / 11:26:16  -Ortak gaz vanasý kapatýldý.
+
+***** ERROR  28.02.2017 / 11:26:16    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+28.02.2017 / 11:28:04  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 11:28:15  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:38:13  -MP'ye dur komutu gönderildi.
+28.02.2017 / 11:38:15  -AH-VKV açýldý.
+28.02.2017 / 11:38:41  -K-VKV açýldý.
+28.02.2017 / 11:38:58  -BBÖ-BV açýldý.
+28.02.2017 / 11:39:04  -BBÖ-BV açýldý.
+28.02.2017 / 11:39:51  -K-VKV kapatýldý.
+28.02.2017 / 11:39:57  -AH-ATM açýldý.
+28.02.2017 / 11:40:00  -AH-VKV kapatýldý.
+28.02.2017 / 11:40:08  -Ortak gaz vanasý açýldý.
+28.02.2017 / 11:40:13  -Azot (Purge) gaz vanasý açýldý.
+28.02.2017 / 11:40:22  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+28.02.2017 / 11:48:58  -K-ATM açýldý.
+28.02.2017 / 11:48:59  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+28.02.2017 / 11:49:00  -Azot (Purge) gaz vanasý kapatýldý.
+28.02.2017 / 11:49:01  -Ortak gaz vanasý kapatýldý.
+28.02.2017 / 11:52:51  -Ortak gaz vanasý kapatýldý.
+
+***** ERROR  28.02.2017 / 11:52:51    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 11:52:51  -Su akýþ vanasý kapatýldý.
+28.02.2017 / 11:52:53  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:52:53  -BBÖ-BV kapatýldý.
+28.02.2017 / 11:52:53  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:52:56  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 11:54:49  -3. Bölge Isýtýcýsý sýfýra set edildi.

@@ -1,0 +1,7 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 16:24:45
+9.02.2017 / 16:24:47  -Kelebek vana kapatýldý.
+9.02.2017 / 16:24:48  -BBÖ-BV açýldý.
+9.02.2017 / 16:24:50  -BBÖ-BV açýldý.
+
+***** ERROR  9.02.2017 / 16:24:50    AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+

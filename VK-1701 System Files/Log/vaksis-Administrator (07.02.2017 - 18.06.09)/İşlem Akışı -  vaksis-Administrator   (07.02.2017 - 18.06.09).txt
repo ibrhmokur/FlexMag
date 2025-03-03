@@ -1,0 +1,27 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 18:06:09
+7.02.2017 / 18:06:11  -Kelebek vana kapatýldý.
+7.02.2017 / 18:06:43  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+7.02.2017 / 18:06:52  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+7.02.2017 / 18:07:22  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+7.02.2017 / 18:07:37  -Ar gaz vanasý kapatýldý.
+7.02.2017 / 18:07:41  -Ortak gaz vanasý kapatýldý.
+7.02.2017 / 18:08:31  -Kelebek vana ara pozisyona alýndý.
+7.02.2017 / 18:08:56  -Kelebek vana açýldý.
+7.02.2017 / 18:09:08  -AH-ATM kapatýldý.
+7.02.2017 / 18:12:05  -RP'ye çalýþ komutu gönderildi.
+7.02.2017 / 18:16:13  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  7.02.2017 / 18:16:13    GaV-Ar açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+
+7.02.2017 / 18:16:15  -Ortak gaz vanasý açýldý.
+7.02.2017 / 18:16:17  -Ortak gaz vanasý açýldý.
+7.02.2017 / 18:16:19  -Ar gaz vanasý açýldý.
+7.02.2017 / 18:16:33  -BBÖ-BV kapatýldý.
+7.02.2017 / 18:21:41  -Ortak gaz vanasý kapatýldý.
+7.02.2017 / 18:21:42  -Ar gaz vanasý kapatýldý.
+7.02.2017 / 18:21:50  -Kelebek vana ara pozisyona alýndý.
+7.02.2017 / 18:22:16  -Kelebek vana kapatýldý.
+7.02.2017 / 18:22:38  -RP'ye dur komutu gönderildi.
+7.02.2017 / 18:22:43  -MP'ye dur komutu gönderildi.
+7.02.2017 / 18:22:46  -AH-VKV açýldý.

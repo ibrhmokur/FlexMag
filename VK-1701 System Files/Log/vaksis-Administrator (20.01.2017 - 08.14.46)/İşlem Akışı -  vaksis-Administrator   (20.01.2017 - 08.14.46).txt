@@ -1,0 +1,4 @@
+İşlem Akışı -  vaksis-Administrator  / 08:14:46
+20.01.2017 / 08:23:56  -Su akış vanası kapatıldı.
+20.01.2017 / 08:24:00  -Su akış vanası açıldı.
+20.01.2017 / 08:24:03  -Su akış vanası kapatıldı.

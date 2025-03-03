@@ -1,0 +1,6 @@
+Hata Mesajlarý -  vaksis-Administrator  / 07:56:40
+27.02.2017 / 07:56:44   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+27.02.2017 / 08:16:08   DP-BV çalýþmasý ile ilgili sorun tespit edildi (Kod 1).
+27.02.2017 / 07:56:44   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.

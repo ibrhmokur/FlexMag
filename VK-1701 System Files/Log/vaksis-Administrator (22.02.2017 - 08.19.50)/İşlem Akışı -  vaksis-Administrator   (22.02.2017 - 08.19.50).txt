@@ -1,0 +1,129 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:19:50
+22.02.2017 / 08:19:52  -Kelebek vana kapatýldý.
+22.02.2017 / 08:19:54  -AH-ATM açýldý.
+22.02.2017 / 08:25:58                                             
+22.02.2017 / 08:25:59  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+22.02.2017 / 08:26:02  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 08:26:04  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 08:26:14  -DP'nin soðumasý bekleniyor.
+22.02.2017 / 08:26:22  -K-VKV açýldý.
+22.02.2017 / 08:26:23  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+22.02.2017 / 08:29:01  -K-ATM açýldý.
+22.02.2017 / 08:29:03  -K-VKV kapatýldý.
+22.02.2017 / 08:29:04  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+22.02.2017 / 08:29:05  -Alt Hat atmosfer basýncýna ulaþtý.
+22.02.2017 / 08:29:08  -Durdurma iþlemi tamamlandý
+                                                      
+22.02.2017 / 08:29:11  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+22.02.2017 / 09:42:27  -Su akýþ vanasý açýldý.
+22.02.2017 / 09:42:51  -Su akýþ vanasý açýldý.
+
+***** ERROR  22.02.2017 / 09:42:51    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+22.02.2017 / 09:42:52  -Su akýþ vanasý kapatýldý.
+22.02.2017 / 09:42:53  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 09:42:53  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 09:42:53  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 09:42:54  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 09:43:09  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 09:44:29  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 09:44:55  -Kelebek vana açýldý.
+22.02.2017 / 09:45:11  -AH-ATM kapatýldý.
+22.02.2017 / 09:49:05  -RP'ye çalýþ komutu gönderildi.
+22.02.2017 / 09:53:32  -Ortak gaz vanasý açýldý.
+22.02.2017 / 09:54:07  -Azot (Purge) gaz vanasý açýldý.
+22.02.2017 / 09:54:17  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 09:54:25  -BBÖ-BV açýldý.
+22.02.2017 / 10:02:59  -RP'ye dur komutu gönderildi.
+22.02.2017 / 10:41:15  -RP'ye çalýþ komutu gönderildi.
+22.02.2017 / 10:43:36  -RP'ye dur komutu gönderildi.
+22.02.2017 / 11:06:52  -RP'ye çalýþ komutu gönderildi.
+22.02.2017 / 11:19:45  -RP'ye dur komutu gönderildi.
+22.02.2017 / 11:27:32  -K-VKV açýldý.
+22.02.2017 / 11:27:34  -K-VKV kapatýldý.
+22.02.2017 / 11:27:47  -K-VKV açýldý.
+22.02.2017 / 11:27:49  -K-VKV kapatýldý.
+22.02.2017 / 11:28:05  -K-VKV açýldý.
+22.02.2017 / 11:28:10  -K-VKV açýldý.
+
+***** ERROR  22.02.2017 / 11:28:10    K-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 4).
+
+22.02.2017 / 11:28:11  -Kelebek vana kapatýldý.
+22.02.2017 / 11:28:12  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:28:12  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:28:12  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:28:12  -BBÖ-BV kapatýldý.
+22.02.2017 / 11:28:12  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:28:15  -K-VKV kapatýldý.
+22.02.2017 / 11:28:21  -K-VKV kapatýldý.
+22.02.2017 / 11:28:29  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 11:28:42  -Azot (Purge) gaz vanasý kapatýldý.
+22.02.2017 / 11:28:45  -Ortak gaz vanasý kapatýldý.
+22.02.2017 / 11:28:54  -Ortak gaz vanasý açýldý.
+22.02.2017 / 11:28:55  -Ortak gaz vanasý açýldý.
+
+***** ERROR  22.02.2017 / 11:28:55    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+22.02.2017 / 11:28:56  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 11:28:57  -Azot (Purge) gaz vanasý açýldý.
+22.02.2017 / 11:29:03  -Azot (Purge) gaz vanasý açýldý.
+22.02.2017 / 11:29:41  -K-VKV açýldý.
+22.02.2017 / 11:29:50  -K-VKV kapatýldý.
+22.02.2017 / 11:29:52  -BBÖ-BV açýldý.
+22.02.2017 / 11:30:00  -K-VKV açýldý.
+22.02.2017 / 11:30:36  -K-VKV kapatýldý.
+22.02.2017 / 11:30:37  -K-VKV açýldý.
+22.02.2017 / 11:30:46  -K-VKV kapatýldý.
+22.02.2017 / 11:31:07  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 11:31:18  -K-VKV kapatýldý.
+22.02.2017 / 11:31:19  -K-VKV açýldý.
+22.02.2017 / 11:31:32  -K-VKV kapatýldý.
+22.02.2017 / 11:31:46  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 11:37:25  -K-VKV açýldý.
+22.02.2017 / 11:37:27  -K-VKV kapatýldý.
+22.02.2017 / 11:37:28  -K-VKV açýldý.
+22.02.2017 / 11:37:30  -K-VKV kapatýldý.
+22.02.2017 / 11:37:33  -K-VKV açýldý.
+22.02.2017 / 11:37:34  -K-VKV kapatýldý.
+22.02.2017 / 11:37:37  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 11:37:40  -Kelebek vana kapatýldý.
+22.02.2017 / 11:37:46  -K-VKV açýldý.
+22.02.2017 / 11:37:54  -K-VKV kapatýldý.
+22.02.2017 / 11:38:02  -K-VKV açýldý.
+22.02.2017 / 11:38:04  -K-VKV kapatýldý.
+22.02.2017 / 11:38:06  -K-VKV açýldý.
+22.02.2017 / 11:38:07  -K-VKV kapatýldý.
+22.02.2017 / 11:38:13  -K-VKV açýldý.
+22.02.2017 / 11:38:17  -K-VKV kapatýldý.
+22.02.2017 / 11:41:02  -K-ATM açýldý.
+22.02.2017 / 11:41:03  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 11:41:04  -Azot (Purge) gaz vanasý kapatýldý.
+22.02.2017 / 11:41:05  -Ortak gaz vanasý kapatýldý.
+22.02.2017 / 11:41:45  -K-ATM kapatýldý.
+22.02.2017 / 11:42:59  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 11:43:45  -Kelebek vana kapatýldý.
+22.02.2017 / 11:43:48  -Ortak gaz vanasý açýldý.
+22.02.2017 / 11:43:50  -Azot (Purge) gaz vanasý açýldý.
+22.02.2017 / 11:44:01  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 11:44:28  -K-VKV açýldý.
+22.02.2017 / 11:44:39  -K-VKV kapatýldý.
+22.02.2017 / 11:44:51  -K-VKV açýldý.
+22.02.2017 / 11:44:55  -K-VKV kapatýldý.
+22.02.2017 / 11:46:35  -K-VKV açýldý.
+22.02.2017 / 11:46:36  -K-VKV kapatýldý.
+22.02.2017 / 11:49:04  -K-ATM açýldý.
+22.02.2017 / 11:50:09  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 11:50:13  -Azot (Purge) gaz vanasý kapatýldý.
+22.02.2017 / 11:50:17  -Ortak gaz vanasý kapatýldý.
+22.02.2017 / 11:51:21  -Ortak gaz vanasý kapatýldý.
+
+***** ERROR  22.02.2017 / 11:51:21    Elektrik Yok !
+Lütfen Güvenlik Prosedürü tamamlandýktan sonra Bilgisayarýnýzý kapatýnýz !
+
+22.02.2017 / 11:51:22  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:51:22  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:51:23  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:51:24  -BBÖ-BV kapatýldý.
+22.02.2017 / 11:51:36  -MP'ye çalýþ komutu gönderildi.
+22.02.2017 / 11:52:04  -MP'ye çalýþ komutu gönderildi.

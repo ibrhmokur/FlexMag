@@ -1,0 +1,59 @@
+Hata Mesajlarý -  vaksis-Administrator  / 18:04:09
+1.03.2017 / 18:06:41   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:09:14   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 18:06:41   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:13:04   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:09:14   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 18:06:41   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:19:25   DP durdurulamaz !
+Sebep : AV açýk.
+1.03.2017 / 18:13:04   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:09:14   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 18:06:41   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:25:23   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:19:25   DP durdurulamaz !
+Sebep : AV açýk.
+1.03.2017 / 18:13:04   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:09:14   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 18:06:41   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:26:01   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:25:23   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:19:25   DP durdurulamaz !
+Sebep : AV açýk.
+1.03.2017 / 18:13:04   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:09:14   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 18:06:41   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:27:05   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:26:01   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:25:23   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:19:25   DP durdurulamaz !
+Sebep : AV açýk.
+1.03.2017 / 18:13:04   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:09:14   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 18:06:41   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:30:22   GaV-N2-PURGE açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+1.03.2017 / 18:27:05   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:26:01   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:25:23   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 18:19:25   DP durdurulamaz !
+Sebep : AV açýk.
+1.03.2017 / 18:13:04   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 18:09:14   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 18:06:41   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).

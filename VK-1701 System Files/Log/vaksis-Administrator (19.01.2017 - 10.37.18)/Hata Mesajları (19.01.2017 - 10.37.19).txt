@@ -1,0 +1,4 @@
+Hata Mesajlarý -  vaksis-Administrator  / 10:37:19
+
+19.01.2017 / 10:45:37   BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.

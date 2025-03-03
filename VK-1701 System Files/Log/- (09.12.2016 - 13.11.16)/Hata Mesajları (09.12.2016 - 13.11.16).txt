@@ -1,0 +1,49 @@
+Hata Mesajlarý -  -  / 13:11:16
+
+9.12.2016 / 13:11   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+
+9.12.2016 / 13:11   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+
+9.12.2016 / 13:11   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+
+9.12.2016 / 13:11   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+9.12.2016 / 13:11   DP-BV açýlamaz !
+Sebep : MP çalýþmýyor ya da BP-BV açýk olabilir.
+
+9.12.2016 / 13:11   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+9.12.2016 / 13:11   DP-BV açýlamaz !
+Sebep : MP çalýþmýyor ya da BP-BV açýk olabilir.
+9.12.2016 / 13:11   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+
+9.12.2016 / 13:11   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+9.12.2016 / 13:11   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+9.12.2016 / 13:11   DP-BV açýlamaz !
+Sebep : MP çalýþmýyor ya da BP-BV açýk olabilir.
+9.12.2016 / 13:11   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:12   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.

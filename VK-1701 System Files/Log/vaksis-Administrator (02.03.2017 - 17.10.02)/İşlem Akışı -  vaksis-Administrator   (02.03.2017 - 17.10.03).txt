@@ -1,0 +1,54 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:10:03
+2.03.2017 / 17:10:04  -Kelebek vana kapatýldý.
+                                                      
+2.03.2017 / 17:10:45  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+2.03.2017 / 17:10:48  -1. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:10:50  -3. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:11:01  -DP'nin soðumasý bekleniyor.
+2.03.2017 / 17:11:08  -K-VKV açýldý.
+2.03.2017 / 17:11:09  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+2.03.2017 / 17:13:23  -K-ATM açýldý.
+2.03.2017 / 17:13:25  -K-VKV kapatýldý.
+2.03.2017 / 17:13:26  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+2.03.2017 / 17:13:27  -Alt Hat atmosfer basýncýna ulaþtý.
+2.03.2017 / 17:13:30  -Durdurma iþlemi tamamlandý
+                                                      
+2.03.2017 / 17:13:33  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+2.03.2017 / 17:29:05  -AH-ATM kapatýldý.
+2.03.2017 / 17:29:06  -MP'ye çalýþ komutu gönderildi.
+2.03.2017 / 17:29:21  -RP'ye çalýþ komutu gönderildi.
+2.03.2017 / 17:30:43  -RP'ye dur komutu gönderildi.
+2.03.2017 / 17:30:49  -MP'ye dur komutu gönderildi.
+2.03.2017 / 17:30:52  -AH-VKV açýldý.
+2.03.2017 / 17:32:31  -AH-ATM açýldý.
+2.03.2017 / 17:32:33  -AH-VKV kapatýldý.
+2.03.2017 / 17:34:03  -AH-VKV kapatýldý.
+
+***** ERROR  2.03.2017 / 17:34:03    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+2.03.2017 / 17:34:04  -Su akýþ vanasý kapatýldý.
+2.03.2017 / 17:34:04  -3. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:34:06  -1. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:34:08  -2. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:34:30  -2. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:35:43  -Kelebek vana ara pozisyona alýndý.
+2.03.2017 / 17:35:47  -AH-ATM kapatýldý.
+2.03.2017 / 17:36:09  -Kelebek vana açýldý.
+2.03.2017 / 17:38:15  -RP'ye çalýþ komutu gönderildi.
+                                                      
+2.03.2017 / 17:52:34  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+2.03.2017 / 17:52:43  -Kelebek vana ara pozisyona alýndý.
+2.03.2017 / 17:53:09  -Kelebek vana kapatýldý.
+2.03.2017 / 17:53:10  -1. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:53:12  -2. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:53:12  -3. Bölge Isýtýcýsý sýfýra set edildi.
+2.03.2017 / 17:53:22  -DP'nin soðumasý bekleniyor.
+2.03.2017 / 17:53:27  -RP'ye dur komutu gönderildi.
+2.03.2017 / 17:53:30  -MP'ye dur komutu gönderildi.
+2.03.2017 / 17:53:33  -AH-VKV açýldý.
+2.03.2017 / 17:53:35  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+2.03.2017 / 17:55:13  -Alt Hat atmosfer basýncýna ulaþtý.
+2.03.2017 / 17:55:15  -AH-VKV kapatýldý.
+           -Durdurma iþlemi tamamlandý
+                                                      

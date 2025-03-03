@@ -1,0 +1,8 @@
+Hata Mesajlarý -  vaksis-Administrator  / 08:45:23
+
+14.02.2017 / 10:25:59   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+14.02.2017 / 10:25:59   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+14.02.2017 / 18:11:46   BG-BV açýlamaz !
+Sebep : Kazan atmosfer basýncýnda ya da K-VKV açýk olabilir.

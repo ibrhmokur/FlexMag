@@ -1,0 +1,100 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:42:49
+31.01.2017 / 11:42:50  -Kelebek vana kapatýldý.
+31.01.2017 / 11:43:04                                             
+31.01.2017 / 11:43:05  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+31.01.2017 / 11:43:08  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:43:10  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:43:26  -Alt Hat atmosfer basýncýna ulaþtý.
+31.01.2017 / 11:43:35  -AH-ATM kapatýldý.
+31.01.2017 / 11:43:46  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 11:44:11  -Kelebek vana açýldý.
+31.01.2017 / 11:44:17  -K-ATM kapatýldý.
+31.01.2017 / 11:44:20  -K-ATM kapatýldý.
+
+***** ERROR  31.01.2017 / 11:44:20    BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+
+31.01.2017 / 11:44:20  -MP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:44:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:44:25  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:44:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:44:30  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 11:44:56  -Kelebek vana kapatýldý.
+31.01.2017 / 11:45:10  -K-VKV açýldý.
+31.01.2017 / 11:45:13  -MP'ye dur komutu gönderildi.
+31.01.2017 / 11:45:16  -AH-VKV açýldý.
+31.01.2017 / 11:45:22  -AH-VKV kapatýldý.
+31.01.2017 / 11:45:25  -MP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:45:28  -MP'ye çalýþ komutu gönderildi.
+
+***** ERROR  31.01.2017 / 11:45:28    MP çalýþmasý ile ilgili sorun tespit edildi (Kod 3).
+
+31.01.2017 / 11:45:29  -MP'ye dur komutu gönderildi.
+31.01.2017 / 11:45:31  -K-VKV kapatýldý.
+31.01.2017 / 11:45:32  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:45:33  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:45:33  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:45:36  -MP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:45:40  -MP'ye dur komutu gönderildi.
+31.01.2017 / 11:46:30  -AH-VKV açýldý.
+31.01.2017 / 11:46:33  -MP'ye dur komutu gönderildi.
+31.01.2017 / 11:46:46  -MP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:46:51  -MP'ye dur komutu gönderildi.
+31.01.2017 / 11:46:52  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:46:53  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:46:54  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:47:14  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:47:32  -K-ATM açýldý.
+31.01.2017 / 11:48:09  -AH-ATM açýldý.
+31.01.2017 / 11:48:13  -AH-VKV kapatýldý.
+31.01.2017 / 11:48:35  -RP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:48:37  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  31.01.2017 / 11:48:37    RP çalýþmasý ile ilgili sorun tespit edildi (Kod 7).
+
+31.01.2017 / 11:48:40  -RP'ye dur komutu gönderildi.
+31.01.2017 / 11:48:42  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:48:43  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:48:43  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:48:46  -RP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:48:52  -RP'ye dur komutu gönderildi.
+31.01.2017 / 11:49:28  -Ortak gaz vanasý açýldý.
+31.01.2017 / 11:49:33  -Ortak gaz vanasý kapatýldý.
+31.01.2017 / 11:49:44                                             
+31.01.2017 / 11:49:45  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+31.01.2017 / 11:49:47  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:49:49  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:49:49  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 11:50:06  -Alt Hat atmosfer basýncýna ulaþtý.
+31.01.2017 / 11:50:14  -AH-ATM kapatýldý.
+31.01.2017 / 11:50:25  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 11:50:51  -Kelebek vana açýldý.
+31.01.2017 / 11:50:56  -K-ATM kapatýldý.
+31.01.2017 / 11:51:00  -MP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:51:01  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+31.01.2017 / 11:51:19  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+31.01.2017 / 11:56:19  -RP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:56:20  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+31.01.2017 / 11:57:00  -BBÖ-BV açýldý.
+31.01.2017 / 11:57:11  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 11:57:36  -Kelebek vana kapatýldý.
+31.01.2017 / 11:57:47  -DP-BV açýldý.
+31.01.2017 / 11:57:51  -DP'ye çalýþ komutu gönderildi.
+31.01.2017 / 11:57:54  -DP'nin ýsýnmasý bekleniyor.
+31.01.2017 / 12:16:56  -Ana vana açýldý.
+31.01.2017 / 12:16:57  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+31.01.2017 / 13:38:18  -Ýstenilen basýnç seviyesine geldi.
+31.01.2017 / 13:38:25  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+31.01.2017 / 13:38:28  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+31.01.2017 / 13:40:50  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+31.01.2017 / 13:40:55  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+31.01.2017 / 13:42:10  -Ortak gaz vanasý açýldý.
+31.01.2017 / 13:47:19  -Ana vana kapatýldý.
+31.01.2017 / 13:47:35  -Ar gaz vanasý açýldý.
+31.01.2017 / 13:48:07  -Ana vana açýldý.
+31.01.2017 / 13:48:18  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+31.01.2017 / 13:50:26  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+31.01.2017 / 13:50:43  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+31.01.2017 / 13:51:38  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+31.01.2017 / 13:52:06  -Ar gaz vanasý kapatýldý.
+31.01.2017 / 13:52:25  -Ortak gaz vanasý kapatýldý.

@@ -1,0 +1,24 @@
+Hata Mesajlarý -  vaksis-Administrator  / 09:01:30
+7.03.2017 / 14:45:56   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+7.03.2017 / 15:00:02   Sistemi kaba vakuma alma iþlemi Kazan Basýncý
+10 Torr altýna düþürülemediði için iptal edildi !
+Lütfen Kazan Vakum baðlantýlarýný kontrol ediniz.
+7.03.2017 / 14:45:56   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+7.03.2017 / 17:27:19   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+7.03.2017 / 15:00:02   Sistemi kaba vakuma alma iþlemi Kazan Basýncý
+10 Torr altýna düþürülemediði için iptal edildi !
+Lütfen Kazan Vakum baðlantýlarýný kontrol ediniz.
+7.03.2017 / 14:45:56   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+7.03.2017 / 17:27:29   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+7.03.2017 / 17:27:19   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+7.03.2017 / 15:00:02   Sistemi kaba vakuma alma iþlemi Kazan Basýncý
+10 Torr altýna düþürülemediði için iptal edildi !
+Lütfen Kazan Vakum baðlantýlarýný kontrol ediniz.
+7.03.2017 / 14:45:56   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.

@@ -1,0 +1,42 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 12:31:19
+18.02.2017 / 12:31:20  -Kelebek vana kapatýldý.
+18.02.2017 / 12:31:22  -Su akýþ vanasý açýldý.
+18.02.2017 / 12:31:22  -AH-ATM açýldý.
+                                                      
+18.02.2017 / 12:31:36  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.02.2017 / 12:31:39  -1. Bölge Isýtýcýsý sýfýra set edildi.
+18.02.2017 / 12:31:40  -2. Bölge Isýtýcýsý sýfýra set edildi.
+18.02.2017 / 12:31:42  -3. Bölge Isýtýcýsý sýfýra set edildi.
+18.02.2017 / 12:31:53  -AH-ATM kapatýldý.
+18.02.2017 / 12:31:57  -MP'ye çalýþ komutu gönderildi.
+18.02.2017 / 12:31:58  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+18.02.2017 / 12:32:19  -RP'ye çalýþ komutu gönderildi.
+18.02.2017 / 12:32:19  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+18.02.2017 / 12:32:31  -DP-BV açýldý.
+18.02.2017 / 12:32:35  -DP'ye çalýþ komutu gönderildi.
+18.02.2017 / 12:33:17  -DP'nin ýsýnmasý bekleniyor.
+18.02.2017 / 12:39:54  -BBÖ-BV açýldý.
+18.02.2017 / 12:40:12  -Ana vana açýldý.
+18.02.2017 / 12:40:13  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+18.02.2017 / 12:41:34  -Ýstenilen basýnç seviyesine geldi.
+18.02.2017 / 12:41:41  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+18.02.2017 / 12:41:44  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+18.02.2017 / 12:44:10  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+
+***** ERROR  18.02.2017 / 12:44:10    Elektrik Yok  !
+Lütfen güvenlik prosedürü tamamlandýktan sonra Bilsisayarýnýzý kapatýnýz !
+
+18.02.2017 / 12:44:11  -RP'ye dur komutu gönderildi.
+
+***** ERROR  18.02.2017 / 12:44:11    DP durdurulamaz !
+Sebep : AV açýk.
+
+18.02.2017 / 12:44:12  -1. Bölge Isýtýcýsý sýfýra set edildi.
+18.02.2017 / 12:44:12  -2. Bölge Isýtýcýsý sýfýra set edildi.
+18.02.2017 / 12:44:12  -BBÖ-BV kapatýldý.
+18.02.2017 / 12:44:13  -3. Bölge Isýtýcýsý sýfýra set edildi.
+18.02.2017 / 12:44:13  -DP'ye dur komutu gönderildi.
+18.02.2017 / 12:44:14  -Ana vana kapatýldý.
+18.02.2017 / 12:44:43  -DP-BV kapatýldý.
+18.02.2017 / 12:44:45  -AH-VKV açýldý.

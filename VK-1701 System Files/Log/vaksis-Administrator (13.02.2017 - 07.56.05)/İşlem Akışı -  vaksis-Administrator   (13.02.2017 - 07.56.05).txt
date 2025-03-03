@@ -1,0 +1,819 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 07:56:05
+13.02.2017 / 07:56:07  -Kelebek vana kapatýldý.
+13.02.2017 / 07:56:08  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:08    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+13.02.2017 / 07:56:45  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:45    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:56:45    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:45    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:46  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:46    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:46    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:47  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:47    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:47    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:56:47    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:47    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:48  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:48    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:48    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:49  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:49    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:49    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:50  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:50    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:50    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:56:50    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:50    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:51  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:51    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:51    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:52  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:52    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:52    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:53  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:53    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:53    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:56:53    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:53    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:54  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:54    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:54    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:55  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:55    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:55    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:56  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:56    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:56    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:56:56    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:56    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:57  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:57    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:57    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:58  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:58    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:58    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:56:59  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:56:59    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:59    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:56:59    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:56:59    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:00  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:00    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:00    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:01  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:01    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:01    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:02  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:02    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:02    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:02    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:02    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:03  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:03    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:03    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:04  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:04    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:04    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:05  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:05    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:05    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:05    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:05    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:06  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:06    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:06    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:07  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:07    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:07    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:08  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:08    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:08    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:08    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:08    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:09  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:09    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:09    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:10  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:10    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:10    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:11  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:11    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:11    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:11    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:11    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:12  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:12    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:12    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:13  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:13    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:13    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:14  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:14    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:14    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:14    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:14    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:15  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:15    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:15    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:16  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:16    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:16    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:17  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:17    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:17    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:17    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:17    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:18  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:18    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:18    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:19  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:19    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:19    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:20  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:20    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:20    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:20    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:20    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:21  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:21    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:21    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:22  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:22    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:22    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:23  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:23    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:23    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:23    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:23    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:24  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:24    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:24    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:25  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:25    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:25    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:26  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:26    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:26    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:26    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:26    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:27  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:27    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:27    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:28  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:28    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:28    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:29  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:29    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:29    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:29    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:29    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:30  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:30    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:30    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:31  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:31    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:31    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:32  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:32    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:32    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:32    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:32    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:33  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:33    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:33    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:34  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:34    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:34    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:35  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:35    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:35    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:35    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:35    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:36  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:36    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:36    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:37  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:37    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:37    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:38  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:38    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:38    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:38    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:38    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:39  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:39    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:39    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:40  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:40    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:40    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:41  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:41    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:41    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:41    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:41    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:42  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:42    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:42    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:43  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:43    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:43    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:44  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:44    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:44    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:44    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:44    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:45  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:45    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:45    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:46  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:46    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:46    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:47  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:47    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:47    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:47    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:47    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:48  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:48    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:48    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:49  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:49    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:49    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:50  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:50    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:50    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:50    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:50    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:51  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:51    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:51    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:52  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:52    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:52    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 07:57:53  -AH-ATM açýldý.
+
+***** ERROR  13.02.2017 / 07:57:53    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:53    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  13.02.2017 / 07:57:53    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+
+***** ERROR  13.02.2017 / 07:57:53    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 08:17:52  -K-VKV açýldý.
+13.02.2017 / 08:20:47  -K-ATM açýldý.
+13.02.2017 / 08:20:49  -K-VKV kapatýldý.

@@ -1,0 +1,20 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 16:28:23
+17.01.2017 / 16:28  -Kelebek vana kapatýldý.
+17.01.2017 / 16:28  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+17.01.2017 / 16:29  -PL-ATM açýldý.
+17.01.2017 / 16:29  -AH-VKV kapatýldý.
+17.01.2017 / 16:30  -Kelebek vana ara pozisyona alýndý.
+17.01.2017 / 16:30  -Kelebek vana açýldý.
+17.01.2017 / 16:31  -Kelebek vana açýldý.
+17.01.2017 / 16:31  -PL-ATM kapatýldý.
+
+***** ERROR  17.01.2017 / 16:31    BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+
+
+***** ERROR  17.01.2017 / 16:31    DP durdurulamaz !
+Sebep : HATA KOD 4 !
+
+17.01.2017 / 16:31  -Isýtýcý sýfýra set edildi.
+17.01.2017 / 16:31  -Kelebek vana ara pozisyona alýndý.
+17.01.2017 / 16:31  -Kelebek vana kapatýldý.
+17.01.2017 / 16:32  -Kelebek vana ara pozisyona alýndý.

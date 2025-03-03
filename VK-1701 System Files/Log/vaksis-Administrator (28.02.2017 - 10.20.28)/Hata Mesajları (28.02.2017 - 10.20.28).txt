@@ -1,0 +1,65 @@
+Hata Mesajlarý -  vaksis-Administrator  / 10:20:28
+28.02.2017 / 11:02:32   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:02:32   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:02:32   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 11:12:44   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:02:32   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 11:14:40   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 11:12:44   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:02:32   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 11:23:55   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 11:14:40   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 11:12:44   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:02:32   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 11:26:16   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:23:55   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 11:14:40   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 11:12:44   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:02:32   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 11:52:51   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 11:26:16   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:23:55   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 11:14:40   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 11:12:44   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:10:23   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+28.02.2017 / 11:02:32   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.

@@ -1,0 +1,32 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:41:11
+23.01.2017 / 15:41:12  -Kelebek vana kapatýldý.
+23.01.2017 / 15:41:13  -RP'ye çalýþ komutu gönderildi.
+23.01.2017 / 15:41:14  -Ana vana açýldý.
+23.01.2017 / 15:41:17  -Ana vana açýldý.
+
+***** ERROR  23.01.2017 / 15:41:17    AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+
+23.01.2017 / 15:42:11  -Ana vana kapatýldý.
+23.01.2017 / 15:42:11  -2. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 15:42:12  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 15:42:13  -1. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 15:42:13  -RP'ye dur komutu gönderildi.
+23.01.2017 / 15:42:14  -BBÖ-BV kapatýldý.
+23.01.2017 / 15:42:41  -DP-BV kapatýldý.
+23.01.2017 / 15:42:43  -DP-BV kapatýldý.
+
+***** ERROR  23.01.2017 / 15:42:43    DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+
+23.01.2017 / 15:42:57  -RP'ye çalýþ komutu gönderildi.
+23.01.2017 / 15:43:00  -RP'ye çalýþ komutu gönderildi.
+23.01.2017 / 15:43:04  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  23.01.2017 / 15:43:04    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+23.01.2017 / 15:43:07  -RP'ye çalýþ komutu gönderildi.
+23.01.2017 / 15:43:09  -DP-BV açýldý.
+23.01.2017 / 15:43:13  -DP'ye çalýþ komutu gönderildi.
+23.01.2017 / 15:43:28  -BBÖ-BV açýldý.
+23.01.2017 / 15:43:36  -Ana vana açýldý.

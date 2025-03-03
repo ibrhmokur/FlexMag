@@ -1,0 +1,24 @@
+Hata Mesajlarý -  -  / 13:21:05
+
+9.12.2016 / 13:21   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+
+9.12.2016 / 13:21   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:21   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+
+9.12.2016 / 13:21   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:21   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+9.12.2016 / 13:21   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+
+9.12.2016 / 13:21   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+9.12.2016 / 13:21   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+9.12.2016 / 13:21   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+9.12.2016 / 13:21   RP çalýþmasý ile ilgili sorun tespit edildi (Kod 7).

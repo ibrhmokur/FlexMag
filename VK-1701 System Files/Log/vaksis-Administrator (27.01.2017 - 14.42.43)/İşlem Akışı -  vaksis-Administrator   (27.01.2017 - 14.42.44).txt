@@ -1,0 +1,12 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 14:42:44
+27.01.2017 / 14:42:45  -Kelebek vana kapatýldý.
+27.01.2017 / 14:42:47  -Su akýþ vanasý açýldý.
+27.01.2017 / 14:43:01  -MP'ye çalýþ komutu gönderildi.
+27.01.2017 / 14:43:23  -RP'ye çalýþ komutu gönderildi.
+27.01.2017 / 14:43:33  -DP-BV açýldý.
+27.01.2017 / 14:43:51  -BBÖ-BV açýldý.
+27.01.2017 / 14:44:09  -Ortak gaz vanasý açýldý.
+27.01.2017 / 14:44:11  -Ar gaz vanasý açýldý.
+27.01.2017 / 14:44:19  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+27.01.2017 / 14:48:20  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+27.01.2017 / 14:55:24  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.

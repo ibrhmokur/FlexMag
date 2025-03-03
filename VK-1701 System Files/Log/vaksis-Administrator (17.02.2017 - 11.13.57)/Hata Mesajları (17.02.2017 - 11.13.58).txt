@@ -1,0 +1,8 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:13:58
+
+17.02.2017 / 11:14:23   DP durdurulamaz !
+Sebep : AV açýk.
+17.02.2017 / 11:14:23   DP durdurulamaz !
+Sebep : AV açýk.
+17.02.2017 / 11:15:02   AV açýlamaz !
+Sebep : MP, RP veya DP çalýþmýyor ya da DP-BV açýk yada kazan basýncý 1 Torr'un üzerinde olabilir.

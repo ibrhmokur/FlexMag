@@ -1,0 +1,17 @@
+Hata Mesajlarý -  vaksis-Administrator  / 09:27:56
+1.03.2017 / 09:28:09   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+1.03.2017 / 09:29:38   BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+1.03.2017 / 09:28:09   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+1.03.2017 / 09:49:24   Ar gaz akýþý yok !
+Lütfen Ar Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 09:29:38   BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+1.03.2017 / 09:28:09   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+1.03.2017 / 10:06:55   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+1.03.2017 / 09:49:24   Ar gaz akýþý yok !
+Lütfen Ar Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 09:29:38   BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+1.03.2017 / 09:28:09   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).

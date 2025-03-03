@@ -1,0 +1,16 @@
+Ýþlem Akýþý -  -  / 17:32:40
+14.12.2016 / 17:32  -AH-VKV kapatýldý.
+14.12.2016 / 17:32  -AH-VKV açýldý.
+
+***** ERROR  14.12.2016 / 17:32    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+14.12.2016 / 17:32  -Isýtýcý sýfýra set edildi.
+14.12.2016 / 17:33  -Isýtýcý sýfýra set edildi.
+14.12.2016 / 17:33  -RP'ye çalýþ komutu gönderildi.
+14.12.2016 / 17:33  -RP'ye dur komutu gönderildi.
+14.12.2016 / 17:33  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  14.12.2016 / 17:33    RP çalýþmasý ile ilgili sorun tespit edildi (Kod 7).
+
+14.12.2016 / 17:33  -RP'ye dur komutu gönderildi.
+14.12.2016 / 17:33  -Isýtýcý sýfýra set edildi.

@@ -1,0 +1,23 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:20:37
+3.03.2017 / 10:20:38  -Kelebek vana kapatýldý.
+3.03.2017 / 10:20:49  -Su akýþ vanasý açýldý.
+                                                      
+3.03.2017 / 10:21:06  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+3.03.2017 / 10:21:09  -1. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:21:09  -2. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:21:11  -3. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:21:27  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+3.03.2017 / 10:21:28  -Alt Hat atmosfer basýncýna ulaþtý.
+3.03.2017 / 10:21:33  -AH-ATM kapatýldý.
+3.03.2017 / 10:21:42  -Kelebek vana ara pozisyona alýndý.
+3.03.2017 / 10:22:08  -Kelebek vana açýldý.
+3.03.2017 / 10:22:12  -K-ATM kapatýldý.
+3.03.2017 / 10:22:14  -MP'ye çalýþ komutu gönderildi.
+3.03.2017 / 10:22:15  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+3.03.2017 / 10:27:28  -RP'ye çalýþ komutu gönderildi.
+3.03.2017 / 10:27:29  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+3.03.2017 / 10:28:06  -BBÖ-BV açýldý.
+3.03.2017 / 10:28:16  -Kelebek vana ara pozisyona alýndý.
+3.03.2017 / 10:28:42  -Kelebek vana kapatýldý.
+3.03.2017 / 10:28:51  -DP-BV açýldý.
+3.03.2017 / 10:28:56  -DP'ye çalýþ komutu gönderildi.

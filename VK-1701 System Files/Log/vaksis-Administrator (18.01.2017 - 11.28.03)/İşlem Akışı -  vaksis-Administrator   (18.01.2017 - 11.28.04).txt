@@ -1,0 +1,9 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:28:04
+18.01.2017 / 11:28  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+18.01.2017 / 11:28  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:28  -DP'nin ýsýnmasý bekleniyor.
+18.01.2017 / 11:29  -DP'nin ýsýnmasý bekleniyor.
+18.01.2017 / 11:29  -AH-VKV açýldý.
+18.01.2017 / 11:29  -AH-VKV kapatýldý.
+           -Durdurma iþlemi tamamlandý
+                                                      

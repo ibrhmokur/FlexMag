@@ -1,0 +1,12 @@
+İşlem Akışı -  vaksis-Administrator  / 09:07:22
+1.03.2017 / 09:07:24  -Kelebek vana kapatıldı.
+1.03.2017 / 09:07:25  -AH-ATM açıldı.
+1.03.2017 / 09:07:39  -2. Bölge Isıtıcısı sıfıra set edildi.
+1.03.2017 / 09:07:39  -3. Bölge Isıtıcısı sıfıra set edildi.
+1.03.2017 / 09:07:41  -1. Bölge Isıtıcısı sıfıra set edildi.
+1.03.2017 / 09:07:47  -1. Bölge Isıtıcısı istenilen değere set edildi.
+1.03.2017 / 09:07:48  -2. Bölge Isıtıcısı istenilen değere set edildi.
+1.03.2017 / 09:07:49  -3. Bölge Isıtıcısı istenilen değere set edildi.
+1.03.2017 / 09:07:53  -1. Bölge Isıtıcısı istenilen değere set edildi.
+1.03.2017 / 09:07:55  -2. Bölge Isıtıcısı istenilen değere set edildi.
+1.03.2017 / 09:07:59  -3. Bölge Isıtıcısı istenilen değere set edildi.

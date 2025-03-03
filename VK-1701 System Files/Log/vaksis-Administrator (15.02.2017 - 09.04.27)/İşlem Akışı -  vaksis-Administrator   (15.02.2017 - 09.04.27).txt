@@ -1,0 +1,52 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:04:27
+15.02.2017 / 09:04:29  -Kelebek vana kapatýldý.
+15.02.2017 / 09:04:30  -AH-ATM açýldý.
+15.02.2017 / 09:12:34  -Su akýþ vanasý açýldý.
+15.02.2017 / 09:12:38  -Su akýþ vanasý kapatýldý.
+15.02.2017 / 09:12:42  -Su akýþ vanasý açýldý.
+15.02.2017 / 09:15:07  -Su akýþ vanasý kapatýldý.
+15.02.2017 / 09:15:23  -Su akýþ vanasý açýldý.
+15.02.2017 / 09:15:30  -Su akýþ vanasý kapatýldý.
+15.02.2017 / 09:26:35  -Su akýþ vanasý açýldý.
+                                                      
+15.02.2017 / 11:41:52  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+15.02.2017 / 11:41:55  -1. Bölge Isýtýcýsý sýfýra set edildi.
+15.02.2017 / 11:41:56  -2. Bölge Isýtýcýsý sýfýra set edildi.
+15.02.2017 / 11:41:57  -3. Bölge Isýtýcýsý sýfýra set edildi.
+15.02.2017 / 11:42:13  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+15.02.2017 / 11:42:14  -Alt Hat atmosfer basýncýna ulaþtý.
+15.02.2017 / 11:42:19  -AH-ATM kapatýldý.
+15.02.2017 / 11:42:28  -Kelebek vana ara pozisyona alýndý.
+15.02.2017 / 11:42:54  -Kelebek vana açýldý.
+15.02.2017 / 11:42:58  -K-ATM kapatýldý.
+15.02.2017 / 11:43:01  -MP'ye çalýþ komutu gönderildi.
+15.02.2017 / 11:43:02  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+15.02.2017 / 11:48:18  -RP'ye çalýþ komutu gönderildi.
+15.02.2017 / 11:48:19  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+15.02.2017 / 11:48:57  -BBÖ-BV açýldý.
+15.02.2017 / 11:49:07  -Kelebek vana ara pozisyona alýndý.
+15.02.2017 / 11:49:32  -Kelebek vana kapatýldý.
+15.02.2017 / 11:49:41  -DP-BV açýldý.
+15.02.2017 / 11:49:45  -DP'ye çalýþ komutu gönderildi.
+15.02.2017 / 11:49:47  -DP'nin ýsýnmasý bekleniyor.
+15.02.2017 / 12:10:00  -Ana vana açýldý.
+15.02.2017 / 12:10:00  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+15.02.2017 / 13:20:05  -Ýstenilen basýnç seviyesine geldi.
+15.02.2017 / 13:20:12  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+15.02.2017 / 13:20:15  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+15.02.2017 / 17:50:00  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+
+***** ERROR  15.02.2017 / 17:50:00    BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 
+
+15.02.2017 / 17:50:06  -Ana vana kapatýldý.
+15.02.2017 / 17:50:17  -DP'ye dur komutu gönderildi.
+15.02.2017 / 17:50:29  -DP'ye dur komutu gönderildi.
+15.02.2017 / 17:50:38  -BBÖ-BV kapatýldý.
+15.02.2017 / 18:12:29  -DP-BV kapatýldý.
+15.02.2017 / 18:12:32  -RP'ye dur komutu gönderildi.
+15.02.2017 / 18:12:37  -MP'ye dur komutu gönderildi.
+15.02.2017 / 18:12:40  -AH-VKV açýldý.
+15.02.2017 / 18:14:20  -AH-ATM açýldý.
+15.02.2017 / 18:14:22  -AH-VKV kapatýldý.

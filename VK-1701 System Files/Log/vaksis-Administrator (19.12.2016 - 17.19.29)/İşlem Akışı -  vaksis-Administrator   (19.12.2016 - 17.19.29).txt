@@ -1,0 +1,13 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:19:29
+19.12.2016 / 17:20  -Ana vana kapatýldý.
+19.12.2016 / 17:20  -Ana vana açýldý.
+
+***** ERROR  19.12.2016 / 17:20    AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+
+19.12.2016 / 17:21  -Isýtýcý sýfýra set edildi.
+19.12.2016 / 17:21  -Ana vana kapatýldý.
+19.12.2016 / 17:22  -Ana vana kapatýldý.
+
+***** ERROR  19.12.2016 / 17:22    AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+

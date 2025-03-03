@@ -1,0 +1,28 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:49:34
+21.12.2016 / 13:50  -Kelebek vana kapatýldý.
+
+***** ERROR  21.12.2016 / 13:50    MP çalýþtýrýlamaz !
+Sebep : HATA KOD 1 !
+
+21.12.2016 / 13:51  -Kelebek vana kapatýldý.
+
+***** ERROR  21.12.2016 / 13:51    AV açýlamaz !
+Sebep : HATA KOD 7 !
+
+
+***** ERROR  21.12.2016 / 13:51    GaV-Ar açýlamaz !
+Sebep : HATA KOD 9 !
+
+
+***** ERROR  21.12.2016 / 13:51    GaV-H2 açýlamaz !
+Sebep : HATA KOD 10 !
+
+
+***** ERROR  21.12.2016 / 13:51    GaV-N2 açýlamaz !
+Sebep : HATA KOD 11 !
+
+21.12.2016 / 13:52  -Kelebek vana kapatýldý.
+
+***** ERROR  21.12.2016 / 13:52    GaV-N2-PURGE açýlamaz !
+Sebep : HATA KOD 12 !
+

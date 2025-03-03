@@ -1,0 +1,19 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:07:42
+26.12.2016 / 17:12  -Kelebek vana kapatýldý.
+
+***** ERROR  26.12.2016 / 17:12    AH-VKV açýlamaz !
+Sebep : HATA KOD 2 !
+
+26.12.2016 / 17:15  -Kelebek vana kapatýldý.
+
+***** ERROR  26.12.2016 / 17:15    AH-VKV açýlamaz !
+Sebep : HATA KOD 2 !
+
+
+***** ERROR  26.12.2016 / 17:15    DP-BV açýlamaz !
+Sebep : HATA KOD 5 !
+
+
+***** ERROR  26.12.2016 / 17:15    BK-KV açýlamaz !
+Sebep : HATA KOD 17 !
+

@@ -1,0 +1,43 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:57:35
+17.01.2017 / 15:58  -PL-ATM açýldý.
+17.01.2017 / 15:59  -PL-ATM açýldý.
+17.01.2017 / 15:59  -AH-VKV kapatýldý.
+17.01.2017 / 15:59  -PL-ATM kapatýldý.
+17.01.2017 / 15:59  -AH-VKV açýldý.
+17.01.2017 / 15:59  -PL-ATM kapatýldý.
+17.01.2017 / 16:00  -AH-VKV kapatýldý.
+17.01.2017 / 16:00  -AH-VKV açýldý.
+17.01.2017 / 16:00  -K-ATM kapatýldý.
+17.01.2017 / 16:00  -K-ATM açýldý.
+17.01.2017 / 16:01  -AH-VKV kapatýldý.
+17.01.2017 / 16:01  -AH-VKV açýldý.
+17.01.2017 / 16:01  -AH-VKV kapatýldý.
+17.01.2017 / 16:02  -AH-VKV kapatýldý.
+17.01.2017 / 16:02  -AH-VKV açýldý.
+17.01.2017 / 16:02  -AH-VKV kapatýldý.
+17.01.2017 / 16:02  -AH-VKV açýldý.
+17.01.2017 / 16:03  -AH-VKV açýldý.
+17.01.2017 / 16:03  -AH-VKV kapatýldý.
+17.01.2017 / 16:03  -PL-ATM kapatýldý.
+17.01.2017 / 16:03  -AH-VKV açýldý.
+17.01.2017 / 16:03  -AH-VKV kapatýldý.
+17.01.2017 / 16:04  -AH-VKV açýldý.
+17.01.2017 / 16:04  -K-VKV açýldý.
+17.01.2017 / 16:04  -K-VKV kapatýldý.
+17.01.2017 / 16:06  -K-VKV kapatýldý.
+17.01.2017 / 16:06  -AH-VKV açýldý.
+17.01.2017 / 16:06  -AH-VKV kapatýldý.
+
+***** ERROR  17.01.2017 / 16:06    DP çalýþtýrýlamaz !
+Sebep : HATA KOD 4 !
+
+17.01.2017 / 16:07  -DP-BV açýldý.
+17.01.2017 / 16:12  -K-ATM kapatýldý.
+17.01.2017 / 16:22  -DP-BV kapatýldý.
+17.01.2017 / 16:23  -RP'ye dur komutu gönderildi.
+17.01.2017 / 16:23  -AH-VKV açýldý.
+17.01.2017 / 16:25  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+17.01.2017 / 16:26  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+17.01.2017 / 16:27  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+17.01.2017 / 16:27  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+17.01.2017 / 16:27  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.

@@ -1,0 +1,29 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:10:10
+21.01.2017 / 11:10:11  -Kelebek vana kapatýldý.
+21.01.2017 / 12:18:17  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+21.01.2017 / 12:18:17  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+21.01.2017 / 12:18:20  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+21.01.2017 / 12:18:21  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+21.01.2017 / 12:18:22  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+21.01.2017 / 12:18:29  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+21.01.2017 / 12:18:30  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+21.01.2017 / 14:33:49                                             
+21.01.2017 / 14:33:50  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+21.01.2017 / 14:33:53  -1. Bölge Isýtýcýsý sýfýra set edildi.
+21.01.2017 / 14:33:55  -2. Bölge Isýtýcýsý sýfýra set edildi.
+21.01.2017 / 14:33:55  -3. Bölge Isýtýcýsý sýfýra set edildi.
+21.01.2017 / 14:34:01  -BBÖ-BV kapatýldý.
+21.01.2017 / 14:34:04  -Ana vana kapatýldý.
+21.01.2017 / 14:34:16  -DP'ye dur komutu gönderildi
+21.01.2017 / 14:34:20  -DP'nin soðumasý bekleniyor.
+21.01.2017 / 14:44:29  -DP-BV kapatýldý.
+21.01.2017 / 14:44:32  -RP'ye dur komutu gönderildi.
+21.01.2017 / 14:44:34  -MP'ye dur komutu gönderildi.
+21.01.2017 / 14:44:37  -AH-VKV açýldý.
+21.01.2017 / 14:44:39  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+21.01.2017 / 14:46:16  -AH-ATM açýldý.
+21.01.2017 / 14:46:19  -AH-ATM kapatýldý.
+21.01.2017 / 14:46:20  -Durdurma iþlemi tamamlandý
+                                                      
+21.01.2017 / 14:46:35  -AH-ATM kapatýldý.
+21.01.2017 / 14:46:38  -AH-ATM açýldý.

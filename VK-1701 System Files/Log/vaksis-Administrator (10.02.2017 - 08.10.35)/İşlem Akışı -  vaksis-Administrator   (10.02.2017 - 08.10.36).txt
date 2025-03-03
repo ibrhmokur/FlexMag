@@ -1,0 +1,44 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:10:36
+10.02.2017 / 08:11:15  -Su akýþ vanasý açýldý.
+                                                      
+10.02.2017 / 08:12:01  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+10.02.2017 / 08:12:04  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 08:12:06  -3. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 08:12:10  -Su akýþ vanasý kapatýldý.
+10.02.2017 / 08:12:19  -Su akýþ vanasý kapatýldý.
+
+***** ERROR  10.02.2017 / 08:12:19    Sistemi vakuma alma iþlemi su akýþý (MS)
+yeterli olmadýðý için durduruldu !
+Lütfen su akýþýný kontrol ediniz.
+
+10.02.2017 / 08:12:22  -Su akýþ vanasý açýldý.
+10.02.2017 / 08:12:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 08:12:25  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 08:12:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 08:12:54  -3. Bölge Isýtýcýsý sýfýra set edildi.
+                                                      
+10.02.2017 / 08:12:57  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+10.02.2017 / 08:13:00  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 08:13:01  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 08:13:03  -3. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 08:13:12  -Su akýþ vanasý açýldý.
+10.02.2017 / 08:13:20  -AH-ATM kapatýldý.
+10.02.2017 / 08:13:23  -MP'ye çalýþ komutu gönderildi.
+10.02.2017 / 08:13:24  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+10.02.2017 / 08:13:36  -Su akýþ vanasý kapatýldý.
+10.02.2017 / 08:13:42  -RP'ye çalýþ komutu gönderildi.
+10.02.2017 / 08:13:43  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+10.02.2017 / 08:13:45  -Su akýþ vanasý kapatýldý.
+10.02.2017 / 08:13:52  -Su akýþ vanasý açýldý.
+10.02.2017 / 08:13:54  -DP-BV açýldý.
+10.02.2017 / 08:13:58  -DP'ye çalýþ komutu gönderildi.
+10.02.2017 / 08:14:19  -Su akýþ vanasý kapatýldý.
+10.02.2017 / 08:14:33  -Su akýþ vanasý açýldý.
+10.02.2017 / 08:16:26  -DP'nin ýsýnmasý bekleniyor.
+10.02.2017 / 08:32:46  -BBÖ-BV açýldý.
+10.02.2017 / 08:33:04  -Ana vana açýldý.
+10.02.2017 / 08:33:05  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+10.02.2017 / 08:41:13  -Ýstenilen basýnç seviyesine geldi.
+10.02.2017 / 08:41:20  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+10.02.2017 / 08:41:23  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

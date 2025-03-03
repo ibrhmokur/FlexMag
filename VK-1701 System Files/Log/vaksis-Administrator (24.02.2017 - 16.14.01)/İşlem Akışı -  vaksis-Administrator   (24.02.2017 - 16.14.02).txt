@@ -1,0 +1,69 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 16:14:02
+24.02.2017 / 16:14:03  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 16:14:09  -Kelebek vana açýldý.
+24.02.2017 / 16:15:58  -RP'ye dur komutu gönderildi.
+24.02.2017 / 16:19:09  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 16:19:10  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 16:19:37  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 16:33:02  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 16:33:03  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 16:48:12  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 16:48:13  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 16:54:35  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 16:54:36  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:00:34  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:11:02  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:11:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:14:59  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:19:41  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 17:19:41  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 17:19:59  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:19:59  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:25:34  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 17:25:34    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+24.02.2017 / 17:25:38  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 17:25:39  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 17:25:44  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 17:25:55  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:25:56  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 17:25:56    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+24.02.2017 / 17:25:57  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 17:25:57    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+24.02.2017 / 17:25:58  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 17:25:58    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+24.02.2017 / 17:26:29  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:26:39  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 17:26:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 17:26:50  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:26:50  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:30:17  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:31:12  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:32:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:32:04  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:33:59  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:34:00  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:34:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:34:03  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:35:20  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 17:40:04  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 17:40:05  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 18:05:10  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+24.02.2017 / 18:06:37  -RP'ye çalýþ komutu gönderildi.
+24.02.2017 / 18:07:08  -Azot (Purge) gaz vanasý kapatýldý.
+24.02.2017 / 18:12:42  -BBÖ-BV kapatýldý.
+24.02.2017 / 18:12:51  -Ortak gaz vanasý kapatýldý.
+24.02.2017 / 18:15:33  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 18:15:58  -Kelebek vana kapatýldý.
+24.02.2017 / 18:16:21  -RP'ye dur komutu gönderildi.
+24.02.2017 / 18:16:29  -MP'ye dur komutu gönderildi.
+24.02.2017 / 18:16:31  -AH-VKV açýldý.
+24.02.2017 / 18:18:12  -AH-ATM açýldý.
+24.02.2017 / 18:18:15  -AH-VKV kapatýldý.

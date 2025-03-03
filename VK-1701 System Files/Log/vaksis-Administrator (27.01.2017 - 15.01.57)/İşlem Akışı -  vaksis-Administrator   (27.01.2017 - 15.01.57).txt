@@ -1,0 +1,24 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:01:57
+27.01.2017 / 15:01:59  -Kelebek vana kapatýldý.
+27.01.2017 / 15:03:12  -Ar gaz vanasý kapatýldý.
+27.01.2017 / 15:03:15  -Ortak gaz vanasý kapatýldý.
+27.01.2017 / 15:03:20  -BBÖ-BV kapatýldý.
+27.01.2017 / 15:03:27  -DP-BV kapatýldý.
+27.01.2017 / 15:03:42  -RP'ye dur komutu gönderildi.
+27.01.2017 / 15:03:47  -MP'ye dur komutu gönderildi.
+27.01.2017 / 15:03:49  -AH-VKV açýldý.
+27.01.2017 / 15:05:29  -AH-ATM açýldý.
+27.01.2017 / 15:05:32  -AH-VKV kapatýldý.
+27.01.2017 / 17:15:06  -Su akýþ vanasý kapatýldý.
+27.01.2017 / 17:16:40  -AH-ATM kapatýldý.
+27.01.2017 / 17:16:42  -MP'ye çalýþ komutu gönderildi.
+27.01.2017 / 17:17:06  -Kelebek vana ara pozisyona alýndý.
+27.01.2017 / 17:17:31  -Kelebek vana açýldý.
+27.01.2017 / 17:21:58  -RP'ye çalýþ komutu gönderildi.
+27.01.2017 / 17:42:17  -Kelebek vana ara pozisyona alýndý.
+27.01.2017 / 17:42:42  -Kelebek vana kapatýldý.
+27.01.2017 / 17:42:55  -RP'ye dur komutu gönderildi.
+27.01.2017 / 17:43:02  -MP'ye dur komutu gönderildi.
+27.01.2017 / 17:43:04  -AH-VKV açýldý.
+27.01.2017 / 17:44:43  -AH-ATM açýldý.
+27.01.2017 / 17:44:46  -AH-VKV kapatýldý.

@@ -1,0 +1,113 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 07:52:40
+26.01.2017 / 07:52:41  -Kelebek vana kapatýldý.
+26.01.2017 / 07:52:43  -AH-ATM açýldý.
+26.01.2017 / 07:54:03  -Su akýþ vanasý açýldý.
+                                                      
+26.01.2017 / 07:54:17  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+26.01.2017 / 07:54:18  -1. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 07:54:20  -2. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 07:54:21  -3. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 07:54:33  -AH-ATM kapatýldý.
+26.01.2017 / 07:54:37  -MP'ye çalýþ komutu gönderildi.
+26.01.2017 / 07:54:37  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+26.01.2017 / 07:54:55  -RP'ye çalýþ komutu gönderildi.
+26.01.2017 / 07:54:56  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+26.01.2017 / 07:55:07  -DP-BV açýldý.
+26.01.2017 / 07:55:10  -DP'ye çalýþ komutu gönderildi.
+26.01.2017 / 07:55:13  -DP'nin ýsýnmasý bekleniyor.
+26.01.2017 / 08:11:55  -BBÖ-BV açýldý.
+26.01.2017 / 08:12:13  -Ana vana açýldý.
+26.01.2017 / 08:12:13  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+26.01.2017 / 08:17:41  -Ýstenilen basýnç seviyesine geldi.
+26.01.2017 / 08:17:49  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+26.01.2017 / 08:17:51  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+26.01.2017 / 09:07:26  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 09:07:28  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 09:33:28  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 09:33:29  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 10:03:49  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 10:03:50  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 10:46:01  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 11:01:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  26.01.2017 / 11:01:03    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+26.01.2017 / 11:04:25  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 11:21:27  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 11:25:41  -1. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 11:25:43  -3. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 11:25:44  -Isýtýcý sýfýra set edildi.
+26.01.2017 / 13:09:57  -Su akýþ vanasý kapatýldý.
+26.01.2017 / 13:10:00  -Su akýþ vanasý kapatýldý.
+
+***** ERROR  26.01.2017 / 13:10:00    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+26.01.2017 / 13:10:02  -DP'ye dur komutu gönderildi.
+26.01.2017 / 13:10:04  -Ana vana kapatýldý.
+26.01.2017 / 13:10:05  -1. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 13:10:05  -Su akýþ vanasý açýldý.
+26.01.2017 / 13:10:05  -2. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 13:10:05  -RP'ye dur komutu gönderildi.
+26.01.2017 / 13:10:06  -3. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 13:10:07  -BBÖ-BV kapatýldý.
+26.01.2017 / 13:10:34  -DP-BV kapatýldý.
+26.01.2017 / 13:10:45  -RP'ye çalýþ komutu gönderildi.
+26.01.2017 / 13:10:50  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  26.01.2017 / 13:10:50    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+26.01.2017 / 13:10:54  -DP-BV açýldý.
+26.01.2017 / 13:10:58  -DP'ye çalýþ komutu gönderildi.
+26.01.2017 / 13:11:09  -BBÖ-BV açýldý.
+26.01.2017 / 13:11:19  -Ana vana açýldý.
+26.01.2017 / 13:12:07  -Su akýþ vanasý kapatýldý.
+26.01.2017 / 13:12:10  -Su akýþ vanasý kapatýldý.
+
+***** ERROR  26.01.2017 / 13:12:10    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+26.01.2017 / 13:12:11  -DP'ye dur komutu gönderildi.
+26.01.2017 / 13:12:13  -Ana vana kapatýldý.
+26.01.2017 / 13:12:14  -1. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 13:12:14  -2. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 13:12:15  -3. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 13:12:15  -RP'ye dur komutu gönderildi.
+26.01.2017 / 13:12:16  -BBÖ-BV kapatýldý.
+26.01.2017 / 13:12:20  -Su akýþ vanasý açýldý.
+26.01.2017 / 13:12:43  -DP-BV kapatýldý.
+26.01.2017 / 13:12:48  -RP'ye çalýþ komutu gönderildi.
+26.01.2017 / 13:12:53  -DP'ye çalýþ komutu gönderildi.
+26.01.2017 / 13:12:57  -DP-BV açýldý.
+26.01.2017 / 13:13:05  -BBÖ-BV açýldý.
+26.01.2017 / 13:13:14  -Ana vana açýldý.
+26.01.2017 / 13:13:24  -Su akýþ vanasý kapatýldý.
+26.01.2017 / 13:13:26  -Su akýþ vanasý açýldý.
+26.01.2017 / 14:27:27  -RP'ye dur komutu gönderildi.
+26.01.2017 / 14:27:31  -DP'ye dur komutu gönderildi.
+26.01.2017 / 14:27:34  -Ana vana kapatýldý.
+26.01.2017 / 14:27:34  -1. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 14:27:35  -2. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 14:27:35  -3. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 14:27:37  -BBÖ-BV kapatýldý.
+26.01.2017 / 14:28:04  -DP-BV kapatýldý.
+26.01.2017 / 14:28:40  -MP'ye çalýþ komutu gönderildi.
+26.01.2017 / 14:28:46                                             
+26.01.2017 / 14:28:46  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+26.01.2017 / 14:28:49  -1. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 14:28:50  -2. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 14:28:50  -3. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 14:29:03  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+26.01.2017 / 14:29:07  -RP'ye çalýþ komutu gönderildi.
+26.01.2017 / 14:29:07  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+26.01.2017 / 14:29:16  -DP-BV açýldý.
+26.01.2017 / 14:29:19  -DP'ye çalýþ komutu gönderildi.
+26.01.2017 / 14:29:22  -DP'nin ýsýnmasý bekleniyor.
+26.01.2017 / 14:29:27  -BBÖ-BV açýldý.
+26.01.2017 / 14:29:44  -Ana vana açýldý.
+26.01.2017 / 14:29:45  -Ýstenilen basýnç seviyesine geldi.
+26.01.2017 / 14:29:52  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+26.01.2017 / 14:29:55  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+26.01.2017 / 14:30:08  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

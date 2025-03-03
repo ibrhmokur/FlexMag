@@ -1,0 +1,9 @@
+Hata Mesajlarý -  vaksis-Administrator  / 13:41:06
+
+9.02.2017 / 13:41:18   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+9.02.2017 / 13:41:18   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+9.02.2017 / 15:35:36   Sistemi vakuma alma iþlemi  
+DP baþlatýlamadýðý için durduruldu !
+Lütfen baðlantýlarý kontrol ediniz.

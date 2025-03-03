@@ -1,0 +1,49 @@
+Ýþlem Akýþý -  -  / 13:42:32
+9.12.2016 / 13:43  -RP'ye dur komutu gönderildi.
+
+***** ERROR  9.12.2016 / 13:43    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+
+
+***** ERROR  9.12.2016 / 13:43    RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+
+
+***** ERROR  9.12.2016 / 13:43    AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+
+9.12.2016 / 13:43  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  9.12.2016 / 13:43    RP çalýþmasý ile ilgili sorun tespit edildi (Kod 7).
+
+9.12.2016 / 13:43  -RP'ye dur komutu gönderildi.
+9.12.2016 / 13:44  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  9.12.2016 / 13:44    DP durdurulamaz !
+Sebep : KV açýk.
+
+
+***** ERROR  9.12.2016 / 13:44    RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+
+
+***** ERROR  9.12.2016 / 13:44    GaV-Ar açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+
+9.12.2016 / 13:45  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  9.12.2016 / 13:45    GaV-H2 açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+
+
+***** ERROR  9.12.2016 / 13:45    GaV-N2 açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+
+
+***** ERROR  9.12.2016 / 13:45    GaV-N2-PURGE açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+
+
+***** ERROR  9.12.2016 / 13:45    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+

@@ -1,0 +1,14 @@
+Hata Mesajlarý -  vaksis-Administrator  / 08:15:45
+
+18.02.2017 / 11:29:42   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+18.02.2017 / 11:29:42   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+18.02.2017 / 11:48:58   Elektrik Yok  !
+Lütfen güvenlik prosedürü tamamlandýktan sonra Bilsisayarýnýzý kapatýnýz !
+18.02.2017 / 11:29:42   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+18.02.2017 / 11:48:58   Elektrik Yok  !
+Lütfen güvenlik prosedürü tamamlandýktan sonra Bilsisayarýnýzý kapatýnýz !
+18.02.2017 / 12:22:44   DP durdurulamaz !
+Sebep : AV açýk.

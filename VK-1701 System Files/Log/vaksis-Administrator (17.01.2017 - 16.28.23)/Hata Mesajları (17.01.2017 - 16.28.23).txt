@@ -1,0 +1,6 @@
+Hata Mesajlarý -  vaksis-Administrator  / 16:28:23
+
+17.01.2017 / 16:31   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+17.01.2017 / 16:31   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+17.01.2017 / 16:31   DP durdurulamaz !
+Sebep : HATA KOD 4 !

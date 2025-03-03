@@ -1,0 +1,7 @@
+Hata Mesajlarý -  vaksis-Administrator  / 09:14:42
+1.03.2017 / 09:19:33   GaV-H2 açýlamaz !
+Sebep : GaV-Ort kapalý ya da GaV-Ar veya Gav N2 kapalý olabilir.
+1.03.2017 / 09:21:11   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 09:19:33   GaV-H2 açýlamaz !
+Sebep : GaV-Ort kapalý ya da GaV-Ar veya Gav N2 kapalý olabilir.

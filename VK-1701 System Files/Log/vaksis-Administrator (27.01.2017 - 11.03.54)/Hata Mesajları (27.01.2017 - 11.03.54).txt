@@ -1,0 +1,53 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:03:54
+
+27.01.2017 / 13:15:49   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+27.01.2017 / 13:15:49   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+27.01.2017 / 13:40:55   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 13:15:49   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+27.01.2017 / 13:40:55   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 13:40:58   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+27.01.2017 / 13:15:49   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+27.01.2017 / 13:40:55   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 13:40:58   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+27.01.2017 / 13:41:50   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+27.01.2017 / 13:15:49   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+27.01.2017 / 13:40:55   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 13:40:58   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+27.01.2017 / 13:41:50   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+27.01.2017 / 13:42:16   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 13:15:49   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+27.01.2017 / 13:40:55   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 13:40:58   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+27.01.2017 / 13:41:50   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+27.01.2017 / 13:42:16   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 14:37:35   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor.
+27.01.2017 / 13:15:49   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+27.01.2017 / 13:40:55   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 13:40:58   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+27.01.2017 / 13:41:50   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+27.01.2017 / 13:42:16   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 14:37:35   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor.
+27.01.2017 / 14:37:38   MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.

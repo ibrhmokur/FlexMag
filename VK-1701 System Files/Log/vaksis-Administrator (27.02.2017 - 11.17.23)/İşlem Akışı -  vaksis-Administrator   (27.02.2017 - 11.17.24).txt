@@ -1,0 +1,29 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:17:24
+27.02.2017 / 11:17:25  -Kelebek vana kapatýldý.
+27.02.2017 / 12:36:59  -Su akýþ vanasý açýldý.
+                                                      
+27.02.2017 / 12:38:47  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+27.02.2017 / 12:38:49  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 12:38:51  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 12:38:51  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 12:39:08  -Alt Hat atmosfer basýncýna ulaþtý.
+27.02.2017 / 12:39:14  -AH-ATM kapatýldý.
+27.02.2017 / 12:39:24  -Kelebek vana ara pozisyona alýndý.
+27.02.2017 / 12:39:49  -Kelebek vana açýldý.
+27.02.2017 / 12:39:53  -K-ATM kapatýldý.
+27.02.2017 / 12:39:56  -MP'ye çalýþ komutu gönderildi.
+27.02.2017 / 12:39:57  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+27.02.2017 / 12:45:10  -RP'ye çalýþ komutu gönderildi.
+27.02.2017 / 12:45:10  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+27.02.2017 / 12:45:48  -BBÖ-BV açýldý.
+27.02.2017 / 12:45:59  -Kelebek vana ara pozisyona alýndý.
+27.02.2017 / 12:46:24  -Kelebek vana kapatýldý.
+27.02.2017 / 12:46:33  -DP-BV açýldý.
+27.02.2017 / 12:46:37  -DP'ye çalýþ komutu gönderildi.
+27.02.2017 / 12:48:48  -DP'nin ýsýnmasý bekleniyor.
+27.02.2017 / 13:04:17  -Ana vana açýldý.
+27.02.2017 / 13:04:17  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+27.02.2017 / 13:16:01  -Ýstenilen basýnç seviyesine geldi.
+27.02.2017 / 13:16:08  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+27.02.2017 / 13:16:10  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

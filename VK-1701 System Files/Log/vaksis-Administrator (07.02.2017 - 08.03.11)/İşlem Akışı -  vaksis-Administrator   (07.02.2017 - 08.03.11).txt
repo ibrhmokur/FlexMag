@@ -1,0 +1,29 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:03:11
+7.02.2017 / 08:03:13  -Kelebek vana kapatýldý.
+7.02.2017 / 08:03:14  -AH-ATM açýldý.
+
+***** ERROR  7.02.2017 / 08:03:14    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+7.02.2017 / 08:18:41  -AH-ATM açýldý.
+7.02.2017 / 08:20:08  -Su akýþ vanasý açýldý.
+7.02.2017 / 08:20:31                                             
+7.02.2017 / 08:20:31  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+7.02.2017 / 08:20:34  -1. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 08:20:35  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 08:20:36  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 08:20:47  -AH-ATM kapatýldý.
+7.02.2017 / 08:20:51  -MP'ye çalýþ komutu gönderildi.
+7.02.2017 / 08:20:52  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+7.02.2017 / 08:21:10  -RP'ye çalýþ komutu gönderildi.
+7.02.2017 / 08:21:10  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+7.02.2017 / 08:21:21  -DP-BV açýldý.
+7.02.2017 / 08:21:25  -DP'ye çalýþ komutu gönderildi.
+7.02.2017 / 08:23:54  -DP'nin ýsýnmasý bekleniyor.
+7.02.2017 / 08:40:03  -BBÖ-BV açýldý.
+7.02.2017 / 08:40:21  -Ana vana açýldý.
+7.02.2017 / 08:40:22  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+7.02.2017 / 08:49:08  -Ýstenilen basýnç seviyesine geldi.
+7.02.2017 / 08:49:15  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+7.02.2017 / 08:49:18  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

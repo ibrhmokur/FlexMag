@@ -1,0 +1,31 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:54:25
+26.02.2017 / 11:54:26  -Kelebek vana kapatýldý.
+26.02.2017 / 11:54:27  -AH-ATM açýldý.
+26.02.2017 / 11:55:02  -K-ATM açýldý.
+26.02.2017 / 11:55:04  -K-VKV kapatýldý.
+26.02.2017 / 12:02:57  -AH-ATM kapatýldý.
+26.02.2017 / 12:02:58  -MP'ye çalýþ komutu gönderildi.
+26.02.2017 / 12:03:12  -MP'ye çalýþ komutu gönderildi.
+
+***** ERROR  26.02.2017 / 12:03:12    BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+
+26.02.2017 / 12:03:23  -MP'ye dur komutu gönderildi.
+26.02.2017 / 12:03:26  -AH-VKV açýldý.
+26.02.2017 / 12:03:43  -AH-VKV açýldý.
+26.02.2017 / 12:03:47  -AH-VKV açýldý.
+
+***** ERROR  26.02.2017 / 12:03:47    BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+
+26.02.2017 / 12:04:00  -AH-VKV kapatýldý.
+26.02.2017 / 12:04:03  -AH-VKV kapatýldý.
+26.02.2017 / 12:04:08  -Kelebek vana ara pozisyona alýndý.
+26.02.2017 / 12:04:12  -K-ATM kapatýldý.
+26.02.2017 / 12:04:33  -Kelebek vana açýldý.
+26.02.2017 / 12:06:36  -RP'ye çalýþ komutu gönderildi.
+26.02.2017 / 12:08:25  -Kelebek vana ara pozisyona alýndý.
+26.02.2017 / 12:08:51  -Kelebek vana kapatýldý.
+26.02.2017 / 12:08:57  -RP'ye dur komutu gönderildi.
+26.02.2017 / 12:09:10  -MP'ye dur komutu gönderildi.
+26.02.2017 / 12:09:12  -AH-VKV açýldý.

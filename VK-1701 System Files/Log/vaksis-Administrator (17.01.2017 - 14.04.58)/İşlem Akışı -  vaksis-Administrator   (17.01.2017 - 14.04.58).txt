@@ -1,0 +1,22 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 14:04:58
+17.01.2017 / 14:06  -PL-ATM kapatýldý.
+17.01.2017 / 14:12  -RP'ye çalýþ komutu gönderildi.
+17.01.2017 / 14:13  -RP'ye dur komutu gönderildi.
+17.01.2017 / 14:14  -K-ATM açýldý.
+17.01.2017 / 14:14  -MP'ye dur komutu gönderildi.
+
+***** ERROR  17.01.2017 / 14:14    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+
+***** ERROR  17.01.2017 / 14:14    DP durdurulamaz !
+Sebep : HATA KOD 4 !
+
+17.01.2017 / 14:14  -Isýtýcý sýfýra set edildi.
+17.01.2017 / 14:15  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  17.01.2017 / 14:15    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+
+***** ERROR  17.01.2017 / 14:15    DP durdurulamaz !
+Sebep : HATA KOD 4 !
+

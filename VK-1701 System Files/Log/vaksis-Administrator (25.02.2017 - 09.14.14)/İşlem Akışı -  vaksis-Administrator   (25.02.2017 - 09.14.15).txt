@@ -1,0 +1,29 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:14:15
+25.02.2017 / 09:26:31  -Kelebek vana kapatýldý.
+
+***** ERROR  25.02.2017 / 09:26:31    1. Bölge sýcaklýðý 1300ºC nin üzerine çýktýðý için sürekli çalýþma sýcaklýðý olan 1250ºC 'ye set edildi.
+
+25.02.2017 / 09:26:35  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+25.02.2017 / 09:32:03  -Su akýþ vanasý açýldý.
+25.02.2017 / 09:32:42  -Su akýþ vanasý açýldý.
+
+***** ERROR  25.02.2017 / 09:32:42    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+25.02.2017 / 09:33:10  -Su akýþ vanasý açýldý.
+
+***** ERROR  25.02.2017 / 09:33:10    Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+
+25.02.2017 / 09:33:11  -Su akýþ vanasý açýldý.
+
+***** ERROR  25.02.2017 / 09:33:11    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+25.02.2017 / 09:33:14  -Su akýþ vanasý açýldý.
+
+***** ERROR  25.02.2017 / 09:33:14    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+25.02.2017 / 09:33:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+25.02.2017 / 09:33:43  -1. Bölge Isýtýcýsý sýfýra set edildi.

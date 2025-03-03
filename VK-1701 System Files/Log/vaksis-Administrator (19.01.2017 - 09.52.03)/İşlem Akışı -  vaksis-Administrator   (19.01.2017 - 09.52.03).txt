@@ -1,0 +1,6 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:52:03
+19.01.2017 / 09:52:38  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+19.01.2017 / 09:52:39  -Isýtýcý sýfýra set edildi.
+19.01.2017 / 09:52:57  -DP'nin soðumasý bekleniyor.
+19.01.2017 / 09:53:00  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+19.01.2017 / 09:53:01  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor

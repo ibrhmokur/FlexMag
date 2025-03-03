@@ -1,0 +1,27 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 16:16:13
+28.02.2017 / 16:16:14  -Kelebek vana kapatýldý.
+
+***** ERROR  28.02.2017 / 16:16:14    1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+28.02.2017 / 16:16:14  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:16:15  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:16:15  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:16:16  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 16:16:16    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+28.02.2017 / 16:16:17  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:16:18  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:16:19  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:16:20  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:16:20  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 16:17:42  -1. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 16:17:42    3. Bölge ýsýtýcýsý için yazýlan "Sýcaklýk Set Deðeri" sürekli çalýþma sýcaklýðý olan 1250 ºC 'nin üzerinde olduðu için 1250 ºC 'ye set edildi.
+
+
+***** ERROR  28.02.2017 / 16:17:42    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+

@@ -1,0 +1,49 @@
+İşlem Akışı -  vaksis-Administrator  / 13:08:16
+4.02.2017 / 13:08:18  -Kelebek vana kapatıldı.
+4.02.2017 / 13:10:00  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:10:01  -Isıtıcı istenilen değere set edildi.
+4.02.2017 / 13:10:01  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:10:03  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:15:14  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:15:14  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:15:15  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:20:36  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:20:37  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:20:37  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:25:02  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:25:03  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:25:04  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:30:01  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:30:02  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:30:04  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:35:26  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:35:27  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:35:29  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:50:17  -1. Bölge Isıtıcısı sıfıra set edildi.
+4.02.2017 / 13:50:17  -2. Bölge Isıtıcısı sıfıra set edildi.
+4.02.2017 / 13:50:18  -Isıtıcı sıfıra set edildi.
+4.02.2017 / 13:50:36  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:50:38  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 13:50:39  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:05:20  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:05:20  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:05:22  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:08:45  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:08:45  -2. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:08:46  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:17:52  -1. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:17:54  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:53:33  -3. Bölge Isıtıcısı istenilen değere set edildi.
+
+***** ERROR  4.02.2017 / 14:53:33    DP durdurulamaz !
+Sebep : AV açık.
+
+4.02.2017 / 14:53:37  -3. Bölge Isıtıcısı istenilen değere set edildi.
+4.02.2017 / 14:53:39  -Ana vana kapatıldı.
+4.02.2017 / 14:53:49  -BBÖ-BV kapatıldı.
+4.02.2017 / 14:59:47  -DP-BV kapatıldı.
+4.02.2017 / 14:59:52  -RP'ye dur komutu gönderildi.
+4.02.2017 / 15:00:02  -MP'ye dur komutu gönderildi.
+4.02.2017 / 15:00:04  -AH-VKV açıldı.
+4.02.2017 / 15:01:42  -AH-ATM açıldı.
+4.02.2017 / 15:01:45  -AH-VKV kapatıldı.

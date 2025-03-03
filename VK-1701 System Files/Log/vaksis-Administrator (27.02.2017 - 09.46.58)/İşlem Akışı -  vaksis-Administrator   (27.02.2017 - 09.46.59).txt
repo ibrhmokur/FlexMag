@@ -1,0 +1,11 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:46:59
+27.02.2017 / 11:06:34  -AH-ATM açýldý.
+
+***** ERROR  27.02.2017 / 11:06:34    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+27.02.2017 / 11:06:35  -Su akýþ vanasý kapatýldý.
+27.02.2017 / 11:06:36  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 11:06:36  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 11:06:39  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.02.2017 / 11:06:42  -3. Bölge Isýtýcýsý sýfýra set edildi.

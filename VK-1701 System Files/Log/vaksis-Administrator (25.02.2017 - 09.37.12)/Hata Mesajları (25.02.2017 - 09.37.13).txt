@@ -1,0 +1,132 @@
+Hata Mesajlarý -  vaksis-Administrator  / 09:37:13
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:04:44   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:04:54   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:44   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:43:22   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:04:54   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:44   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:45:52   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+25.02.2017 / 11:43:22   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:04:54   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:44   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 12:03:16   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:45:52   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+25.02.2017 / 11:43:22   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:04:54   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:44   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 12:03:16   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+25.02.2017 / 12:03:16   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:45:52   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+25.02.2017 / 11:43:22   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:04:54   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:44   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 12:05:20   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 12:03:16   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+25.02.2017 / 12:03:16   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:45:52   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+25.02.2017 / 11:43:22   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:04:54   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:44   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 12:06:18   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+25.02.2017 / 12:05:20   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 12:03:16   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+25.02.2017 / 12:03:16   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+25.02.2017 / 11:45:52   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+25.02.2017 / 11:43:22   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:04:54   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:44   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:04:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+25.02.2017 / 11:03:51   DP durdurulamaz !
+Sebep : AV açýk.
+25.02.2017 / 11:03:51   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !

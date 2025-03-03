@@ -1,0 +1,5 @@
+Hata Mesajlarý -  vaksis-Administrator  / 14:35:25
+
+18.02.2017 / 14:35:33   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+18.02.2017 / 14:35:33   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+18.02.2017 / 14:36:11   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).

@@ -1,0 +1,9 @@
+Hata Mesajlarý -  vaksis-Administrator  / 16:33:28
+
+19.01.2017 / 17:24:47   DP-BV çalýþmasý ile ilgili sorun tespit edildi (Kod 1).
+19.01.2017 / 17:24:47   DP-BV çalýþmasý ile ilgili sorun tespit edildi (Kod 1).
+19.01.2017 / 17:25:57   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+19.01.2017 / 17:24:47   DP-BV çalýþmasý ile ilgili sorun tespit edildi (Kod 1).
+19.01.2017 / 17:25:57   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+19.01.2017 / 17:41:45   DP durdurulamaz !
+Sebep : AV açýk.

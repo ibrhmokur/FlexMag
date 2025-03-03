@@ -1,0 +1,53 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:19:15
+26.01.2017 / 15:27:18  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 15:27:20  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 15:27:22  -Isýtýcý istenilen deðere set edildi.
+26.01.2017 / 15:33:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 15:33:04  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 15:45:49  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 15:45:50  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 15:55:00  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 15:55:01  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 16:09:58  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+26.01.2017 / 16:43:01  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+26.01.2017 / 16:43:05  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+26.01.2017 / 17:06:40  -1. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 17:06:45  -3. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 17:06:46  -Isýtýcý sýfýra set edildi.
+26.01.2017 / 17:20:44  -BBÖ-BV kapatýldý.
+26.01.2017 / 17:58:13  -Ana vana kapatýldý.
+26.01.2017 / 17:58:16  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  26.01.2017 / 17:58:16    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+26.01.2017 / 17:58:17  -DP'ye dur komutu gönderildi.
+26.01.2017 / 17:58:18  -Su akýþ vanasý açýldý.
+26.01.2017 / 17:58:20  -1. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 17:58:21  -2. Bölge Isýtýcýsý sýfýra set edildi.
+26.01.2017 / 17:58:21  -RP'ye dur komutu gönderildi.
+26.01.2017 / 17:58:50  -DP-BV kapatýldý.
+26.01.2017 / 17:59:02  -RP'ye çalýþ komutu gönderildi.
+26.01.2017 / 17:59:08  -DP'ye çalýþ komutu gönderildi.
+26.01.2017 / 17:59:11  -DP-BV açýldý.
+26.01.2017 / 17:59:31  -Ana vana açýldý.
+26.01.2017 / 18:00:03  -Ana vana açýldý.
+26.01.2017 / 18:03:56  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+26.01.2017 / 18:13:42  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+
+***** ERROR  26.01.2017 / 18:13:42    DP durdurulamaz !
+Sebep : AV açýk.
+
+26.01.2017 / 18:14:08  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+26.01.2017 / 18:15:09  -DP'ye dur komutu gönderildi.
+26.01.2017 / 18:15:46  -DP'ye dur komutu gönderildi.
+26.01.2017 / 18:26:08  -Ana vana kapatýldý.
+26.01.2017 / 18:26:18  -DP-BV kapatýldý.
+26.01.2017 / 18:26:27  -Kelebek vana ara pozisyona alýndý.
+26.01.2017 / 18:26:52  -Kelebek vana açýldý.
+26.01.2017 / 18:33:14  -Kelebek vana ara pozisyona alýndý.
+26.01.2017 / 18:33:39  -Kelebek vana kapatýldý.
+26.01.2017 / 18:33:53  -RP'ye dur komutu gönderildi.
+26.01.2017 / 18:33:59  -MP'ye dur komutu gönderildi.
+26.01.2017 / 18:34:01  -AH-VKV açýldý.
+26.01.2017 / 18:35:40  -AH-ATM açýldý.
+26.01.2017 / 18:35:42  -AH-VKV kapatýldý.

@@ -1,0 +1,52 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 12:03:21
+1.03.2017 / 12:03:22  -Kelebek vana kapatýldý.
+1.03.2017 / 12:03:24  -AH-ATM açýldý.
+1.03.2017 / 12:11:02  -AH-ATM kapatýldý.
+1.03.2017 / 12:11:03  -MP'ye çalýþ komutu gönderildi.
+1.03.2017 / 12:11:28  -RP'ye çalýþ komutu gönderildi.
+                                                      
+1.03.2017 / 12:14:01  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+1.03.2017 / 12:14:03  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 12:14:05  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 12:14:21  -RP'ye dur komutu gönderildi.
+1.03.2017 / 12:14:24  -MP'ye dur komutu gönderildi.
+1.03.2017 / 12:14:27  -AH-VKV açýldý.
+1.03.2017 / 12:14:28  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+1.03.2017 / 12:16:07  -Alt Hat atmosfer basýncýna ulaþtý.
+1.03.2017 / 12:16:09  -AH-VKV kapatýldý.
+1.03.2017 / 12:16:13  -AH-ATM kapatýldý.
+1.03.2017 / 12:16:22  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 12:16:47  -Kelebek vana açýldý.
+1.03.2017 / 12:16:52  -K-ATM kapatýldý.
+1.03.2017 / 12:16:54  -MP'ye çalýþ komutu gönderildi.
+1.03.2017 / 12:16:55  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+1.03.2017 / 12:22:01  -RP'ye çalýþ komutu gönderildi.
+1.03.2017 / 12:22:02  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+1.03.2017 / 12:22:40  -BBÖ-BV açýldý.
+1.03.2017 / 12:22:49  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 12:23:15  -Kelebek vana kapatýldý.
+1.03.2017 / 12:23:24  -DP-BV açýldý.
+1.03.2017 / 12:23:27  -DP'ye çalýþ komutu gönderildi.
+1.03.2017 / 12:26:34  -DP'nin ýsýnmasý bekleniyor.
+1.03.2017 / 12:41:48  -Ana vana açýldý.
+1.03.2017 / 12:41:49  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+1.03.2017 / 13:00:47  -Ýstenilen basýnç seviyesine geldi.
+1.03.2017 / 13:00:54  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+1.03.2017 / 13:00:56  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+1.03.2017 / 13:08:14  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:08:16  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:08:18  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:08:47  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:08:48  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:08:49  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:20:02  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:20:02  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:20:03  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:20:21  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:20:21  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:20:34  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:20:35  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:34:43  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:34:44  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:34:44  -3. Bölge Isýtýcýsý istenilen deðere set edildi.

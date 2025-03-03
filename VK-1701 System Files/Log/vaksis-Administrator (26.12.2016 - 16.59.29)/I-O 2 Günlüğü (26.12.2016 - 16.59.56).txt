@@ -1,0 +1,3 @@
+I-O 2 Günlüðü -  vaksis-Administrator  / 16:59:56
+Süre (Sn)	DO2-1	DI2-1	DO2-2	DI2-2	DO2-3	DI2-3	DO2-4	DI2-4	DO2-5	DI2-5	DO2-6	DI2-6	DO2-7	DI2-7	DO2-8	DI2-8	AI2-1	AI2-2	AI2-3
+0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				

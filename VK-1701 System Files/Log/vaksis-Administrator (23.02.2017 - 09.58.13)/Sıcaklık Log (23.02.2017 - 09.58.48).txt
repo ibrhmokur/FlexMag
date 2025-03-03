@@ -1,0 +1,6 @@
+Süre	1. Bölge	2. Bölge	3. Bölge	Isýnma	Soðutma 
+(Sn)	(ºC)	(ºC)	(ºC)	(ºC)	(ºC)
+       	Mavi	Kýrmýzý	Yeþil	Turuncu	Sarý
+0	0	0	0	0	13
+1	0	0	0	0	13
+2	0	0	0	0	13

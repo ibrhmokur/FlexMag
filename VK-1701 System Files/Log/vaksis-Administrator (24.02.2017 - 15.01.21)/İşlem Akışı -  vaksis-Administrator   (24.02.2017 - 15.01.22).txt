@@ -1,0 +1,26 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:01:22
+24.02.2017 / 15:01:23  -Kelebek vana kapatýldý.
+24.02.2017 / 15:01:50  -Azot gaz vanasý açýldý.
+24.02.2017 / 15:01:52  -Hidrojen gaz vanasý açýldý.
+24.02.2017 / 15:01:54  -Ar gaz vanasý açýldý.
+24.02.2017 / 15:02:25  -Ar gaz vanasý kapatýldý.
+24.02.2017 / 15:02:27  -Hidrojen gaz vanasý kapatýldý.
+24.02.2017 / 15:02:29  -Azot gaz vanasý kapatýldý.
+24.02.2017 / 15:02:45  -Azot (Purge) gaz vanasý kapatýldý.
+24.02.2017 / 15:37:20  -Azot (Purge) gaz vanasý açýldý.
+24.02.2017 / 15:37:28  -Azot (Purge) gaz vanasý açýldý.
+
+***** ERROR  24.02.2017 / 15:37:28    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+24.02.2017 / 15:53:09  -Azot (Purge) gaz vanasý açýldý.
+24.02.2017 / 16:01:45  -Ana vana kapatýldý.
+24.02.2017 / 16:01:55  -DP'ye dur komutu gönderildi.
+24.02.2017 / 16:02:06  -DP-BV kapatýldý.
+24.02.2017 / 16:02:45  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+24.02.2017 / 16:02:51  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+24.02.2017 / 16:03:08  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+24.02.2017 / 16:03:32  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+24.02.2017 / 16:03:36  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 16:04:02  -Kelebek vana açýldý.
+24.02.2017 / 16:04:13  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+24.02.2017 / 16:04:24  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.

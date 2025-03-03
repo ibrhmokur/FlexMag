@@ -1,0 +1,6 @@
+Hata Mesajlarý -  vaksis-Administrator  / 08:51:51
+
+21.01.2017 / 09:42:30   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+21.01.2017 / 09:42:30   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+21.01.2017 / 09:43:54   BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.

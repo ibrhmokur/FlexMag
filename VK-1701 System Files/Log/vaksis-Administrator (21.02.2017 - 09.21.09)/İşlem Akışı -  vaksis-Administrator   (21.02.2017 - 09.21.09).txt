@@ -1,0 +1,73 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:21:09
+21.02.2017 / 09:21:11  -Kelebek vana kapatýldý.
+21.02.2017 / 09:21:18  -AH-VKV açýldý.
+21.02.2017 / 09:22:31  -AH-ATM açýldý.
+21.02.2017 / 09:22:34  -AH-VKV kapatýldý.
+21.02.2017 / 09:46:24  -Su akýþ vanasý açýldý.
+                                                      
+21.02.2017 / 09:48:19  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+21.02.2017 / 09:48:22  -1. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 09:48:22  -2. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 09:48:24  -3. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 09:48:40  -Alt Hat atmosfer basýncýna ulaþtý.
+21.02.2017 / 09:48:46  -AH-ATM kapatýldý.
+21.02.2017 / 09:48:56  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 09:49:21  -Kelebek vana açýldý.
+21.02.2017 / 09:49:26  -K-ATM kapatýldý.
+21.02.2017 / 09:49:28  -MP'ye çalýþ komutu gönderildi.
+21.02.2017 / 09:49:29  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+21.02.2017 / 09:54:36  -RP'ye çalýþ komutu gönderildi.
+21.02.2017 / 09:54:37  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+21.02.2017 / 09:55:14  -BBÖ-BV açýldý.
+21.02.2017 / 09:55:23  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 09:55:49  -Kelebek vana kapatýldý.
+21.02.2017 / 09:55:59  -DP-BV açýldý.
+21.02.2017 / 09:56:01  -DP'ye çalýþ komutu gönderildi.
+21.02.2017 / 09:58:10  -1. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 09:58:10  -BBÖ-BV kapatýldý.
+21.02.2017 / 09:58:10  -2. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 09:58:10  -3. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 09:58:11  -DP'ye dur komutu gönderildi.
+21.02.2017 / 09:58:13  -RP'ye dur komutu gönderildi.
+21.02.2017 / 09:58:14  -3. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 09:58:41  -DP-BV kapatýldý.
+21.02.2017 / 09:58:48  -RP'ye çalýþ komutu gönderildi.
+21.02.2017 / 09:58:58  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 09:59:24  -Kelebek vana açýldý.
+21.02.2017 / 10:04:30  -DP'ye çalýþ komutu gönderildi.
+21.02.2017 / 10:04:33  -DP'ye dur komutu gönderildi.
+21.02.2017 / 10:44:41  -DP'ye dur komutu gönderildi.
+
+***** ERROR  21.02.2017 / 10:44:41    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+21.02.2017 / 10:44:42  -Su akýþ vanasý kapatýldý.
+21.02.2017 / 10:44:42  -1. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 10:44:43  -2. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 10:44:43  -3. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 10:44:47  -RP'ye dur komutu gönderildi.
+21.02.2017 / 10:44:52  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 10:45:17  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 10:45:18  -Kelebek vana kapatýldý.
+21.02.2017 / 10:45:23  -RP'ye çalýþ komutu gönderildi.
+21.02.2017 / 10:45:33  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 10:45:56  -BBÖ-BV açýldý.
+21.02.2017 / 10:45:58  -Kelebek vana açýldý.
+21.02.2017 / 10:47:18  -Kelebek vana açýldý.
+
+***** ERROR  21.02.2017 / 10:47:18    Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+21.02.2017 / 10:47:19  -1. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 10:47:19  -2. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 10:47:20  -3. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 10:47:20  -BBÖ-BV kapatýldý.
+21.02.2017 / 10:47:21  -3. Bölge Isýtýcýsý sýfýra set edildi.
+21.02.2017 / 10:47:23  -RP'ye dur komutu gönderildi.
+21.02.2017 / 10:47:28  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 10:47:34  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 10:47:54  -Kelebek vana kapatýldý.
+21.02.2017 / 10:47:59  -RP'ye çalýþ komutu gönderildi.
+21.02.2017 / 10:48:02  -BBÖ-BV açýldý.
+21.02.2017 / 10:48:07  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 10:48:33  -Kelebek vana açýldý.

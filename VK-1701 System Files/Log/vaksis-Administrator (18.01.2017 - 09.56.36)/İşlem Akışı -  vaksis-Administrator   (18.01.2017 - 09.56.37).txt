@@ -1,0 +1,23 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:56:37
+18.01.2017 / 10:00  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 10:21  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 10:22  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+18.01.2017 / 10:25  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 10:28  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 10:30  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 10:37  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 10:38  -TP'ye dur komutu gönderildi
+           -TP'ye dur komutu gönderildi
+                                                      
+18.01.2017 / 10:58                                             
+18.01.2017 / 10:58  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 10:58  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 10:58  -Alt Hat basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 11:00  -Alt Hat basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+
+***** ERROR  18.01.2017 / 11:00    Sistemi vakuma alma iþlemi  
+DP baþlatýlamadýðý için durduruldu !
+Lütfen baðlantýlarý kontrol ediniz.
+
+18.01.2017 / 11:00  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:01  -DP-BV kapatýldý.

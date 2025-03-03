@@ -1,0 +1,32 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:34:47
+13.02.2017 / 09:34:49  -Kelebek vana kapatýldý.
+13.02.2017 / 09:35:00  -Kelebek vana kapatýldý.
+
+***** ERROR  13.02.2017 / 09:35:00    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 09:35:14  -Kelebek vana kapatýldý.
+
+***** ERROR  13.02.2017 / 09:35:14    Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+
+13.02.2017 / 09:36:40  -Kelebek vana kapatýldý.
+
+***** ERROR  13.02.2017 / 09:36:40    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 09:36:58  -Kelebek vana kapatýldý.
+
+***** ERROR  13.02.2017 / 09:36:58    Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+
+13.02.2017 / 09:37:02  -Kelebek vana kapatýldý.
+
+***** ERROR  13.02.2017 / 09:37:02    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+13.02.2017 / 09:37:08  -Kelebek vana kapatýldý.
+
+***** ERROR  13.02.2017 / 09:37:08    Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+

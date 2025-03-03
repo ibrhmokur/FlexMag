@@ -1,0 +1,20 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:43:47
+           -Kelebek vana kapatýldý.
+18.01.2017 / 17:44                                             
+18.01.2017 / 17:44  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+18.01.2017 / 17:44  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 17:44  -Ana vana kapatýldý.
+18.01.2017 / 17:47  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+18.01.2017 / 17:54  -DP-BV kapatýldý.
+18.01.2017 / 17:54  -RP'ye dur komutu gönderildi.
+18.01.2017 / 17:55  -AH-VKV açýldý.
+18.01.2017 / 17:55  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+18.01.2017 / 18:09  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+18.01.2017 / 18:09  -PL-ATM açýldý.
+18.01.2017 / 18:09  -AH-VKV kapatýldý.
+18.01.2017 / 18:09  -Durdurma iþlemi tamamlandý
+           -Durdurma iþlemi tamamlandý
+                                                      
+18.01.2017 / 18:11  -PL-ATM açýldý.
+18.01.2017 / 18:11  -PL-ATM kapatýldý.
+18.01.2017 / 18:13  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.

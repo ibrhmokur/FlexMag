@@ -1,0 +1,76 @@
+Recipe Name			:	SDSD
+Substrate Material		:	SDSD
+
+
+Recipe Selection		:	Single Recipe
+Recipe Selection		:	Web
+
+
+Core Diameter(mm)		:	93
+Left Initial Diameter(mm)	:	22
+Web Thickness(µm)		:	50
+
+
+Web Speed(cm/min)		:	250
+Tension Value(N)		:	8
+
+
+Single Process Selection	:	Microwave
+Chamber Selection	:	NULL
+
+
+Microwave Power(watt)		:	22
+
+
+
+
+DC Power Steps(power-length)
+
+DC Step 1 power			:	0
+DC Step 2 power			:	0
+DC Step 3 power			:	0
+DC Step 4 power			:	0
+DC Step 5 power			:	0
+DC Step 6 power			:	0
+DC Step 7 power			:	0
+DC Step 8 power			:	0
+DC Step 9 power			:	0
+DC Step 10 power		:	0
+
+
+DC Step 1 length		:	0
+DC Step 2 length		:	0
+DC Step 3 length		:	0
+DC Step 4 length		:	0
+DC Step 5 length		:	0
+DC Step 6 length		:	0
+DC Step 7 length		:	0
+DC Step 8 length		:	0
+DC Step 9 length		:	0
+DC Step 10 length		:	0
+
+
+RF Power Steps(power-length)
+
+RF Step 1 power			:	0
+RF Step 2 power			:	0
+RF Step 3 power			:	0
+RF Step 4 power			:	0
+RF Step 5 power			:	0
+RF Step 6 power			:	0
+RF Step 7 power			:	0
+RF Step 8 power			:	0
+RF Step 9 power			:	0
+RF Step 10 power			:	0
+
+
+RF Step 1 length			:	0
+RF Step 2 length			:	0
+RF Step 3 length			:	0
+RF Step 4 length			:	0
+RF Step 5 length			:	0
+RF Step 6 length			:	0
+RF Step 7 length			:	0
+RF Step 8 length			:	0
+RF Step 9 length			:	0
+RF Step 10 length			:	0

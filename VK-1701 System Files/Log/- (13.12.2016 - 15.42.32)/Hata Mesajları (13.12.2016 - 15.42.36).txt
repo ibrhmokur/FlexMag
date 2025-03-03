@@ -1,0 +1,58 @@
+Hata Mesajlarý -  -  / 15:42:36
+
+13.12.2016 / 15:42   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP durdurulamaz !
+Sebep : KV açýk.
+13.12.2016 / 15:42   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP durdurulamaz !
+Sebep : KV açýk.
+13.12.2016 / 15:42   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP durdurulamaz !
+Sebep : KV açýk.
+13.12.2016 / 15:42   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+13.12.2016 / 15:42   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP durdurulamaz !
+Sebep : KV açýk.
+13.12.2016 / 15:42   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+13.12.2016 / 15:42   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+13.12.2016 / 15:42   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP durdurulamaz !
+Sebep : KV açýk.
+13.12.2016 / 15:42   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+13.12.2016 / 15:42   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+13.12.2016 / 15:43   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   DP durdurulamaz !
+Sebep : KV açýk.
+13.12.2016 / 15:42   RP çalýþtýrýlamaz !
+Sebep : MP çalýþmýyor olabilir.
+13.12.2016 / 15:42   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+13.12.2016 / 15:42   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+13.12.2016 / 15:43   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+13.12.2016 / 15:43   AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 

@@ -1,0 +1,251 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:56:40
+7.02.2017 / 08:56:57  -Isýtýcý istenilen deðere set edildi.
+7.02.2017 / 08:56:58  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 08:57:00  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:05:08  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:05:09  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:05:11  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:10:57  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:10:57  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:10:58  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:15:42  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:15:43  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:15:44  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:27:47  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:27:48  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:27:49  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:34:22  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:34:23  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:34:23  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:48:02  -1. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 09:48:03  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 09:48:03  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 09:48:04  -Isýtýcý sýfýra set edildi.
+7.02.2017 / 09:48:16  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:48:17  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 09:48:18  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:25:23  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:25:23  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:25:24  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:27:11  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:27:18  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:27:43  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:30:53  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  7.02.2017 / 10:30:53    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+7.02.2017 / 10:30:59  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  7.02.2017 / 10:30:59    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:05  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  7.02.2017 / 10:31:05    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+7.02.2017 / 10:31:06  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  7.02.2017 / 10:31:06    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:31:06    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:06  -Isýtýcý sýfýra set edildi.
+7.02.2017 / 10:31:12  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:12    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:31:12    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:31:12    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:18  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:18    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:31:18    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:31:18    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:24  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:24    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:31:24    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+7.02.2017 / 10:31:25  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:25    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:31  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:31    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:31:31    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:31:31    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:37  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:37    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:31:37    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:31:37    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:43  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:43    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:31:43    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:31:43    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:49  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:49    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+7.02.2017 / 10:31:50  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:50    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:31:50    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:31:56  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:31:56    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:31:56    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:31:56    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:32:02  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:32:02    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:32:02    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:32:02    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:32:08  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:32:08    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+7.02.2017 / 10:32:09  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:32:09    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:32:09    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:32:15  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:32:15    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:32:15    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:32:15    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:32:21  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:32:21    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:32:21    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+
+***** ERROR  7.02.2017 / 10:32:21    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+7.02.2017 / 10:32:27  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  7.02.2017 / 10:32:27    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  7.02.2017 / 10:32:27    Lütfen Isýtýcý sigortasýný kontrol ediniz !  (2)
+
+7.02.2017 / 10:32:28  -Isýtýcý istenilen deðere set edildi.
+7.02.2017 / 10:33:14  -Isýtýcý istenilen deðere set edildi.
+7.02.2017 / 10:38:02  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:38:09  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+7.02.2017 / 10:41:44  -Ortak gaz vanasý açýldý.
+7.02.2017 / 10:41:49  -Ar gaz vanasý açýldý.
+7.02.2017 / 10:41:57  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+7.02.2017 / 10:42:03  -Ana vana kapatýldý.
+7.02.2017 / 10:42:17  -RP'ye dur komutu gönderildi.
+7.02.2017 / 10:42:18  -Su akýþ vanasý kapatýldý.
+7.02.2017 / 10:42:22  -1. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 10:42:23  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 10:42:23  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 10:42:23  -Isýtýcý sýfýra set edildi.
+7.02.2017 / 10:42:23  -DP'ye dur komutu gönderildi.
+7.02.2017 / 10:42:24  -BBÖ-BV kapatýldý.
+7.02.2017 / 10:42:26  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 10:42:27  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.02.2017 / 10:42:32  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+7.02.2017 / 10:42:44  -Su akýþ vanasý açýldý.
+7.02.2017 / 10:42:50  -Ar gaz vanasý kapatýldý.
+7.02.2017 / 10:42:51  -DP-BV kapatýldý.
+7.02.2017 / 10:42:53  -MP'ye çalýþ komutu gönderildi.
+7.02.2017 / 10:42:53  -Ortak gaz vanasý kapatýldý.
+7.02.2017 / 10:43:02  -Ortak gaz vanasý açýldý.
+7.02.2017 / 10:43:05  -Ar gaz vanasý açýldý.
+7.02.2017 / 10:43:09  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+
+***** ERROR  7.02.2017 / 10:43:09    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+7.02.2017 / 10:43:12  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+
+***** ERROR  7.02.2017 / 10:43:12    DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+
+7.02.2017 / 10:43:25  -RP'ye çalýþ komutu gönderildi.
+7.02.2017 / 10:43:31  -RP'ye çalýþ komutu gönderildi.
+7.02.2017 / 10:43:34  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  7.02.2017 / 10:43:34    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+7.02.2017 / 10:43:37  -DP-BV açýldý.
+7.02.2017 / 10:43:43  -DP-BV açýldý.
+7.02.2017 / 10:43:46  -DP-BV açýldý.
+
+***** ERROR  7.02.2017 / 10:43:46    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+7.02.2017 / 10:43:58  -BBÖ-BV açýldý.
+7.02.2017 / 10:44:03  -BBÖ-BV açýldý.
+7.02.2017 / 11:04:34  -DP-BV kapatýldý.
+7.02.2017 / 11:04:41  -RP'ye dur komutu gönderildi.
+7.02.2017 / 11:04:53  -MP'ye dur komutu gönderildi.
+7.02.2017 / 11:04:56  -AH-VKV açýldý.
+7.02.2017 / 11:06:34  -AH-ATM açýldý.
+7.02.2017 / 11:06:36  -AH-VKV kapatýldý.
+7.02.2017 / 12:01:34  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+7.02.2017 / 12:03:09  -Ar gaz vanasý kapatýldý.
+7.02.2017 / 12:03:12  -Ortak gaz vanasý kapatýldý.
+7.02.2017 / 12:59:03  -Ortak gaz vanasý kapatýldý.
+
+***** ERROR  7.02.2017 / 12:59:03    GaV-Ortak açýlamaz !
+Sebep : CH-ATM  veya
+ CH-VBV açýk ya da Kazan Basýncý 5 Torr dan büyük olabilir.
+
+7.02.2017 / 12:59:25  -Ortak gaz vanasý kapatýldý.
+7.02.2017 / 13:22:17  -Su akýþ vanasý kapatýldý.

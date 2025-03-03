@@ -1,0 +1,58 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:01:50
+27.01.2017 / 10:01:51  -Kelebek vana kapatýldý.
+                                                      
+27.01.2017 / 10:01:56  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+27.01.2017 / 10:01:58  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 10:01:59  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 10:02:01  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 10:02:13  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+27.01.2017 / 10:02:15  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+27.01.2017 / 10:02:22  -DP'nin ýsýnmasý bekleniyor.
+27.01.2017 / 10:02:26  -BBÖ-BV açýldý.
+27.01.2017 / 10:02:35  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:02:36  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:02:44  -Ana vana açýldý.
+27.01.2017 / 10:02:45  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+27.01.2017 / 10:03:33  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:05:04  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:05:05  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:05:10  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:05:22  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:05:25  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:05:32  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:05:38  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:05:48  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:05:57  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:06:06  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:06:09  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:06:13  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:06:15  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:06:17  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:06:21  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:06:24  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:06:34  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:06:37  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:06:40  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:06:42  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:06:45  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:06:48  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:06:52  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:06:55  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:07:13  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:07:50  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:07:53  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:07:56  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:07:58  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:08:01  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:08:03  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:08:05  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:08:08  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:08:25  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:08:28  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:08:31  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:08:34  -Azot gaz vanasý kapatýldý.
+27.01.2017 / 10:08:43  -Ortak gaz vanasý açýldý.
+27.01.2017 / 10:08:50  -Ar gaz vanasý açýldý.
+27.01.2017 / 10:09:04  -Azot (Purge) gaz vanasý açýldý.
+27.01.2017 / 10:09:31  -Hidrojen gaz vanasý kapatýldý.
+27.01.2017 / 10:09:32  -Ortak gaz vanasý kapatýldý.

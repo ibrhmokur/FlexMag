@@ -1,0 +1,13 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:34:41
+13.02.2017 / 17:34:42  -Kelebek vana kapatýldý.
+13.02.2017 / 17:35:13  -Kelebek vana ara pozisyona alýndý.
+13.02.2017 / 17:35:39  -Kelebek vana açýldý.
+13.02.2017 / 17:35:44  -AH-ATM kapatýldý.
+13.02.2017 / 17:36:14  -RP'ye çalýþ komutu gönderildi.
+13.02.2017 / 17:58:58  -Kelebek vana ara pozisyona alýndý.
+13.02.2017 / 17:59:24  -Kelebek vana kapatýldý.
+13.02.2017 / 17:59:48  -RP'ye dur komutu gönderildi.
+13.02.2017 / 18:04:09  -MP'ye dur komutu gönderildi.
+13.02.2017 / 18:04:12  -AH-VKV açýldý.
+13.02.2017 / 18:05:50  -AH-ATM açýldý.
+13.02.2017 / 18:05:52  -AH-VKV kapatýldý.

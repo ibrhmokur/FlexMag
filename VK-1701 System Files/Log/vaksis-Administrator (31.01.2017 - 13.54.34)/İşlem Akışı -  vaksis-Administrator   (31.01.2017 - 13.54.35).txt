@@ -1,0 +1,124 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:54:35
+31.01.2017 / 13:55:02  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 13:55:02  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 13:55:04  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:00:07  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:00:08  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:00:10  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:05:15  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:05:20  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:05:20  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:10:06  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:10:08  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:10:09  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:14:28  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  31.01.2017 / 14:14:28    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+31.01.2017 / 14:14:28  -Su akýþ vanasý kapatýldý.
+31.01.2017 / 14:14:32  -Su akýþ vanasý kapatýldý.
+
+***** ERROR  31.01.2017 / 14:14:32    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+31.01.2017 / 14:14:33  -DP'ye dur komutu gönderildi.
+31.01.2017 / 14:14:34  -Su akýþ vanasý açýldý.
+31.01.2017 / 14:14:36  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 14:14:37  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 14:14:37  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 14:14:37  -Isýtýcý sýfýra set edildi.
+31.01.2017 / 14:14:39  -RP'ye dur komutu gönderildi.
+31.01.2017 / 14:14:40  -BBÖ-BV kapatýldý.
+31.01.2017 / 14:15:01  -BBÖ-BV kapatýldý.
+31.01.2017 / 14:15:06  -DP-BV kapatýldý.
+31.01.2017 / 14:15:13  -RP'ye çalýþ komutu gönderildi.
+31.01.2017 / 14:15:17  -DP'ye çalýþ komutu gönderildi.
+31.01.2017 / 14:15:21  -DP-BV açýldý.
+31.01.2017 / 14:15:23  -BBÖ-BV açýldý.
+31.01.2017 / 14:15:35  -Ana vana açýldý.
+31.01.2017 / 14:15:48  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:15:48  -Isýtýcý istenilen deðere set edildi.
+31.01.2017 / 14:15:49  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:15:51  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:22:11  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:22:12  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:22:12  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:35:02  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 14:35:03  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 14:35:04  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 14:35:04  -Isýtýcý sýfýra set edildi.
+31.01.2017 / 14:35:22  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:35:24  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 14:52:29  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 15:00:37  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 15:00:37  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 15:35:35  -RP'ye dur komutu gönderildi.
+31.01.2017 / 15:35:38  -RP'ye dur komutu gönderildi.
+
+***** ERROR  31.01.2017 / 15:35:38    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+31.01.2017 / 15:35:40  -DP'ye dur komutu gönderildi.
+31.01.2017 / 15:35:43  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 15:35:43  -Ana vana kapatýldý.
+31.01.2017 / 15:35:44  -2. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 15:35:44  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 15:35:44  -Isýtýcý sýfýra set edildi.
+31.01.2017 / 15:35:46  -BBÖ-BV kapatýldý.
+31.01.2017 / 15:35:52  -MP'ye çalýþ komutu gönderildi.
+31.01.2017 / 15:36:13  -DP-BV kapatýldý.
+31.01.2017 / 15:36:22  -RP'ye çalýþ komutu gönderildi.
+31.01.2017 / 15:36:24  -DP'ye çalýþ komutu gönderildi.
+31.01.2017 / 15:36:28  -DP'ye çalýþ komutu gönderildi.
+31.01.2017 / 15:36:30  -DP-BV açýldý.
+31.01.2017 / 15:36:33  -BBÖ-BV açýldý.
+31.01.2017 / 15:36:44  -Ana vana açýldý.
+31.01.2017 / 15:36:46  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 15:36:48  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+31.01.2017 / 15:36:50  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  31.01.2017 / 15:36:50    Lütfen Isýtýcý sigortasýný kontrol ediniz ! (3)
+
+31.01.2017 / 15:36:53  -Isýtýcý istenilen deðere set edildi.
+31.01.2017 / 15:37:21  -Isýtýcý istenilen deðere set edildi.
+31.01.2017 / 16:05:57  -1. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 16:05:58  -3. Bölge Isýtýcýsý sýfýra set edildi.
+31.01.2017 / 16:05:58  -Isýtýcý sýfýra set edildi.
+31.01.2017 / 16:12:30  -Ana vana kapatýldý.
+31.01.2017 / 16:12:33  -DP'ye dur komutu gönderildi.
+31.01.2017 / 16:12:34  -DP-BV kapatýldý.
+31.01.2017 / 16:12:47  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 16:12:52  -Ortak gaz vanasý açýldý.
+31.01.2017 / 16:12:54  -Ar gaz vanasý açýldý.
+31.01.2017 / 16:13:02  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+31.01.2017 / 16:13:12  -Kelebek vana açýldý.
+31.01.2017 / 16:16:10  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 16:17:21  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+31.01.2017 / 16:20:45  -Kelebek vana kapatýldý.
+31.01.2017 / 16:30:10  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 16:31:52  -Kelebek vana kapatýldý.
+31.01.2017 / 16:32:07  -RP'ye dur komutu gönderildi.
+31.01.2017 / 16:33:21  -MP'ye dur komutu gönderildi.
+31.01.2017 / 16:33:24  -AH-VKV açýldý.
+31.01.2017 / 16:35:00  -AH-ATM açýldý.
+31.01.2017 / 16:35:04  -AH-VKV kapatýldý.
+31.01.2017 / 18:14:03  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+31.01.2017 / 18:14:05  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+31.01.2017 / 18:14:11  -Ar gaz vanasý kapatýldý.
+31.01.2017 / 18:14:15  -Ortak gaz vanasý kapatýldý.
+31.01.2017 / 18:14:40  -AH-ATM kapatýldý.
+31.01.2017 / 18:14:42  -MP'ye çalýþ komutu gönderildi.
+31.01.2017 / 18:15:10  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 18:15:24  -RP'ye çalýþ komutu gönderildi.
+31.01.2017 / 18:15:36  -Kelebek vana açýldý.
+31.01.2017 / 18:16:58  -Ortak gaz vanasý açýldý.
+31.01.2017 / 18:19:31  -Su akýþ vanasý kapatýldý.
+31.01.2017 / 18:19:54  -BBÖ-BV kapatýldý.
+31.01.2017 / 18:20:00  -Kelebek vana ara pozisyona alýndý.
+31.01.2017 / 18:20:06  -Ortak gaz vanasý kapatýldý.
+31.01.2017 / 18:20:26  -Kelebek vana kapatýldý.
+31.01.2017 / 18:20:34  -RP'ye dur komutu gönderildi.
+31.01.2017 / 18:20:44  -MP'ye dur komutu gönderildi.
+31.01.2017 / 18:20:47  -AH-VKV açýldý.
+31.01.2017 / 18:22:29  -AH-ATM açýldý.
+31.01.2017 / 18:22:33  -AH-ATM kapatýldý.
+31.01.2017 / 18:22:35  -AH-ATM açýldý.

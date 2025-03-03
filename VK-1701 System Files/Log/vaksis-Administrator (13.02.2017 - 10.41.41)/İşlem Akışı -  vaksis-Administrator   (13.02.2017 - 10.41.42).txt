@@ -1,0 +1,13 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:41:42
+13.02.2017 / 10:41:43  -Kelebek vana kapatýldý.
+
+***** ERROR  13.02.2017 / 10:41:43    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, sistem atmosferde, dp çalýþmýyor ya da kazan basýncý 1E-4 Torrdan yüksek olabilir.
+
+13.02.2017 / 10:41:45  -Isýtýcý istenilen deðere set edildi.
+13.02.2017 / 10:41:58  -Isýtýcý istenilen deðere set edildi.
+13.02.2017 / 10:42:17  -Isýtýcý istenilen deðere set edildi.
+
+***** ERROR  13.02.2017 / 10:42:17    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, sistem atmosferde, dp çalýþmýyor ya da kazan basýncý 1E-4 Torrdan yüksek olabilir.
+

@@ -1,0 +1,68 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:37:59
+1.03.2017 / 13:38:01  -Kelebek vana kapatýldý.
+
+***** ERROR  1.03.2017 / 13:38:01    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+1.03.2017 / 13:38:01  -BBÖ-BV açýldý.
+1.03.2017 / 13:38:06  -BBÖ-BV açýldý.
+
+***** ERROR  1.03.2017 / 13:38:06    AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+
+
+***** ERROR  1.03.2017 / 13:38:06    Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+
+1.03.2017 / 13:38:07  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:38:07  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:38:09  -BBÖ-BV kapatýldý.
+1.03.2017 / 13:38:10  -Ana vana kapatýldý.
+1.03.2017 / 13:38:12  -RP'ye dur komutu gönderildi.
+1.03.2017 / 13:38:13  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:38:28  -DP'ye çalýþ komutu gönderildi.
+1.03.2017 / 13:38:32  -DP-BV kapatýldý.
+1.03.2017 / 13:38:35  -DP-BV kapatýldý.
+
+***** ERROR  1.03.2017 / 13:38:35    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+1.03.2017 / 13:38:36  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:38:37  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:38:37  -DP-BV açýldý.
+1.03.2017 / 13:38:37  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:38:38  -DP'ye dur komutu gönderildi.
+1.03.2017 / 13:38:38  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 13:38:53  -RP'ye çalýþ komutu gönderildi.
+1.03.2017 / 13:39:04  -DP'ye çalýþ komutu gönderildi.
+1.03.2017 / 13:39:15  -BBÖ-BV açýldý.
+1.03.2017 / 13:39:27  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:39:28  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:39:28  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:45:13  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:45:16  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:52:04  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:52:18  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:55:32  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 13:55:32  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 14:00:43  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 14:00:44  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 14:11:16  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 14:11:17  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 14:11:17  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:01:44  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 15:01:46  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 15:01:49  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 15:02:18  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:02:19  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:02:19  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:12:45  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:12:46  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:39:12  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 15:39:14  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 15:39:17  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 15:39:25  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:39:45  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:39:45  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:39:46  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 15:42:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 15:42:24  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 15:42:25  -3. Bölge Isýtýcýsý sýfýra set edildi.

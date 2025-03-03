@@ -1,0 +1,10 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 07:59:38
+1.02.2017 / 07:59:40  -Kelebek vana kapatýldý.
+1.02.2017 / 07:59:41  -AH-ATM açýldý.
+1.02.2017 / 08:00:06  -K-VKV açýldý.
+1.02.2017 / 08:00:16  -K-VKV açýldý.
+
+***** ERROR  1.02.2017 / 08:00:16    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+1.02.2017 / 08:00:19  -K-VKV açýldý.

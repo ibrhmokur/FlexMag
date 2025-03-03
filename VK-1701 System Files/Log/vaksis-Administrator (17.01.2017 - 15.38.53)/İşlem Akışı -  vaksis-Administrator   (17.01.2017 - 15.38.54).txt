@@ -1,0 +1,5 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:38:54
+17.01.2017 / 15:38  -Kelebek vana kapatýldý.
+
+***** ERROR  17.01.2017 / 15:38    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+

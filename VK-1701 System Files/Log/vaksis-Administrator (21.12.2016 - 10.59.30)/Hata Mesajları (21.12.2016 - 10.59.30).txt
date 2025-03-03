@@ -1,0 +1,8 @@
+Hata Mesajlarý -  vaksis-Administrator  / 10:59:30
+
+21.12.2016 / 10:59   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+21.12.2016 / 10:59   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+21.12.2016 / 10:59   GaV-Ortak kapatýlamaz !
+Sebep :  HATA KOD 16 !

@@ -1,0 +1,72 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:57:59
+22.02.2017 / 11:58:00  -Kelebek vana kapatýldý.
+22.02.2017 / 11:58:01  -K-ATM açýldý.
+22.02.2017 / 11:58:08  -AH-VKV açýldý.
+22.02.2017 / 11:58:12  -AH-VKV açýldý.
+
+***** ERROR  22.02.2017 / 11:58:12    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+22.02.2017 / 11:58:13  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:58:13  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:58:18  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 11:58:38  -AH-VKV kapatýldý.
+22.02.2017 / 11:58:46  -AH-VKV kapatýldý.
+
+***** ERROR  22.02.2017 / 11:58:46    BG-BV açýlamaz !
+Sebep : Kazan atmosfer basýncýnda ya da K-VKV açýk olabilir.
+
+22.02.2017 / 11:58:52  -AH-VKV kapatýldý.
+22.02.2017 / 11:58:58  -Su akýþ vanasý açýldý.
+22.02.2017 / 11:59:01  -Su akýþ vanasý açýldý.
+
+***** ERROR  22.02.2017 / 11:59:01    BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+
+22.02.2017 / 11:59:12  -MP'ye dur komutu gönderildi.
+22.02.2017 / 11:59:13  -MP'ye dur komutu gönderildi.
+22.02.2017 / 11:59:14  -AH-VKV açýldý.
+22.02.2017 / 11:59:22  -AH-VKV kapatýldý.
+22.02.2017 / 11:59:34  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 11:59:39  -K-ATM kapatýldý.
+22.02.2017 / 11:59:50  -BBÖ-BV açýldý.
+22.02.2017 / 12:00:24  -Kelebek vana kapatýldý.
+22.02.2017 / 12:00:27  -Ortak gaz vanasý açýldý.
+22.02.2017 / 12:00:29  -Azot (Purge) gaz vanasý açýldý.
+22.02.2017 / 12:00:39  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 12:00:45  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 12:00:50  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  22.02.2017 / 12:00:50    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+22.02.2017 / 12:01:02  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 12:01:03  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 12:01:18  -K-VKV açýldý.
+22.02.2017 / 12:01:20  -K-VKV kapatýldý.
+22.02.2017 / 12:01:22  -K-VKV açýldý.
+22.02.2017 / 12:01:26  -K-VKV kapatýldý.
+22.02.2017 / 12:01:31  -K-VKV açýldý.
+22.02.2017 / 12:01:33  -K-VKV kapatýldý.
+22.02.2017 / 12:01:38  -K-VKV açýldý.
+22.02.2017 / 12:01:40  -K-VKV kapatýldý.
+22.02.2017 / 12:01:44  -K-VKV açýldý.
+22.02.2017 / 12:01:46  -K-VKV kapatýldý.
+22.02.2017 / 12:01:59  -K-VKV açýldý.
+22.02.2017 / 12:02:01  -K-VKV kapatýldý.
+22.02.2017 / 12:02:09  -K-VKV açýldý.
+22.02.2017 / 12:02:11  -K-VKV kapatýldý.
+22.02.2017 / 12:02:27  -K-VKV açýldý.
+22.02.2017 / 12:02:28  -K-VKV kapatýldý.
+22.02.2017 / 12:02:40  -K-VKV açýldý.
+22.02.2017 / 12:02:45  -K-VKV kapatýldý.
+22.02.2017 / 12:02:52  -K-VKV açýldý.
+22.02.2017 / 12:02:55  -K-VKV kapatýldý.
+22.02.2017 / 12:03:07  -K-VKV açýldý.
+22.02.2017 / 12:03:09  -K-VKV kapatýldý.
+22.02.2017 / 12:03:45  -K-VKV açýldý.
+22.02.2017 / 12:03:46  -K-VKV kapatýldý.
+22.02.2017 / 12:04:26  -K-ATM açýldý.
+22.02.2017 / 12:04:27  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 12:04:28  -Azot (Purge) gaz vanasý kapatýldý.
+22.02.2017 / 12:04:29  -Ortak gaz vanasý kapatýldý.
+22.02.2017 / 12:04:32  -MP'ye dur komutu gönderildi.
+22.02.2017 / 12:04:35  -AH-VKV açýldý.

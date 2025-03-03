@@ -1,0 +1,34 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 18:31:25
+1.03.2017 / 18:32:45  -MP'ye dur komutu gönderildi.
+1.03.2017 / 18:32:48  -AH-VKV açýldý.
+1.03.2017 / 18:34:26  -AH-ATM açýldý.
+1.03.2017 / 18:34:29  -AH-VKV kapatýldý.
+1.03.2017 / 18:39:16  -AH-VKV kapatýldý.
+
+***** ERROR  1.03.2017 / 18:39:16    BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 
+
+1.03.2017 / 18:39:21  -AH-VKV kapatýldý.
+1.03.2017 / 18:39:33  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 18:39:37  -Azot (Purge) gaz vanasý kapatýldý.
+1.03.2017 / 18:39:40  -Ortak gaz vanasý kapatýldý.
+1.03.2017 / 18:39:49  -BBÖ-BV kapatýldý.
+
+***** ERROR  1.03.2017 / 18:39:49    K-VKV açýlamaz !
+Sebep :  FAN çalýþýyor ya da Isýtýcýlar Sýcak ya da AV, GAV-ORTAK veya BK-KV açýk olabilir.
+
+1.03.2017 / 18:39:54  -BBÖ-BV kapatýldý.
+1.03.2017 / 18:39:58  -BBÖ-BV kapatýldý.
+
+***** ERROR  1.03.2017 / 18:39:58    K-VKV açýlamaz !
+Sebep :  FAN çalýþýyor ya da Isýtýcýlar Sýcak ya da AV, GAV-ORTAK veya BK-KV açýk olabilir.
+
+1.03.2017 / 18:40:00  -BBÖ-BV kapatýldý.
+1.03.2017 / 18:40:15  -K-VKV açýldý.
+1.03.2017 / 18:40:19  -K-VKV kapatýldý.
+1.03.2017 / 18:40:42  -K-VKV açýldý.
+1.03.2017 / 18:42:09  -K-ATM açýldý.
+1.03.2017 / 18:42:12  -K-VKV kapatýldý.
+1.03.2017 / 18:48:37  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 18:48:43  -AH-ATM kapatýldý.
+1.03.2017 / 18:49:03  -Kelebek vana açýldý.

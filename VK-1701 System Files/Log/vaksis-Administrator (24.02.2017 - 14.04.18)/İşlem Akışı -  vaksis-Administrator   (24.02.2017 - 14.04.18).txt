@@ -1,0 +1,78 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 14:04:18
+24.02.2017 / 14:04:20  -Kelebek vana kapatýldý.
+24.02.2017 / 14:15:16  -Ana vana kapatýldý.
+24.02.2017 / 14:15:27  -DP'ye dur komutu gönderildi.
+24.02.2017 / 14:15:38  -DP-BV kapatýldý.
+24.02.2017 / 14:15:47  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 14:15:58  -Kelebek vana kapatýldý.
+24.02.2017 / 14:16:04  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+24.02.2017 / 14:16:39  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 14:16:43  -RP'ye dur komutu gönderildi.
+24.02.2017 / 14:17:28  -Azot gaz vanasý kapatýldý.
+24.02.2017 / 14:17:30  -Hidrojen gaz vanasý kapatýldý.
+24.02.2017 / 14:17:31  -Ar gaz vanasý kapatýldý.
+24.02.2017 / 14:18:43  -Ortak gaz vanasý kapatýldý.
+24.02.2017 / 14:18:57  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+24.02.2017 / 14:19:02  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  24.02.2017 / 14:19:02    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+24.02.2017 / 14:19:08  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+24.02.2017 / 14:19:09  -Ortak gaz vanasý açýldý.
+24.02.2017 / 14:19:17  -Ortak gaz vanasý açýldý.
+24.02.2017 / 14:23:20  -Ortak gaz vanasý açýldý.
+
+***** ERROR  24.02.2017 / 14:23:20    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 14:23:43  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 14:23:44  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 14:24:07  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 14:24:07    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 14:27:34  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 14:27:36  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 14:28:01  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+24.02.2017 / 14:28:05  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  24.02.2017 / 14:28:05    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+24.02.2017 / 14:29:42  -Azot (Purge) gaz vanasý kapatýldý.
+24.02.2017 / 14:29:53  -Azot (Purge) gaz vanasý açýldý.
+24.02.2017 / 14:30:28  -RP'ye çalýþ komutu gönderildi.
+24.02.2017 / 14:32:38  -DP-BV açýldý.
+24.02.2017 / 14:32:40  -DP-BV açýldý.
+
+***** ERROR  24.02.2017 / 14:32:40    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+24.02.2017 / 14:32:41  -DP-BV açýldý.
+24.02.2017 / 14:33:27  -DP-BV açýldý.
+
+***** ERROR  24.02.2017 / 14:33:27    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+24.02.2017 / 14:33:36  -Kelebek vana kapatýldý.
+24.02.2017 / 14:33:37  -Kelebek vana kapatýldý.
+24.02.2017 / 14:33:41  -Kelebek vana kapatýldý.
+
+***** ERROR  24.02.2017 / 14:33:41    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+24.02.2017 / 14:33:49  -DP-BV kapatýldý.
+24.02.2017 / 14:33:53  -DP-BV kapatýldý.
+24.02.2017 / 14:34:00  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 14:34:26  -Kelebek vana açýldý.
+24.02.2017 / 14:48:18  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 14:48:43  -Kelebek vana kapatýldý.
+24.02.2017 / 14:48:47  -Kelebek vana kapatýldý.
+
+***** ERROR  24.02.2017 / 14:48:47    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+24.02.2017 / 14:48:51  -Kelebek vana kapatýldý.
+24.02.2017 / 14:48:52  -DP-BV açýldý.
+24.02.2017 / 14:48:56  -DP'ye çalýþ komutu gönderildi.
+24.02.2017 / 14:50:13  -Ana vana açýldý.

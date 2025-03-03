@@ -1,0 +1,14 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:09:13
+                                                      
+18.01.2017 / 11:09                                             
+18.01.2017 / 11:09  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:09  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 11:09  -Alt Hat basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 11:09  -DP'nin ýsýnmasý bekleniyor.
+
+***** ERROR  18.01.2017 / 11:09    Sistemi vakuma alma iþlemi Ana Vana
+açýlamadýðý için iptal edildi !
+Lütfen AV baðlantýlarýný kontrol ediniz.
+
+18.01.2017 / 11:10  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:10  -RP'ye dur komutu gönderildi.

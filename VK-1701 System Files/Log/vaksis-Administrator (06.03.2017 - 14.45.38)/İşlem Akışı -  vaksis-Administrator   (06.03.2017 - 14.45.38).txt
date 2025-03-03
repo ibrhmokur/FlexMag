@@ -1,0 +1,12 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 14:45:38
+6.03.2017 / 14:45:40  -Kelebek vana kapatýldý.
+6.03.2017 / 14:46:19  -Kelebek vana kapatýldý.
+
+***** ERROR  6.03.2017 / 14:46:19    AV açýlamaz !
+Sebep : MP, RP veya DP çalýþmýyor ya da DP-BV açýk yada kazan basýncý 1 Torr'un üzerinde olabilir.
+
+6.03.2017 / 14:46:22  -Kelebek vana kapatýldý.
+6.03.2017 / 14:49:15  -Ana vana kapatýldý.
+6.03.2017 / 14:49:26  -Ana vana açýldý.
+6.03.2017 / 14:49:32  -Ana vana kapatýldý.
+6.03.2017 / 14:49:41  -Ana vana ara pozisyona alýndý.

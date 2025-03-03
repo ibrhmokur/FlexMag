@@ -1,0 +1,126 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:43:18
+18.01.2017 / 11:43  -Su akýþ vanasý açýldý.
+                                                      
+18.01.2017 / 11:43                                             
+18.01.2017 / 11:43  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 11:43  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:44  -MP'ye çalýþ komutu gönderildi.
+18.01.2017 / 11:44  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 11:44  -RP'ye çalýþ komutu gönderildi.
+18.01.2017 / 11:44  -Alt Hat basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 11:45  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 11:54  -DP'nin ýsýnmasý bekleniyor.
+18.01.2017 / 11:54  -Ana vana açýldý.
+18.01.2017 / 11:54  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+18.01.2017 / 11:54  -Ýstenilen basýnç seviyesine geldi.
+           -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+18.01.2017 / 11:54                                             
+           -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+18.01.2017 / 13:06                                             
+18.01.2017 / 13:06  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+18.01.2017 / 13:06  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 13:06  -Ana vana kapatýldý.
+18.01.2017 / 13:06  -DP'nin ýsýnmasý bekleniyor.
+18.01.2017 / 13:14  -DP-BV kapatýldý.
+18.01.2017 / 13:14  -MP'ye dur komutu gönderildi.
+18.01.2017 / 13:14  -AH-VKV açýldý.
+18.01.2017 / 13:16  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+18.01.2017 / 13:16  -AH-VKV kapatýldý.
+18.01.2017 / 13:16  -Durdurma iþlemi tamamlandý
+18.01.2017 / 13:16                                             
+           -PL-ATM kapatýldý.
+18.01.2017 / 13:17                                             
+18.01.2017 / 13:17  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 13:17  -MP'ye çalýþ komutu gönderildi.
+18.01.2017 / 13:17  -RP'ye çalýþ komutu gönderildi.
+18.01.2017 / 13:17  -Alt Hat basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 13:17  -DP-BV açýldý.
+18.01.2017 / 13:18  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 13:18  -DP'nin ýsýnmasý bekleniyor.
+18.01.2017 / 13:24  -Ana vana açýldý.
+18.01.2017 / 13:24  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+18.01.2017 / 13:24  -Ýstenilen basýnç seviyesine geldi.
+18.01.2017 / 13:24  -Otomatik Pompalama Ýþlemi Tamamlandý.
+           -Otomatik Pompalama Ýþlemi Tamamlandý.
+18.01.2017 / 13:24  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+           -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+                                                      
+18.01.2017 / 13:25  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 13:25  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 13:25  -Alt Hat basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 13:25  -DP'nin ýsýnmasý bekleniyor.
+18.01.2017 / 13:25  -Ýstenilen basýnç seviyesine geldi.
+18.01.2017 / 13:25  -Otomatik Pompalama Ýþlemi Tamamlandý.
+           -Otomatik Pompalama Ýþlemi Tamamlandý.
+18.01.2017 / 13:25                                             
+18.01.2017 / 13:25  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+           -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+                                                      
+18.01.2017 / 13:26                                             
+18.01.2017 / 13:26  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+18.01.2017 / 13:26  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 13:26  -TP'ye dur komutu gönderildi
+18.01.2017 / 13:33  -DP-BV kapatýldý.
+18.01.2017 / 13:33  -RP'ye dur komutu gönderildi.
+18.01.2017 / 13:33  -MP'ye dur komutu gönderildi.
+18.01.2017 / 13:33  -AH-VKV açýldý.
+18.01.2017 / 13:33  -K-VKV açýldý.
+18.01.2017 / 13:36  -K-ATM açýldý.
+18.01.2017 / 13:36  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+18.01.2017 / 13:37  -Alt Hat atmosfer basýncýna ulaþtý.
+18.01.2017 / 13:37  -PL-ATM kapatýldý.
+           -Durdurma iþlemi tamamlandý
+                                                      
+18.01.2017 / 13:37                                             
+18.01.2017 / 13:37  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+18.01.2017 / 13:39  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+18.01.2017 / 13:39  -PL-ATM kapatýldý.
+18.01.2017 / 13:39  -PL-ATM açýldý.
+18.01.2017 / 13:40  -PL-ATM kapatýldý.
+18.01.2017 / 13:40  -PL-ATM açýldý.
+18.01.2017 / 13:40  -PL-ATM kapatýldý.
+18.01.2017 / 13:40  -PL-ATM açýldý.
+18.01.2017 / 13:43  -K-ATM kapatýldý.
+18.01.2017 / 13:45  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+18.01.2017 / 13:46  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+18.01.2017 / 13:53  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+18.01.2017 / 14:36  -K-VKV açýldý.
+18.01.2017 / 14:37  -K-VKV açýldý.
+18.01.2017 / 14:43  -K-VKV kapatýldý.
+18.01.2017 / 14:44  -K-ATM kapatýldý.
+18.01.2017 / 14:44  -K-ATM açýldý.
+18.01.2017 / 14:44  -K-ATM kapatýldý.
+18.01.2017 / 14:44  -K-VKV kapatýldý.
+18.01.2017 / 14:44  -K-VKV açýldý.
+18.01.2017 / 14:44  -K-VKV kapatýldý.
+           -K-VKV kapatýldý.
+                                                      
+18.01.2017 / 14:44                                             
+18.01.2017 / 14:44  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 14:44  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 14:47  -PL-ATM kapatýldý.
+18.01.2017 / 14:47  -Kelebek vana ara pozisyona alýndý.
+18.01.2017 / 14:47  -MP'ye çalýþ komutu gönderildi.
+18.01.2017 / 14:47  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 14:48  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 14:49  -Kelebek vana kapatýldý.
+           -Kelebek vana kapatýldý.
+18.01.2017 / 14:49  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+18.01.2017 / 14:50  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 14:50  -MP'ye dur komutu gönderildi.
+18.01.2017 / 14:50  -AH-VKV açýldý.
+18.01.2017 / 14:50  -K-ATM açýldý.
+18.01.2017 / 14:50  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+18.01.2017 / 14:50  -K-VKV kapatýldý.
+18.01.2017 / 14:57  -Alt Hat atmosfer basýncýna ulaþtý.
+18.01.2017 / 14:57  -AH-VKV kapatýldý.
+           -Durdurma iþlemi tamamlandý
+                                                      
+18.01.2017 / 14:57                                             
+18.01.2017 / 14:57  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+           -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+18.01.2017 / 14:58                                             
+18.01.2017 / 14:58  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+18.01.2017 / 14:58  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 14:59  -Isýtýcý sýfýra set edildi.

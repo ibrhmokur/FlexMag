@@ -1,0 +1,157 @@
+Hata Mesajlarý -  vaksis-Administrator  / 13:59:22
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 14:31:30   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 14:39:48   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:31:30   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 14:48:27   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:39:48   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:31:30   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 14:48:50   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+28.02.2017 / 14:48:27   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:39:48   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:31:30   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 14:54:38   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:48:50   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+28.02.2017 / 14:48:27   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:39:48   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:31:30   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 15:19:47   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+28.02.2017 / 14:54:38   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:48:50   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+28.02.2017 / 14:48:27   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:39:48   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:31:30   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 15:44:29   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 15:19:47   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+28.02.2017 / 14:54:38   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:48:50   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+28.02.2017 / 14:48:27   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:39:48   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:31:30   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 15:50:08   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+28.02.2017 / 15:44:29   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 15:19:47   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+28.02.2017 / 14:54:38   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:48:50   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+28.02.2017 / 14:48:27   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:39:48   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+28.02.2017 / 14:31:30   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:26:18   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+28.02.2017 / 14:01:34   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+28.02.2017 / 14:00:13   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+28.02.2017 / 13:59:46   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.

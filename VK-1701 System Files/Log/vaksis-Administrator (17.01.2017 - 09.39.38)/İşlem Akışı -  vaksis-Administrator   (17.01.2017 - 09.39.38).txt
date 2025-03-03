@@ -1,0 +1,12 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:39:38
+17.01.2017 / 09:39  -Kelebek vana kapatýldý.
+17.01.2017 / 09:39  -AH-VKV açýldý.
+
+***** ERROR  17.01.2017 / 09:39    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+17.01.2017 / 09:39  -AH-VKV kapatýldý.
+17.01.2017 / 09:41  -AH-VKV kapatýldý.
+17.01.2017 / 09:42  -AH-VKV kapatýldý.
+17.01.2017 / 09:42  -K-VKV kapatýldý.
+17.01.2017 / 09:42  -K-VKV açýldý.

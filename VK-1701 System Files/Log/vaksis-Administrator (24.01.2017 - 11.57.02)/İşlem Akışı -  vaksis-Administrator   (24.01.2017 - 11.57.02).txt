@@ -1,0 +1,38 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:57:02
+24.01.2017 / 11:57:04  -Kelebek vana kapatýldý.
+                                                      
+24.01.2017 / 13:29:26  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+24.01.2017 / 13:29:28  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:29:30  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:29:30  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:29:44  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  24.01.2017 / 13:29:44    Sistemi vakuma alma iþlemi su akýþý (MS)
+yeterli olmadýðý için durduruldu !
+Lütfen su akýþýný kontrol ediniz.
+
+24.01.2017 / 13:29:48  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:29:49  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:29:49  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:30:06  -Su akýþ vanasý açýldý.
+                                                      
+24.01.2017 / 13:30:23  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+24.01.2017 / 13:30:26  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:30:26  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:30:28  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:30:47  -AH-VKV açýldý.
+24.01.2017 / 13:30:47  -Alt Hat atmosfer basýncýna ulaþtý.
+24.01.2017 / 13:30:50  -AH-VKV kapatýldý.
+24.01.2017 / 13:30:55  -AH-ATM kapatýldý.
+24.01.2017 / 13:31:04  -Kelebek vana ara pozisyona alýndý.
+24.01.2017 / 13:31:30  -Kelebek vana açýldý.
+24.01.2017 / 13:31:34  -MP'ye çalýþ komutu gönderildi.
+24.01.2017 / 13:31:37  -MP'ye çalýþ komutu gönderildi.
+
+***** ERROR  24.01.2017 / 13:31:37    BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+
+24.01.2017 / 13:31:37  -K-ATM kapatýldý.
+24.01.2017 / 13:31:41  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:31:41  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:31:42  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:31:45  -Kelebek vana ara pozisyona alýndý.

@@ -1,0 +1,83 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:31:40
+19.01.2017 / 11:31:42  -Kelebek vana kapatýldý.
+19.01.2017 / 11:32:00  -AH-ATM kapatýldý.
+19.01.2017 / 11:32:01  -MP'ye çalýþ komutu gönderildi.
+19.01.2017 / 11:32:04  -Kelebek vana ara pozisyona alýndý.
+19.01.2017 / 11:32:06  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  19.01.2017 / 11:32:06    MP durdurulamaz !
+Sebep : DP-BV ya da BK-KV açýk, RP çalýþýyor  olabilir.
+
+19.01.2017 / 11:32:17  -Kelebek vana ara pozisyona alýndý.
+19.01.2017 / 11:32:33  -Kelebek vana kapatýldý.
+19.01.2017 / 11:32:41  -MP'ye dur komutu gönderildi.
+19.01.2017 / 11:32:44  -AH-VKV açýldý.
+19.01.2017 / 11:34:27  -AH-ATM açýldý.
+19.01.2017 / 11:34:30  -AH-VKV kapatýldý.
+19.01.2017 / 11:35:54  -Kelebek vana ara pozisyona alýndý.
+19.01.2017 / 11:36:20  -Kelebek vana açýldý.
+19.01.2017 / 11:37:07  -AH-ATM kapatýldý.
+19.01.2017 / 11:37:27  -Kelebek vana ara pozisyona alýndý.
+19.01.2017 / 11:37:53  -Kelebek vana kapatýldý.
+19.01.2017 / 11:38:01  -MP'ye dur komutu gönderildi.
+19.01.2017 / 11:38:04  -AH-VKV açýldý.
+19.01.2017 / 11:39:47  -AH-ATM açýldý.
+19.01.2017 / 11:39:50  -AH-VKV kapatýldý.
+19.01.2017 / 11:43:59  -K-VKV açýldý.
+19.01.2017 / 11:44:53  -K-ATM açýldý.
+19.01.2017 / 11:44:55  -K-VKV kapatýldý.
+                                                      
+19.01.2017 / 11:45:04  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+19.01.2017 / 11:45:06  -3. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 11:45:08  -2. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 11:45:27  -AH-VKV açýldý.
+19.01.2017 / 11:45:28  -Alt Hat atmosfer basýncýna ulaþtý.
+19.01.2017 / 11:45:29  -AH-VKV kapatýldý.
+19.01.2017 / 11:45:35  -AH-ATM kapatýldý.
+19.01.2017 / 11:45:45  -Kelebek vana ara pozisyona alýndý.
+19.01.2017 / 11:46:10  -Kelebek vana açýldý.
+19.01.2017 / 11:46:14  -MP'ye çalýþ komutu gönderildi.
+19.01.2017 / 11:46:17  -K-ATM kapatýldý.
+19.01.2017 / 11:46:18  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+19.01.2017 / 11:52:03  -RP'ye çalýþ komutu gönderildi.
+19.01.2017 / 11:52:04  -Kazan basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+19.01.2017 / 11:52:21  -1. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 11:52:21  -2. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 11:52:22  -3. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 11:52:23  -RP'ye dur komutu gönderildi.
+19.01.2017 / 11:52:26  -Kelebek vana ara pozisyona alýndý.
+19.01.2017 / 11:52:52  -Kelebek vana kapatýldý.
+19.01.2017 / 11:54:30  -MP'ye dur komutu gönderildi.
+19.01.2017 / 11:54:33  -AH-VKV açýldý.
+19.01.2017 / 11:56:15  -AH-ATM açýldý.
+19.01.2017 / 11:56:18  -AH-VKV kapatýldý.
+19.01.2017 / 11:56:27  -K-VKV açýldý.
+19.01.2017 / 11:58:59  -K-ATM açýldý.
+19.01.2017 / 11:59:01  -K-VKV kapatýldý.
+                                                      
+19.01.2017 / 12:07:41  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+19.01.2017 / 12:07:43  -2. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 12:07:44  -3. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 12:08:03  -AH-VKV açýldý.
+19.01.2017 / 12:08:05  -Alt Hat atmosfer basýncýna ulaþtý.
+19.01.2017 / 12:08:06  -AH-VKV kapatýldý.
+19.01.2017 / 12:08:12  -AH-ATM kapatýldý.
+19.01.2017 / 12:08:21  -Kelebek vana ara pozisyona alýndý.
+19.01.2017 / 12:08:46  -Kelebek vana açýldý.
+19.01.2017 / 12:08:50  -MP'ye çalýþ komutu gönderildi.
+19.01.2017 / 12:08:53  -K-ATM kapatýldý.
+19.01.2017 / 12:08:54  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+19.01.2017 / 12:14:19  -RP'ye çalýþ komutu gönderildi.
+19.01.2017 / 12:14:20  -Kazan basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+19.01.2017 / 12:15:11  -Kelebek vana ara pozisyona alýndý.
+19.01.2017 / 12:15:37  -Kelebek vana kapatýldý.
+19.01.2017 / 12:15:46  -DP-BV açýldý.
+19.01.2017 / 12:15:49  -TP'ye çalýþ komutu gönderildi.
+19.01.2017 / 12:15:52  -DP'nin ýsýnmasý bekleniyor.
+19.01.2017 / 12:26:10  -BBÖ-BV açýldý.
+19.01.2017 / 12:33:43  -Ana vana açýldý.
+19.01.2017 / 12:33:44  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+19.01.2017 / 12:55:56  -Ýstenilen basýnç seviyesine geldi.
+19.01.2017 / 12:56:04  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+19.01.2017 / 12:56:07  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

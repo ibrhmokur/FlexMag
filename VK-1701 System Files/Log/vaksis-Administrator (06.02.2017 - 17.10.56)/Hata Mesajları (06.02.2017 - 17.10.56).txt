@@ -1,0 +1,19 @@
+Hata Mesajlarý -  vaksis-Administrator  / 17:10:56
+
+6.02.2017 / 17:19:36   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+6.02.2017 / 17:19:36   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+6.02.2017 / 17:19:40   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+6.02.2017 / 17:19:36   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+6.02.2017 / 17:19:40   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+6.02.2017 / 17:21:01   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+6.02.2017 / 17:19:36   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+6.02.2017 / 17:19:40   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+6.02.2017 / 17:21:01   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+6.02.2017 / 17:21:10   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.

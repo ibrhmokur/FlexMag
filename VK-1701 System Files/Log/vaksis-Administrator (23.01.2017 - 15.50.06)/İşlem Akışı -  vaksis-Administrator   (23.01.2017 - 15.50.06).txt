@@ -1,0 +1,5 @@
+İşlem Akışı -  vaksis-Administrator  / 15:50:06
+23.01.2017 / 15:50:08  -Kelebek vana kapatıldı.
+23.01.2017 / 15:50:15  -Gaz Purifier çıkış vanası açıldı.
+23.01.2017 / 15:50:24  -Gaz Purifier çıkış vanası kapatıldı.
+23.01.2017 / 15:50:29  -Gaz Purifier baypas vanası kapatıldı.

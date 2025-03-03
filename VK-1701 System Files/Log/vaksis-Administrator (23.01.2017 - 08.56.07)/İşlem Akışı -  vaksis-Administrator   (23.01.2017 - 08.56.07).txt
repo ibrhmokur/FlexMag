@@ -1,0 +1,35 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:56:07
+23.01.2017 / 08:56:09  -Kelebek vana kapatýldý.
+23.01.2017 / 08:56:11  -Ana vana açýldý.
+23.01.2017 / 08:56:11  -RP'ye çalýþ komutu gönderildi.
+23.01.2017 / 08:56:13  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  23.01.2017 / 08:56:13    AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+
+23.01.2017 / 08:56:39  -Ana vana kapatýldý.
+23.01.2017 / 08:58:01                                             
+23.01.2017 / 08:58:02  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+23.01.2017 / 08:58:05  -2. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:58:07  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:58:10  -1. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:58:11  -2. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:58:11  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:58:12  -RP'ye dur komutu gönderildi.
+23.01.2017 / 08:58:39  -DP-BV kapatýldý.
+                                                      
+23.01.2017 / 08:58:46  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+23.01.2017 / 08:58:48  -1. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:58:50  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:59:03  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+23.01.2017 / 08:59:07  -RP'ye çalýþ komutu gönderildi.
+23.01.2017 / 08:59:08  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+23.01.2017 / 08:59:16  -DP-BV açýldý.
+23.01.2017 / 08:59:19  -DP'ye çalýþ komutu gönderildi.
+23.01.2017 / 09:00:22  -DP'nin ýsýnmasý bekleniyor.
+23.01.2017 / 09:05:08  -BBÖ-BV açýldý.
+23.01.2017 / 09:05:26  -Ana vana açýldý.
+23.01.2017 / 09:05:27  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+23.01.2017 / 09:06:18  -Ýstenilen basýnç seviyesine geldi.
+23.01.2017 / 09:06:25  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+23.01.2017 / 09:06:28  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

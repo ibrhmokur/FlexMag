@@ -1,0 +1,75 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:34:51
+                                                      
+30.01.2017 / 13:35:11  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+30.01.2017 / 13:35:14  -1. Bölge Isýtýcýsý sýfýra set edildi.
+30.01.2017 / 13:35:14  -2. Bölge Isýtýcýsý sýfýra set edildi.
+30.01.2017 / 13:35:16  -3. Bölge Isýtýcýsý sýfýra set edildi.
+30.01.2017 / 13:35:32  -Alt Hat atmosfer basýncýna ulaþtý.
+30.01.2017 / 13:35:39  -AH-ATM kapatýldý.
+30.01.2017 / 13:35:49  -Kelebek vana ara pozisyona alýndý.
+30.01.2017 / 13:36:15  -Kelebek vana açýldý.
+30.01.2017 / 13:36:19  -K-ATM kapatýldý.
+30.01.2017 / 13:36:22  -MP'ye çalýþ komutu gönderildi.
+30.01.2017 / 13:36:23  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+30.01.2017 / 13:41:39  -RP'ye çalýþ komutu gönderildi.
+30.01.2017 / 13:41:39  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+30.01.2017 / 13:42:17  -BBÖ-BV açýldý.
+30.01.2017 / 13:42:27  -Kelebek vana ara pozisyona alýndý.
+30.01.2017 / 13:42:53  -Kelebek vana kapatýldý.
+30.01.2017 / 13:43:02  -DP-BV açýldý.
+30.01.2017 / 13:43:05  -DP'ye çalýþ komutu gönderildi.
+30.01.2017 / 13:46:12  -DP'nin ýsýnmasý bekleniyor.
+30.01.2017 / 14:01:25  -Ana vana açýldý.
+30.01.2017 / 14:01:26  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+30.01.2017 / 14:20:01  -Ýstenilen basýnç seviyesine geldi.
+30.01.2017 / 14:20:08  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+30.01.2017 / 14:20:11  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+30.01.2017 / 14:54:01  -Ortak gaz vanasý açýldý.
+30.01.2017 / 15:01:10  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:01:11  -Isýtýcý istenilen deðere set edildi.
+30.01.2017 / 15:01:11  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:01:12  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:04:52  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:04:53  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:04:54  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:08:39  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:08:42  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:08:44  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:31:10  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:31:11  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:31:12  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:36:25  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:36:25  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:36:27  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:42:38  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:42:39  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:42:41  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:54:01  -1. Bölge Isýtýcýsý sýfýra set edildi.
+30.01.2017 / 15:54:02  -2. Bölge Isýtýcýsý sýfýra set edildi.
+30.01.2017 / 15:54:03  -Isýtýcý sýfýra set edildi.
+30.01.2017 / 15:54:14  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:54:16  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:54:18  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:59:14  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:59:14  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 15:59:39  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 16:09:30  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 16:09:30  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 16:23:29  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 16:23:29  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 16:23:30  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+30.01.2017 / 16:55:45  -1. Bölge Isýtýcýsý sýfýra set edildi.
+30.01.2017 / 16:55:46  -2. Bölge Isýtýcýsý sýfýra set edildi.
+30.01.2017 / 16:55:48  -3. Bölge Isýtýcýsý sýfýra set edildi.
+30.01.2017 / 16:55:49  -Isýtýcý sýfýra set edildi.
+30.01.2017 / 17:54:44  -Ana vana kapatýldý.
+30.01.2017 / 17:54:55  -DP'ye dur komutu gönderildi.
+30.01.2017 / 18:01:00  -BBÖ-BV kapatýldý.
+30.01.2017 / 18:06:43  -Ortak gaz vanasý kapatýldý.
+30.01.2017 / 18:09:41  -DP-BV kapatýldý.
+30.01.2017 / 18:09:46  -RP'ye dur komutu gönderildi.
+30.01.2017 / 18:09:54  -MP'ye dur komutu gönderildi.
+30.01.2017 / 18:09:56  -AH-VKV açýldý.
+30.01.2017 / 18:11:34  -AH-ATM açýldý.
+30.01.2017 / 18:11:37  -AH-VKV kapatýldý.

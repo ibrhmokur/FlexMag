@@ -1,0 +1,8 @@
+Hata Mesajlarý -  vaksis-Administrator  / 10:01:50
+
+27.01.2017 / 09:25:45   Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+27.01.2017 / 09:37:41   GaV-N2 kapatýlamaz !
+Sebep : HATA KOD 11 !
+27.01.2017 / 09:38:01   GaV-N2 kapatýlamaz !
+Sebep : HATA KOD 11 !

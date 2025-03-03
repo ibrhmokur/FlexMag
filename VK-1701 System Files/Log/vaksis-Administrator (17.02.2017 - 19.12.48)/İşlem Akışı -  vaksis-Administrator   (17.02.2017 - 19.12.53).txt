@@ -1,0 +1,58 @@
+İşlem Akışı -  vaksis-Administrator  / 19:12:53
+17.02.2017 / 19:14:19  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:14:19  -Isıtıcı istenilen değere set edildi.
+17.02.2017 / 19:14:24  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:14:28  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:18:47  -1. Bölge Isıtıcısı sıfıra set edildi.
+17.02.2017 / 19:18:48  -2. Bölge Isıtıcısı sıfıra set edildi.
+17.02.2017 / 19:18:49  -Isıtıcı sıfıra set edildi.
+17.02.2017 / 19:22:50  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:22:50  -Isıtıcı istenilen değere set edildi.
+17.02.2017 / 19:22:51  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:22:51  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:23:01  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:23:03  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:23:03  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:23:36  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:23:38  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:24:09  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:24:11  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:24:13  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:26:08  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:26:10  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:26:12  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:28:57  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:28:58  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:29:42  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:29:43  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:29:59  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:29:59  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:30:01  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:31:02  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:31:03  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:31:04  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:34:36  -1. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:34:36  -2. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:34:37  -3. Bölge Isıtıcısı istenilen değere set edildi.
+17.02.2017 / 19:34:47  -1. Bölge Isıtıcısı sıfıra set edildi.
+17.02.2017 / 19:34:47  -2. Bölge Isıtıcısı sıfıra set edildi.
+17.02.2017 / 19:34:48  -Isıtıcı sıfıra set edildi.
+                                                      
+17.02.2017 / 19:53:27  -Sistemi "Durdurma" İşlemi Başlatıldı.
+17.02.2017 / 19:53:31  -1. Bölge Isıtıcısı sıfıra set edildi.
+17.02.2017 / 19:53:31  -2. Bölge Isıtıcısı sıfıra set edildi.
+17.02.2017 / 19:53:32  -3. Bölge Isıtıcısı sıfıra set edildi.
+17.02.2017 / 19:53:37  -BBÖ-BV kapatıldı.
+17.02.2017 / 19:53:41  -Ana vana kapatıldı.
+17.02.2017 / 19:53:53  -DP'ye dur komutu gönderildi.
+17.02.2017 / 19:53:56  -DP'nin soğuması bekleniyor.
+17.02.2017 / 20:04:47  -DP-BV kapatıldı.
+17.02.2017 / 20:04:50  -RP'ye dur komutu gönderildi.
+17.02.2017 / 20:04:54  -MP'ye dur komutu gönderildi.
+17.02.2017 / 20:04:57  -AH-VKV açıldı.
+17.02.2017 / 20:04:58  -Alt Hattın atmosfer basıncına gelmesi bekleniyor
+17.02.2017 / 20:06:33  -Alt Hat atmosfer basıncına ulaştı.
+17.02.2017 / 20:06:34  -AH-ATM açıldı.
+17.02.2017 / 20:06:36  -AH-VKV kapatıldı.
+17.02.2017 / 20:06:38  -Durdurma işlemi tamamlandı
+                                                      

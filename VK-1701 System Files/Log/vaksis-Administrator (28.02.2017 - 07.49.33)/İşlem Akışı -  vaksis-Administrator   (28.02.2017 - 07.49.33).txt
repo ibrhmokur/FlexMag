@@ -1,0 +1,59 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 07:49:33
+28.02.2017 / 07:49:35  -Kelebek vana kapatýldý.
+28.02.2017 / 07:49:36  -AH-ATM açýldý.
+
+***** ERROR  28.02.2017 / 07:49:36    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+28.02.2017 / 08:02:15  -AH-ATM açýldý.
+28.02.2017 / 08:03:56  -Su akýþ vanasý açýldý.
+28.02.2017 / 08:04:23  -Su akýþ vanasý açýldý.
+
+***** ERROR  28.02.2017 / 08:04:23    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 08:04:23  -Su akýþ vanasý kapatýldý.
+28.02.2017 / 08:04:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:04:24  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:04:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:04:25  -Su akýþ vanasý açýldý.
+28.02.2017 / 08:04:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:04:38  -Su akýþ vanasý kapatýldý.
+28.02.2017 / 08:04:40  -Su akýþ vanasý açýldý.
+28.02.2017 / 08:05:20  -Su akýþ vanasý kapatýldý.
+28.02.2017 / 08:05:21  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:05:21  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:05:22  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:05:24  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 08:05:24    Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 08:05:26  -Su akýþ vanasý açýldý.
+28.02.2017 / 08:05:32  -Su akýþ vanasý açýldý.
+
+***** ERROR  28.02.2017 / 08:05:32    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 08:05:32  -Su akýþ vanasý kapatýldý.
+28.02.2017 / 08:05:33  -Su akýþ vanasý açýldý.
+28.02.2017 / 08:05:51  -Su akýþ vanasý açýldý.
+                                                      
+28.02.2017 / 08:05:58  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+28.02.2017 / 08:06:01  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:06:03  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 08:06:14  -AH-ATM kapatýldý.
+28.02.2017 / 08:06:18  -MP'ye çalýþ komutu gönderildi.
+28.02.2017 / 08:06:19  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+28.02.2017 / 08:07:04  -RP'ye çalýþ komutu gönderildi.
+28.02.2017 / 08:07:05  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+28.02.2017 / 08:07:19  -DP-BV açýldý.
+28.02.2017 / 08:07:23  -DP'ye çalýþ komutu gönderildi.
+28.02.2017 / 08:07:25  -DP'nin ýsýnmasý bekleniyor.
+28.02.2017 / 08:24:58  -BBÖ-BV açýldý.
+28.02.2017 / 08:25:16  -Ana vana açýldý.
+28.02.2017 / 08:25:17  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+28.02.2017 / 08:29:55  -Ýstenilen basýnç seviyesine geldi.
+28.02.2017 / 08:30:02  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+28.02.2017 / 08:30:05  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

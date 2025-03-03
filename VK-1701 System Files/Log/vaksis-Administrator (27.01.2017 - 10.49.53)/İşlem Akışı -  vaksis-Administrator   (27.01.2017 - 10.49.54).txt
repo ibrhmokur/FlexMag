@@ -1,0 +1,14 @@
+İşlem Akışı -  vaksis-Administrator  / 10:49:54
+27.01.2017 / 10:49:55  -Kelebek vana kapatıldı.
+27.01.2017 / 10:50:22  -Azot (Purge) gaz vanası kapatıldı.
+27.01.2017 / 10:50:25  -Azot (Purge) gaz vanası açıldı.
+27.01.2017 / 10:50:29  -Azot (Purge) gaz vanası kapatıldı.
+27.01.2017 / 10:50:32  -Azot gaz vanası kapatıldı.
+27.01.2017 / 10:50:34  -Hidrojen gaz vanası kapatıldı.
+27.01.2017 / 10:50:36  -Ar gaz vanası kapatıldı.
+27.01.2017 / 11:03:06  -Isıtıcı istenilen değere set edildi.
+27.01.2017 / 11:03:07  -2. Bölge Isıtıcısı istenilen değere set edildi.
+27.01.2017 / 11:03:08  -3. Bölge Isıtıcısı istenilen değere set edildi.
+27.01.2017 / 11:03:43  -1. Bölge Isıtıcısı sıfıra set edildi.
+27.01.2017 / 11:03:44  -2. Bölge Isıtıcısı sıfıra set edildi.
+27.01.2017 / 11:03:45  -Isıtıcı sıfıra set edildi.

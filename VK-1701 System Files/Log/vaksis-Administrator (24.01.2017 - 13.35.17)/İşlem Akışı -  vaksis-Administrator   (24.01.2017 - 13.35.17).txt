@@ -1,0 +1,12 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 13:35:17
+24.01.2017 / 13:35:19  -Kelebek vana ara pozisyona alýndý.
+24.01.2017 / 13:35:25  -Kelebek vana kapatýldý.
+24.01.2017 / 13:35:36  -MP'ye dur komutu gönderildi.
+24.01.2017 / 13:35:39  -K-VKV açýldý.
+24.01.2017 / 13:36:24  -K-ATM açýldý.
+24.01.2017 / 13:36:27  -K-VKV kapatýldý.
+24.01.2017 / 13:37:19  -AH-ATM açýldý.
+24.01.2017 / 13:37:20  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:37:21  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:37:21  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.01.2017 / 13:37:22  -AH-VKV kapatýldý.

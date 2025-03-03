@@ -1,0 +1,23 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:14:42
+1.03.2017 / 09:14:43  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 09:14:49  -Kelebek vana açýldý.
+1.03.2017 / 09:16:50  -BBÖ-BV açýldý.
+1.03.2017 / 09:16:52  -RP'ye çalýþ komutu gönderildi.
+1.03.2017 / 09:19:17  -Ortak gaz vanasý açýldý.
+1.03.2017 / 09:19:28  -Ar gaz vanasý açýldý.
+1.03.2017 / 09:19:32  -Ar gaz vanasý kapatýldý.
+1.03.2017 / 09:19:33  -Ar gaz vanasý kapatýldý.
+
+***** ERROR  1.03.2017 / 09:19:33    GaV-H2 açýlamaz !
+Sebep : GaV-Ort kapalý ya da GaV-Ar veya Gav N2 kapalý olabilir.
+
+1.03.2017 / 09:19:44  -Ar gaz vanasý kapatýldý.
+1.03.2017 / 09:19:49  -Ar gaz vanasý açýldý.
+1.03.2017 / 09:19:53  -Hidrojen gaz vanasý açýldý.
+1.03.2017 / 09:19:55  -Azot (Purge) gaz vanasý açýldý.
+1.03.2017 / 09:21:01  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 09:21:11  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+
+***** ERROR  1.03.2017 / 09:21:11    N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+

@@ -1,0 +1,29 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:13:58
+17.02.2017 / 11:13:59  -Kelebek vana kapatýldý.
+17.02.2017 / 11:14:16  -BBÖ-BV kapatýldý.
+17.02.2017 / 11:14:20  -BBÖ-BV açýldý.
+17.02.2017 / 11:14:23  -BBÖ-BV açýldý.
+
+***** ERROR  17.02.2017 / 11:14:23    DP durdurulamaz !
+Sebep : AV açýk.
+
+17.02.2017 / 11:14:24  -3. Bölge Isýtýcýsý sýfýra set edildi.
+17.02.2017 / 11:14:24  -2. Bölge Isýtýcýsý sýfýra set edildi.
+17.02.2017 / 11:14:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+17.02.2017 / 11:14:25  -BBÖ-BV kapatýldý.
+17.02.2017 / 11:14:25  -DP'ye dur komutu gönderildi.
+17.02.2017 / 11:14:25  -Ana vana kapatýldý.
+17.02.2017 / 11:14:28  -RP'ye dur komutu gönderildi.
+17.02.2017 / 11:14:30  -RP'ye dur komutu gönderildi.
+17.02.2017 / 11:14:55  -RP'ye çalýþ komutu gönderildi.
+17.02.2017 / 11:15:00  -DP-BV açýldý.
+17.02.2017 / 11:15:02  -DP-BV açýldý.
+
+***** ERROR  17.02.2017 / 11:15:02    AV açýlamaz !
+Sebep : MP, RP veya DP çalýþmýyor ya da DP-BV açýk yada kazan basýncý 1 Torr'un üzerinde olabilir.
+
+17.02.2017 / 11:15:02  -DP'ye çalýþ komutu gönderildi.
+17.02.2017 / 11:15:22  -Ana vana açýldý.
+17.02.2017 / 11:15:29  -Ana vana kapatýldý.
+17.02.2017 / 11:15:46  -BBÖ-BV açýldý.
+17.02.2017 / 11:15:56  -Ana vana açýldý.

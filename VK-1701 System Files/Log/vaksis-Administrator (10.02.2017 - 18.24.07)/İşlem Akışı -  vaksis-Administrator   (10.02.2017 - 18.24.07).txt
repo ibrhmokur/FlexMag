@@ -1,0 +1,18 @@
+İşlem Akışı -  vaksis-Administrator  / 18:24:07
+10.02.2017 / 18:24:09  -Kelebek vana kapatıldı.
+10.02.2017 / 18:24:24  -DP-BV kapatıldı.
+10.02.2017 / 18:24:28  -RP'ye dur komutu gönderildi.
+10.02.2017 / 18:24:35  -MP'ye dur komutu gönderildi.
+10.02.2017 / 18:24:38  -AH-VKV açıldı.
+10.02.2017 / 18:24:47  -2. Bölge Isıtıcısı istenilen değere set edildi.
+10.02.2017 / 18:24:48  -Isıtıcı istenilen değere set edildi.
+10.02.2017 / 18:24:49  -3. Bölge Isıtıcısı istenilen değere set edildi.
+10.02.2017 / 18:25:08  -1. Bölge Isıtıcısı sıfıra set edildi.
+10.02.2017 / 18:25:09  -2. Bölge Isıtıcısı sıfıra set edildi.
+10.02.2017 / 18:25:10  -Isıtıcı sıfıra set edildi.
+10.02.2017 / 18:25:19  -1. Bölge Isıtıcısı sıfıra set edildi.
+10.02.2017 / 18:25:20  -2. Bölge Isıtıcısı sıfıra set edildi.
+10.02.2017 / 18:25:21  -3. Bölge Isıtıcısı sıfıra set edildi.
+10.02.2017 / 18:25:32  -1. Bölge Isıtıcısı sıfıra set edildi.
+10.02.2017 / 18:25:33  -2. Bölge Isıtıcısı sıfıra set edildi.
+10.02.2017 / 18:25:33  -3. Bölge Isıtıcısı sıfıra set edildi.

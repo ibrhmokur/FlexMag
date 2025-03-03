@@ -1,0 +1,31 @@
+Hata Mesajlarý -  vaksis-Administrator  / 10:09:26
+1.03.2017 / 10:11:39   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 10:16:26   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+1.03.2017 / 10:11:39   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 10:23:06   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+1.03.2017 / 10:16:26   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+1.03.2017 / 10:11:39   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 10:25:40   Kazan Atmosfer Basýncýna ulaþtý !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+1.03.2017 / 10:23:06   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+1.03.2017 / 10:16:26   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+1.03.2017 / 10:11:39   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+1.03.2017 / 10:43:05   2. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+1.03.2017 / 10:25:40   Kazan Atmosfer Basýncýna ulaþtý !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+1.03.2017 / 10:23:06   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+1.03.2017 / 10:16:26   GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+1.03.2017 / 10:11:39   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.

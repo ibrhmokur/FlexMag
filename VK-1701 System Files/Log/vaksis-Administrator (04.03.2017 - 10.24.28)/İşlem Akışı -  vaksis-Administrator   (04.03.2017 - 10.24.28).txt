@@ -1,0 +1,44 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:24:28
+4.03.2017 / 11:18:31                                             
+
+***** ERROR  4.03.2017 / 11:18:31    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+4.03.2017 / 11:18:32  -1. Bölge Isýtýcýsý sýfýra set edildi.
+4.03.2017 / 11:18:32  -2. Bölge Isýtýcýsý sýfýra set edildi.
+4.03.2017 / 11:18:33  -3. Bölge Isýtýcýsý sýfýra set edildi.
+4.03.2017 / 11:18:33  -2. Bölge Isýtýcýsý sýfýra set edildi.
+4.03.2017 / 11:18:34  -3. Bölge Isýtýcýsý sýfýra set edildi.
+4.03.2017 / 11:18:46  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  4.03.2017 / 11:18:46    Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+4.03.2017 / 11:40:52  -AH-ATM kapatýldý.
+4.03.2017 / 11:40:53  -MP'ye çalýþ komutu gönderildi.
+4.03.2017 / 11:40:54  -MP'ye çalýþ komutu gönderildi.
+4.03.2017 / 11:41:03  -RP'ye çalýþ komutu gönderildi.
+4.03.2017 / 11:49:25  -RP'ye dur komutu gönderildi.
+4.03.2017 / 11:49:29  -MP'ye dur komutu gönderildi.
+4.03.2017 / 11:49:32  -AH-VKV açýldý.
+4.03.2017 / 11:51:12  -AH-ATM açýldý.
+4.03.2017 / 11:51:15  -AH-VKV kapatýldý.
+4.03.2017 / 13:22:58  -AH-ATM kapatýldý.
+4.03.2017 / 13:22:59  -MP'ye çalýþ komutu gönderildi.
+4.03.2017 / 13:23:10  -RP'ye çalýþ komutu gönderildi.
+4.03.2017 / 13:24:49  -RP'ye dur komutu gönderildi.
+4.03.2017 / 13:24:56  -MP'ye dur komutu gönderildi.
+4.03.2017 / 13:24:59  -AH-VKV açýldý.
+4.03.2017 / 13:25:51  -AH-VKV açýldý.
+
+***** ERROR  4.03.2017 / 13:25:51    MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+
+4.03.2017 / 13:25:55  -AH-VKV kapatýldý.
+4.03.2017 / 13:26:06  -MP'ye çalýþ komutu gönderildi.
+4.03.2017 / 13:26:13  -RP'ye çalýþ komutu gönderildi.
+4.03.2017 / 13:28:48  -RP'ye dur komutu gönderildi.
+4.03.2017 / 13:28:51  -MP'ye dur komutu gönderildi.
+4.03.2017 / 13:28:54  -AH-VKV açýldý.
+4.03.2017 / 13:29:19  -AH-ATM açýldý.
+4.03.2017 / 13:29:21  -AH-VKV kapatýldý.

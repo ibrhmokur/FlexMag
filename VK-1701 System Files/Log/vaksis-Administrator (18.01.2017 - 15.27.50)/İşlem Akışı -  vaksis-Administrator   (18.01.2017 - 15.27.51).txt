@@ -1,0 +1,39 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:27:51
+           -Kelebek vana kapatýldý.
+                                                      
+18.01.2017 / 15:28                                             
+18.01.2017 / 15:28  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+18.01.2017 / 15:28  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:29  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:29  -MP'ye dur komutu gönderildi.
+18.01.2017 / 15:29  -AH-VKV açýldý.
+18.01.2017 / 15:29  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+18.01.2017 / 15:32  -K-ATM açýldý.
+18.01.2017 / 15:32  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+18.01.2017 / 15:33  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+18.01.2017 / 15:33  -Alt Hat atmosfer basýncýna ulaþtý.
+18.01.2017 / 15:33  -AH-VKV kapatýldý.
+           -Durdurma iþlemi tamamlandý
+                                                      
+18.01.2017 / 15:33                                             
+18.01.2017 / 15:33  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+                                                      
+18.01.2017 / 15:36                                             
+18.01.2017 / 15:36  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 15:36  -PL-ATM kapatýldý.
+18.01.2017 / 15:36  -Kelebek vana ara pozisyona alýndý.
+18.01.2017 / 15:37  -Kelebek vana açýldý.
+18.01.2017 / 15:37  -MP'ye çalýþ komutu gönderildi.
+18.01.2017 / 15:42  -RP'ye çalýþ komutu gönderildi.
+18.01.2017 / 15:43  -Kelebek vana ara pozisyona alýndý.
+18.01.2017 / 15:43  -Kelebek vana kapatýldý.
+18.01.2017 / 15:44  -DP-BV açýldý.
+18.01.2017 / 15:46  -TP'ye çalýþ komutu gönderildi.
+18.01.2017 / 15:57  -Ana vana açýldý.
+18.01.2017 / 15:57  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+18.01.2017 / 15:58  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+18.01.2017 / 15:58  -Ýstenilen basýnç seviyesine geldi.
+18.01.2017 / 15:58  -Otomatik Pompalama Ýþlemi Tamamlandý.
+           -Otomatik Pompalama Ýþlemi Tamamlandý.
+18.01.2017 / 15:58                                             
+18.01.2017 / 15:59  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

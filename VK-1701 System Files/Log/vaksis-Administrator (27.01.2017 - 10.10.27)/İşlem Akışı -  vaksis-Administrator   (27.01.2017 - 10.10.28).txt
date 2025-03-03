@@ -1,0 +1,25 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:10:28
+                                                      
+27.01.2017 / 10:11:09  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+27.01.2017 / 10:11:11  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 10:11:13  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 10:11:13  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 10:11:26  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+27.01.2017 / 10:11:28  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+27.01.2017 / 10:11:35  -DP'nin ýsýnmasý bekleniyor.
+27.01.2017 / 10:11:40  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+27.01.2017 / 10:27:00  -Ýstenilen basýnç seviyesine geldi.
+27.01.2017 / 10:27:07  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+27.01.2017 / 10:27:10  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+27.01.2017 / 10:37:51  -Ortak gaz vanasý açýldý.
+27.01.2017 / 10:44:54  -Ar gaz vanasý açýldý.
+27.01.2017 / 10:45:17  -Hidrojen gaz vanasý açýldý.
+27.01.2017 / 10:45:32  -Azot gaz vanasý açýldý.
+27.01.2017 / 10:46:07  -Azot (Purge) gaz vanasý açýldý.
+27.01.2017 / 10:48:22  -Ar gaz vanasý kapatýldý.
+27.01.2017 / 10:48:35  -Ar gaz vanasý açýldý.
+27.01.2017 / 10:48:44  -Ar gaz vanasý kapatýldý.
+27.01.2017 / 10:48:49  -Ar gaz vanasý açýldý.
+27.01.2017 / 10:48:55  -Ar gaz vanasý kapatýldý.
+27.01.2017 / 10:48:58  -Ar gaz vanasý açýldý.

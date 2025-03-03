@@ -1,0 +1,27 @@
+Hata Mesajlarý -  vaksis-Administrator  / 17:21:26
+1.03.2017 / 17:21:28   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+1.03.2017 / 17:21:33   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 17:21:28   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+1.03.2017 / 17:21:34   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+1.03.2017 / 17:21:33   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 17:21:28   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+1.03.2017 / 17:24:32   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 17:21:34   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+1.03.2017 / 17:21:33   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 17:21:28   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+1.03.2017 / 17:24:40   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 17:24:32   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 17:21:34   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+1.03.2017 / 17:21:33   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 17:21:28   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.

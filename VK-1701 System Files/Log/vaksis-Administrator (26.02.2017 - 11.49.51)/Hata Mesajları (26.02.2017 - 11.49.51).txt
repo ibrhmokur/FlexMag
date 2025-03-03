@@ -1,0 +1,13 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:49:51
+26.02.2017 / 11:49:55   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+26.02.2017 / 11:50:42   K-VKV kapatýlamaz !
+Sebep : HATA KOD 3 !
+26.02.2017 / 11:49:55   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+26.02.2017 / 11:50:42   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+26.02.2017 / 11:50:42   K-VKV kapatýlamaz !
+Sebep : HATA KOD 3 !
+26.02.2017 / 11:49:55   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.

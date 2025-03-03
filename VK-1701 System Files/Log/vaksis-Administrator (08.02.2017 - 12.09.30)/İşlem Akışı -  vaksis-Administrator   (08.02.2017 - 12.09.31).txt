@@ -1,0 +1,63 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 12:09:31
+8.02.2017 / 12:09:32  -Kelebek vana kapatýldý.
+8.02.2017 / 12:09:34  -AH-ATM açýldý.
+                                                      
+8.02.2017 / 12:09:46  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+8.02.2017 / 12:09:47  -1. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 12:09:49  -2. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 12:09:50  -3. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 12:10:07  -Alt Hat atmosfer basýncýna ulaþtý.
+8.02.2017 / 12:10:14  -AH-ATM kapatýldý.
+8.02.2017 / 12:10:25  -MP'ye çalýþ komutu gönderildi.
+8.02.2017 / 12:10:43  -RP'ye çalýþ komutu gönderildi.
+8.02.2017 / 12:10:56  -Kelebek vana ara pozisyona alýndý.
+8.02.2017 / 12:11:21  -Kelebek vana açýldý.
+8.02.2017 / 12:11:25  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+8.02.2017 / 12:11:27  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+8.02.2017 / 12:11:52  -BBÖ-BV açýldý.
+8.02.2017 / 12:12:01  -Kelebek vana ara pozisyona alýndý.
+8.02.2017 / 12:12:27  -Kelebek vana kapatýldý.
+8.02.2017 / 12:12:36  -DP-BV açýldý.
+8.02.2017 / 12:12:39  -DP'ye çalýþ komutu gönderildi.
+8.02.2017 / 12:12:42  -DP'nin ýsýnmasý bekleniyor.
+8.02.2017 / 12:31:41  -Ana vana açýldý.
+8.02.2017 / 12:31:42  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+8.02.2017 / 13:10:25  -Ýstenilen basýnç seviyesine geldi.
+8.02.2017 / 13:10:32  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+8.02.2017 / 13:10:35  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+8.02.2017 / 13:29:42  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+8.02.2017 / 13:29:45  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+8.02.2017 / 13:29:48  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+8.02.2017 / 13:35:08  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+8.02.2017 / 14:51:30  -Ortak gaz vanasý açýldý.
+8.02.2017 / 14:51:37  -Ortak gaz vanasý kapatýldý.
+8.02.2017 / 14:51:41  -Ana vana kapatýldý.
+8.02.2017 / 14:51:44  -BBÖ-BV kapatýldý.
+8.02.2017 / 14:51:45  -BBÖ-BV kapatýldý.
+
+***** ERROR  8.02.2017 / 14:51:45    DP durdurulamaz !
+Sebep : AV açýk.
+
+8.02.2017 / 14:51:47  -BBÖ-BV kapatýldý.
+8.02.2017 / 14:51:54  -DP'ye dur komutu gönderildi.
+8.02.2017 / 14:51:58  -K-VKV açýldý.
+8.02.2017 / 14:52:01  -K-VKV açýldý.
+
+***** ERROR  8.02.2017 / 14:52:01    MP çalýþmasý ile ilgili sorun tespit edildi (Kod 3).
+
+8.02.2017 / 14:52:03  -K-VKV kapatýldý.
+8.02.2017 / 14:52:06  -1. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 14:52:07  -2. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 14:52:07  -3. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 14:52:10  -3. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 14:52:34  -DP-BV kapatýldý.
+8.02.2017 / 14:52:41  -K-VKV açýldý.
+8.02.2017 / 14:52:45  -RP'ye çalýþ komutu gönderildi.
+8.02.2017 / 14:52:53  -DP-BV açýldý.
+8.02.2017 / 15:36:06  -Su akýþ vanasý kapatýldý.
+8.02.2017 / 15:46:02  -DP-BV kapatýldý.
+8.02.2017 / 15:46:06  -RP'ye dur komutu gönderildi.
+8.02.2017 / 15:46:10  -MP'ye dur komutu gönderildi.
+8.02.2017 / 15:46:12  -K-ATM açýldý.
+8.02.2017 / 15:46:14  -K-VKV kapatýldý.

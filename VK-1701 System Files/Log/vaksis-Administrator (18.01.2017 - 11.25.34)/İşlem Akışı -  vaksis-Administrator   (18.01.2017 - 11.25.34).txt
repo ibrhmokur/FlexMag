@@ -1,0 +1,11 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:25:34
+                                                      
+18.01.2017 / 11:25                                             
+18.01.2017 / 11:25  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+18.01.2017 / 11:25  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:26  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  18.01.2017 / 11:26    Sistemi durdurma iþlemi  
+AV kapatýlamadýðý için durduruldu !
+Lütfen baðlantýlarý kontrol ediniz.
+

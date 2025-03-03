@@ -1,0 +1,6 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:58:08
+16.1.2017 / 08:58  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  16.1.2017 / 08:58    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+

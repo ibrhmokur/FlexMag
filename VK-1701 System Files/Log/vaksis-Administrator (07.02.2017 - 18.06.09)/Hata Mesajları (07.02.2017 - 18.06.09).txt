@@ -1,0 +1,4 @@
+Hata Mesajlarý -  vaksis-Administrator  / 18:06:09
+
+7.02.2017 / 18:16:13   GaV-Ar açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.

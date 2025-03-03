@@ -1,0 +1,7 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:58:54
+13.1.2017 / 17:58  -PL-ATM açýldý.
+
+***** ERROR  13.1.2017 / 17:58    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+13.1.2017 / 17:59  -PL-ATM kapatýldý.

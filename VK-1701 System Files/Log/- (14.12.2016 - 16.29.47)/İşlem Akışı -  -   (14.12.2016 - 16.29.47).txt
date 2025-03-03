@@ -1,0 +1,7 @@
+Ýþlem Akýþý -  -  / 16:29:47
+14.12.2016 / 16:30  -Kelebek vana kapatýldý.
+14.12.2016 / 16:30  -AH-VKV açýldý.
+
+***** ERROR  14.12.2016 / 16:30    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+14.12.2016 / 16:30  -Isýtýcý sýfýra set edildi.

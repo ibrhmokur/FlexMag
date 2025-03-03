@@ -1,0 +1,148 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 12:05:34
+22.02.2017 / 12:06:02  -BBÖ-BV kapatýldý.
+22.02.2017 / 12:06:13  -AH-ATM açýldý.
+22.02.2017 / 12:06:15  -AH-VKV kapatýldý.
+22.02.2017 / 12:06:21                                             
+22.02.2017 / 12:06:21  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+22.02.2017 / 12:06:23  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 12:06:25  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 12:06:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 12:06:42  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+22.02.2017 / 12:06:43  -Alt Hat atmosfer basýncýna ulaþtý.
+22.02.2017 / 12:06:49  -AH-ATM kapatýldý.
+22.02.2017 / 12:06:58  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 12:07:24  -Kelebek vana açýldý.
+22.02.2017 / 12:07:28  -K-ATM kapatýldý.
+22.02.2017 / 12:07:31  -MP'ye çalýþ komutu gönderildi.
+22.02.2017 / 12:07:31  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+22.02.2017 / 12:12:45  -RP'ye çalýþ komutu gönderildi.
+22.02.2017 / 12:12:45  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+22.02.2017 / 12:13:24  -BBÖ-BV açýldý.
+22.02.2017 / 12:13:35  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 12:14:00  -Kelebek vana kapatýldý.
+22.02.2017 / 12:14:10  -DP-BV açýldý.
+22.02.2017 / 12:14:13  -DP'ye çalýþ komutu gönderildi.
+22.02.2017 / 12:14:16  -DP'nin ýsýnmasý bekleniyor.
+22.02.2017 / 12:33:40  -Ana vana açýldý.
+22.02.2017 / 12:33:40  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+22.02.2017 / 13:21:35  -Ýstenilen basýnç seviyesine geldi.
+22.02.2017 / 13:21:42  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+22.02.2017 / 13:21:45  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+22.02.2017 / 13:32:46  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:32:47  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:32:49  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:42:35  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:42:36  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:42:37  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:47:36  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:47:37  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:47:38  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:54:07  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:54:09  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:54:09  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:59:57  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:59:57  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 13:59:58  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:12:47  -Ana vana kapatýldý.
+22.02.2017 / 14:12:48  -DP'ye dur komutu gönderildi.
+22.02.2017 / 14:13:45  -Ortak gaz vanasý açýldý.
+22.02.2017 / 14:13:53  -Azot (Purge) gaz vanasý açýldý.
+22.02.2017 / 14:14:23  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 14:15:19  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 14:15:23  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  22.02.2017 / 14:15:23    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+22.02.2017 / 14:16:30  -Ortak gaz vanasý kapatýldý.
+22.02.2017 / 14:16:37  -Azot (Purge) gaz vanasý kapatýldý.
+22.02.2017 / 14:20:38  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:20:41  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:20:42  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:21:38  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 14:21:39  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 14:21:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 14:24:56  -DP-BV kapatýldý.
+22.02.2017 / 14:25:14  -RP'ye dur komutu gönderildi.
+22.02.2017 / 14:25:32  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 14:30:30  -RP'ye çalýþ komutu gönderildi.
+22.02.2017 / 14:31:13  -Kelebek vana açýldý.
+22.02.2017 / 14:33:14  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 14:33:39  -Kelebek vana kapatýldý.
+22.02.2017 / 14:34:10  -DP-BV açýldý.
+22.02.2017 / 14:34:29  -Ana vana açýldý.
+22.02.2017 / 14:35:43  -Ana vana açýldý.
+22.02.2017 / 14:36:01  -DP'ye çalýþ komutu gönderildi.
+22.02.2017 / 14:36:43  -DP'ye dur komutu gönderildi.
+22.02.2017 / 14:36:53  -Ana vana kapatýldý.
+22.02.2017 / 14:36:58  -DP-BV kapatýldý.
+22.02.2017 / 14:37:07  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 14:37:32  -Kelebek vana açýldý.
+22.02.2017 / 14:38:41  -Ortak gaz vanasý açýldý.
+22.02.2017 / 14:38:46  -Azot (Purge) gaz vanasý açýldý.
+22.02.2017 / 14:38:59  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 14:39:08  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 14:39:12  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  22.02.2017 / 14:39:12    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+22.02.2017 / 14:39:35  -Ortak gaz vanasý kapatýldý.
+22.02.2017 / 14:39:44  -Azot (Purge) gaz vanasý kapatýldý.
+22.02.2017 / 14:41:13  -Kelebek vana ara pozisyona alýndý.
+22.02.2017 / 14:41:14  -RP'ye dur komutu gönderildi.
+22.02.2017 / 14:41:25  -Ortak gaz vanasý açýldý.
+22.02.2017 / 14:41:26  -Azot (Purge) gaz vanasý açýldý.
+22.02.2017 / 14:41:39  -Kelebek vana kapatýldý.
+22.02.2017 / 14:41:56  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 14:46:50  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 14:46:51  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 14:46:52  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 14:56:29  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 14:57:07  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:57:08  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 14:57:11  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:57:11  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:57:13  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:58:56  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:58:57  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 14:58:58  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:02:05  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:02:07  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:02:07  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:05:06  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:05:06  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:05:07  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:06:23  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:06:27  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:06:31  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:09:14  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:09:25  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:09:26  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:09:26  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:12:50  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:12:51  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:12:52  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:12:53  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:12:54  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:13:22  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 15:13:27  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  22.02.2017 / 15:13:27    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+22.02.2017 / 15:15:26  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:15:30  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:15:35  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:15:45  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:15:46  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:22:30  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:22:35  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:31:32  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+22.02.2017 / 15:31:37  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+22.02.2017 / 15:44:54  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 15:46:23  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 16:01:52  -2. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 16:02:14  -1. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 16:02:16  -3. Bölge Isýtýcýsý sýfýra set edildi.
+22.02.2017 / 16:02:24  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 16:02:26  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+22.02.2017 / 16:02:28  -3. Bölge Isýtýcýsý istenilen deðere set edildi.

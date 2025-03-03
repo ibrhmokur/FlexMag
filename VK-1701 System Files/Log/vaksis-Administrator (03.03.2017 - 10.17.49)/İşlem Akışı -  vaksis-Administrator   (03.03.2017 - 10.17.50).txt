@@ -1,0 +1,16 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:17:50
+3.03.2017 / 10:17:51  -Kelebek vana kapatýldý.
+3.03.2017 / 10:17:52  -Kelebek vana kapatýldý.
+
+***** ERROR  3.03.2017 / 10:17:52    Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+3.03.2017 / 10:17:53  -2. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:17:53  -3. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:17:55  -1. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:17:56  -2. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:17:56  -3. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:17:58  -1. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:17:58  -2. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:17:58  -3. Bölge Isýtýcýsý sýfýra set edildi.
+3.03.2017 / 10:18:04  -3. Bölge Isýtýcýsý sýfýra set edildi.

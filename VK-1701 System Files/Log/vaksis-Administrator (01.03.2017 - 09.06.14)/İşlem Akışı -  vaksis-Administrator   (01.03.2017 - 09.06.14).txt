@@ -1,0 +1,17 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:06:14
+1.03.2017 / 09:06:16  -Kelebek vana kapatýldý.
+1.03.2017 / 09:06:17  -AH-ATM açýldý.
+
+***** ERROR  1.03.2017 / 09:06:17    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+1.03.2017 / 09:06:27  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 09:06:29  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 09:06:29  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 09:06:31  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 09:06:36  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 09:06:37  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 09:06:37  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 09:06:42  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 09:06:45  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+1.03.2017 / 09:06:47  -3. Bölge Isýtýcýsý istenilen deðere set edildi.

@@ -1,0 +1,137 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:01:27
+20.02.2017 / 08:01:28  -Kelebek vana kapatýldý.
+20.02.2017 / 08:01:30  -AH-ATM açýldý.
+
+***** ERROR  20.02.2017 / 08:01:30    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+20.02.2017 / 08:31:54  -Su akýþ vanasý açýldý.
+                                                      
+20.02.2017 / 08:38:02  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+20.02.2017 / 08:38:05  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 08:38:05  -2. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 08:38:07  -3. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 08:38:18  -AH-ATM kapatýldý.
+20.02.2017 / 08:38:22  -MP'ye çalýþ komutu gönderildi.
+20.02.2017 / 08:38:23  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+20.02.2017 / 08:38:45  -RP'ye çalýþ komutu gönderildi.
+20.02.2017 / 08:38:45  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+20.02.2017 / 08:38:58  -DP-BV açýldý.
+20.02.2017 / 08:39:01  -DP'ye çalýþ komutu gönderildi.
+20.02.2017 / 08:41:03  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 08:41:03  -2. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 08:41:04  -3. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 08:41:04  -DP'ye dur komutu gönderildi.
+20.02.2017 / 08:41:05  -3. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 08:41:08  -RP'ye dur komutu gönderildi.
+20.02.2017 / 08:41:36  -DP-BV kapatýldý.
+20.02.2017 / 08:42:24  -DP-BV kapatýldý.
+
+***** ERROR  20.02.2017 / 08:42:24    DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+
+20.02.2017 / 08:43:41  -RP'ye çalýþ komutu gönderildi.
+20.02.2017 / 08:43:49  -DP-BV açýldý.
+20.02.2017 / 08:43:54  -DP'ye çalýþ komutu gönderildi.
+20.02.2017 / 08:45:22  -DP'ye çalýþ komutu gönderildi.
+
+***** ERROR  20.02.2017 / 08:45:22    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+20.02.2017 / 08:45:37  -DP'ye çalýþ komutu gönderildi.
+
+***** ERROR  20.02.2017 / 08:45:37    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+20.02.2017 / 08:45:38  -DP'ye çalýþ komutu gönderildi.
+
+***** ERROR  20.02.2017 / 08:45:38    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+20.02.2017 / 08:45:41  -DP'ye çalýþ komutu gönderildi.
+20.02.2017 / 08:47:05  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 08:47:06  -Isýtýcý istenilen deðere set edildi.
+20.02.2017 / 08:47:30  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 09:05:40  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 09:05:40  -Isýtýcý sýfýra set edildi.
+20.02.2017 / 09:26:10  -BBÖ-BV açýldý.
+20.02.2017 / 09:26:22  -Ana vana açýldý.
+20.02.2017 / 09:28:11  -Isýtýcý istenilen deðere set edildi.
+20.02.2017 / 09:28:11  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 09:28:12  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 09:28:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 09:28:24  -2. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 09:28:25  -3. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 09:28:26  -Isýtýcý sýfýra set edildi.
+20.02.2017 / 09:44:12  -Isýtýcý istenilen deðere set edildi.
+20.02.2017 / 09:44:13  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 09:44:14  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:04:12  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:04:13  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:04:14  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:23:23  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:23:23  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:23:24  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:25:32  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:25:32  -2. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:25:33  -Isýtýcý sýfýra set edildi.
+20.02.2017 / 10:28:30  -Isýtýcý istenilen deðere set edildi.
+20.02.2017 / 10:28:31  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:28:32  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:29:08  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:29:08  -2. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:29:09  -Isýtýcý sýfýra set edildi.
+20.02.2017 / 10:29:41  -Isýtýcý istenilen deðere set edildi.
+20.02.2017 / 10:29:41  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:29:42  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:30:07  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:30:08  -2. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:30:09  -3. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:30:10  -Isýtýcý sýfýra set edildi.
+20.02.2017 / 10:31:41  -Isýtýcý istenilen deðere set edildi.
+20.02.2017 / 10:31:41  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:31:42  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:41:20  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:41:20  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:41:21  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 10:47:56  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:47:57  -2. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:47:57  -3. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 10:47:58  -Isýtýcý sýfýra set edildi.
+20.02.2017 / 11:21:36  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:21:36  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:21:38  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:23:32  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:23:33  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:23:33  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:39:31  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:39:31  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:39:32  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:46:42  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:46:43  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:46:44  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:51:39  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:51:40  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:51:41  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:58:13  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:58:14  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 11:58:14  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:08:01  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:08:02  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:08:02  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:13:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:13:04  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:13:06  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:19:58  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:20:01  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:20:02  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:20:33  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:20:35  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:20:35  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:20:54  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:21:52  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:21:56  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:22:34  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+20.02.2017 / 12:28:23  -1. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 12:28:25  -2. Bölge Isýtýcýsý sýfýra set edildi.
+20.02.2017 / 12:28:26  -Isýtýcý sýfýra set edildi.

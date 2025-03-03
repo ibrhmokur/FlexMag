@@ -1,0 +1,6 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:31:05
+8.02.2017 / 09:31:07  -Kelebek vana kapatýldý.
+8.02.2017 / 09:32:15  -Azot gaz akýþ kontrolcüsü aktif hale getirildi.
+8.02.2017 / 09:32:25  -Azot gaz akýþ kontrolcüsü deaktif hale getirildi.
+8.02.2017 / 09:33:01  -Azot gaz akýþ kontrolcüsü aktif hale getirildi.
+8.02.2017 / 09:42:51  -Azot gaz akýþ kontrolcüsü deaktif hale getirildi.

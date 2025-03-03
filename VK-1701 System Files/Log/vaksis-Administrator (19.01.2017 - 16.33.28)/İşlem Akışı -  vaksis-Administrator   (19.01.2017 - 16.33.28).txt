@@ -1,0 +1,46 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 16:33:28
+19.01.2017 / 16:33:30  -Kelebek vana kapatýldý.
+19.01.2017 / 17:24:44  -RP'ye dur komutu gönderildi.
+19.01.2017 / 17:24:47  -RP'ye dur komutu gönderildi.
+
+***** ERROR  19.01.2017 / 17:24:47    DP-BV çalýþmasý ile ilgili sorun tespit edildi (Kod 1).
+
+19.01.2017 / 17:24:48  -TP'ye dur komutu gönderildi
+19.01.2017 / 17:24:51  -Ana vana kapatýldý.
+19.01.2017 / 17:24:51  -1. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:24:52  -2. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:24:52  -3. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:24:53  -MP'ye çalýþ komutu gönderildi.
+19.01.2017 / 17:24:54  -BBÖ-BV kapatýldý.
+19.01.2017 / 17:25:20  -DP-BV kapatýldý.
+19.01.2017 / 17:25:24  -1. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:25:24  -2. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:25:25  -3. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:25:35  -RP'ye çalýþ komutu gönderildi.
+19.01.2017 / 17:25:38  -DP-BV açýldý.
+19.01.2017 / 17:25:47  -TP'ye çalýþ komutu gönderildi.
+19.01.2017 / 17:25:54  -DP-BV kapatýldý.
+19.01.2017 / 17:25:57  -DP-BV kapatýldý.
+
+***** ERROR  19.01.2017 / 17:25:57    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+19.01.2017 / 17:25:58  -TP'ye dur komutu gönderildi
+19.01.2017 / 17:26:01  -1. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:26:01  -2. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:26:02  -3. Bölge Isýtýcý sýfýra set edildi.
+19.01.2017 / 17:26:03  -RP'ye dur komutu gönderildi.
+19.01.2017 / 17:26:14  -RP'ye çalýþ komutu gönderildi.
+19.01.2017 / 17:26:38  -DP-BV açýldý.
+19.01.2017 / 17:26:42  -TP'ye çalýþ komutu gönderildi.
+19.01.2017 / 17:26:55  -BBÖ-BV açýldý.
+19.01.2017 / 17:27:05  -Ana vana açýldý.
+19.01.2017 / 17:28:24  -Ana vana açýldý.
+19.01.2017 / 17:41:43  -Ana vana kapatýldý.
+19.01.2017 / 17:41:44  -BBÖ-BV kapatýldý.
+19.01.2017 / 17:41:45  -BBÖ-BV kapatýldý.
+
+***** ERROR  19.01.2017 / 17:41:45    DP durdurulamaz !
+Sebep : AV açýk.
+
+19.01.2017 / 17:41:55  -BBÖ-BV kapatýldý.
+19.01.2017 / 17:41:56  -TP'ye dur komutu gönderildi

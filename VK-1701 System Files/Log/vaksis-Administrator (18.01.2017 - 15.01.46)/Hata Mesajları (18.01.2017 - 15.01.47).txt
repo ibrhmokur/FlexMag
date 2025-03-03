@@ -1,0 +1,27 @@
+Hata Mesajlarý -  vaksis-Administrator  / 15:01:47
+
+18.01.2017 / 15:07   Sistemi vakuma alma iþlemi 
+AH-ATM kapatýlamadýðý  için iptal edildi !
+Lütfen baðlantýlarý kontrol ediniz.
+18.01.2017 / 15:07   Sistemi vakuma alma iþlemi 
+AH-ATM kapatýlamadýðý  için iptal edildi !
+Lütfen baðlantýlarý kontrol ediniz.
+18.01.2017 / 15:08   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+18.01.2017 / 15:07   Sistemi vakuma alma iþlemi 
+AH-ATM kapatýlamadýðý  için iptal edildi !
+Lütfen baðlantýlarý kontrol ediniz.
+18.01.2017 / 15:08   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+18.01.2017 / 15:11   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+18.01.2017 / 15:07   Sistemi vakuma alma iþlemi 
+AH-ATM kapatýlamadýðý  için iptal edildi !
+Lütfen baðlantýlarý kontrol ediniz.
+18.01.2017 / 15:08   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+18.01.2017 / 15:11   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+18.01.2017 / 15:22   Sistemi vakuma alma iþlemi  
+DP baþlatýlamadýðý için durduruldu !
+Lütfen baðlantýlarý kontrol ediniz.

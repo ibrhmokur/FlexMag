@@ -1,0 +1,9 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:21:56
+
+18.01.2017 / 11:22   DP durdurulamaz !
+Sebep : AV açýk.
+18.01.2017 / 11:22   DP durdurulamaz !
+Sebep : AV açýk.
+18.01.2017 / 11:22   Sistemi durdurma iþlemi 
+DP durdurulamadýðý  için iptal edildi !
+Lütfen baðlantýlarý kontrol ediniz.

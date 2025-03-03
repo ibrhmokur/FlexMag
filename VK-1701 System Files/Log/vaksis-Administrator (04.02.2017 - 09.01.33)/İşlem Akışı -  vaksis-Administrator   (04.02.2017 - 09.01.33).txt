@@ -1,0 +1,104 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:01:33
+                                                      
+4.02.2017 / 09:01:50  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+4.02.2017 / 09:01:52  -1. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 09:01:52  -2. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 09:01:54  -3. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 09:02:11  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+4.02.2017 / 09:02:11  -Alt Hat atmosfer basýncýna ulaþtý.
+4.02.2017 / 09:02:18  -AH-ATM kapatýldý.
+4.02.2017 / 09:02:28  -Kelebek vana ara pozisyona alýndý.
+4.02.2017 / 09:02:53  -Kelebek vana açýldý.
+4.02.2017 / 09:02:58  -K-ATM kapatýldý.
+4.02.2017 / 09:03:01  -MP'ye çalýþ komutu gönderildi.
+4.02.2017 / 09:03:02  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+4.02.2017 / 09:08:23  -RP'ye çalýþ komutu gönderildi.
+4.02.2017 / 09:08:23  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+4.02.2017 / 09:09:01  -BBÖ-BV açýldý.
+4.02.2017 / 09:09:11  -Kelebek vana ara pozisyona alýndý.
+4.02.2017 / 09:09:37  -Kelebek vana kapatýldý.
+4.02.2017 / 09:09:47  -DP-BV açýldý.
+4.02.2017 / 09:09:51  -DP'ye çalýþ komutu gönderildi.
+4.02.2017 / 09:12:33  -DP'nin ýsýnmasý bekleniyor.
+4.02.2017 / 09:29:03  -Ana vana açýldý.
+4.02.2017 / 09:29:04  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+4.02.2017 / 10:11:28  -Ýstenilen basýnç seviyesine geldi.
+4.02.2017 / 10:11:35  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+4.02.2017 / 10:11:37  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+4.02.2017 / 10:11:53  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:11:53  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:11:55  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:17:09  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:17:11  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:17:13  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:24:28  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:24:29  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:24:29  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:34:21  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:34:21  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:34:22  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:44:02  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:44:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+4.02.2017 / 10:52:43  -2. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 10:53:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 10:53:44  -3. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 10:53:45  -Isýtýcý sýfýra set edildi.
+                                                      
+4.02.2017 / 11:21:49  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+4.02.2017 / 11:21:58  -2. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 11:21:59  -3. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 11:22:00  -BBÖ-BV kapatýldý.
+4.02.2017 / 11:22:04  -BBÖ-BV kapatýldý.
+
+***** ERROR  4.02.2017 / 11:22:04    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:22:04  -Ana vana kapatýldý.
+4.02.2017 / 11:22:19  -DP'ye dur komutu gönderildi.
+4.02.2017 / 11:22:22  -DP'nin soðumasý bekleniyor.
+4.02.2017 / 11:23:45  -DP'nin soðumasý bekleniyor.
+4.02.2017 / 11:23:46  -DP'nin soðumasý bekleniyor.
+4.02.2017 / 11:23:47  -DP'nin soðumasý bekleniyor.
+4.02.2017 / 11:23:48  -DP'nin soðumasý bekleniyor.
+
+***** ERROR  4.02.2017 / 11:23:48    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:23:49  -DP'nin soðumasý bekleniyor.
+
+***** ERROR  4.02.2017 / 11:23:49    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:23:50  -DP'nin soðumasý bekleniyor.
+
+***** ERROR  4.02.2017 / 11:23:50    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:23:51  -DP'nin soðumasý bekleniyor.
+4.02.2017 / 11:23:57  -DP'nin soðumasý bekleniyor.
+4.02.2017 / 11:23:58  -DP'nin soðumasý bekleniyor.
+
+***** ERROR  4.02.2017 / 11:23:58    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:33:06  -DP-BV kapatýldý.
+4.02.2017 / 11:33:09  -RP'ye dur komutu gönderildi.
+4.02.2017 / 11:33:12  -MP'ye dur komutu gönderildi.
+4.02.2017 / 11:33:15  -AH-VKV açýldý.
+4.02.2017 / 11:33:18  -K-VKV açýldý.
+4.02.2017 / 11:33:19  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+4.02.2017 / 11:34:54  -AH-ATM açýldý.
+4.02.2017 / 11:34:57  -AH-VKV kapatýldý.
+4.02.2017 / 11:35:50  -K-ATM açýldý.
+4.02.2017 / 11:35:52  -K-VKV kapatýldý.
+4.02.2017 / 11:35:53  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+4.02.2017 / 11:35:53  -Alt Hat atmosfer basýncýna ulaþtý.
+4.02.2017 / 11:35:55  -Alt Hat atmosfer basýncýna ulaþtý.
+
+***** ERROR  4.02.2017 / 11:35:55    Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+
+4.02.2017 / 11:35:57  -Durdurma iþlemi tamamlandý
+                                                      
+4.02.2017 / 11:36:00  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir

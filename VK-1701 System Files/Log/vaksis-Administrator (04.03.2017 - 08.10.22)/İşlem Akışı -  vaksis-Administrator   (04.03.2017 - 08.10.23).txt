@@ -1,0 +1,40 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:10:23
+4.03.2017 / 08:10:24  -Kelebek vana kapatýldý.
+4.03.2017 / 08:10:38  -K-VKV açýldý.
+4.03.2017 / 08:13:30  -K-ATM açýldý.
+4.03.2017 / 08:13:32  -K-VKV kapatýldý.
+4.03.2017 / 09:11:31  -Su akýþ vanasý açýldý.
+4.03.2017 / 10:05:11  -AH-ATM kapatýldý.
+4.03.2017 / 10:05:13  -MP'ye çalýþ komutu gönderildi.
+4.03.2017 / 10:05:32  -RP'ye çalýþ komutu gönderildi.
+4.03.2017 / 10:05:52  -K-ATM kapatýldý.
+4.03.2017 / 10:07:40  -RP'ye dur komutu gönderildi.
+4.03.2017 / 10:07:48  -K-ATM açýldý.
+4.03.2017 / 10:07:51  -AH-VKV açýldý.
+4.03.2017 / 10:09:32  -AH-ATM açýldý.
+4.03.2017 / 10:09:34  -AH-VKV kapatýldý.
+                                                      
+4.03.2017 / 10:12:59  -Sistemi "Kaba Vakuma Alma" Ýþlemi Baþlatýldý.
+4.03.2017 / 10:13:01  -1. Bölge Isýtýcýsý sýfýra set edildi.
+4.03.2017 / 10:13:03  -2. Bölge Isýtýcýsý sýfýra set edildi.
+4.03.2017 / 10:13:03  -3. Bölge Isýtýcýsý sýfýra set edildi.
+4.03.2017 / 10:13:20  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+4.03.2017 / 10:13:21  -Alt Hat atmosfer basýncýna ulaþtý.
+4.03.2017 / 10:13:26  -AH-ATM kapatýldý.
+4.03.2017 / 10:13:36  -Kelebek vana ara pozisyona alýndý.
+4.03.2017 / 10:14:02  -Kelebek vana açýldý.
+4.03.2017 / 10:14:06  -K-ATM kapatýldý.
+4.03.2017 / 10:14:08  -MP'ye çalýþ komutu gönderildi.
+4.03.2017 / 10:14:09  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+4.03.2017 / 10:19:11  -RP'ye çalýþ komutu gönderildi.
+4.03.2017 / 10:19:12  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+4.03.2017 / 10:19:56  -Kelebek vana ara pozisyona alýndý.
+4.03.2017 / 10:20:22  -Kelebek vana kapatýldý.
+4.03.2017 / 10:20:25  -RP'ye dur komutu gönderildi.
+4.03.2017 / 10:20:28  -MP'ye dur komutu gönderildi.
+4.03.2017 / 10:20:31  -AH-VKV açýldý.
+4.03.2017 / 10:20:32  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+4.03.2017 / 10:22:12  -Alt Hat atmosfer basýncýna ulaþtý.
+4.03.2017 / 10:22:15  -AH-VKV kapatýldý.
+4.03.2017 / 10:22:21  -Otomatik Kaba Vakuma Ýþlemi Tamamlandý.
+                                                      

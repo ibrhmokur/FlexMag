@@ -1,0 +1,18 @@
+Hata Mesajlarý -  vaksis-Administrator  / 13:19:42
+
+17.02.2017 / 13:42:52   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+17.02.2017 / 13:42:52   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+17.02.2017 / 13:43:45   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+17.02.2017 / 13:42:52   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+17.02.2017 / 13:43:45   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+17.02.2017 / 13:48:24   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+17.02.2017 / 13:42:52   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+17.02.2017 / 13:43:45   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+17.02.2017 / 13:48:24   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+17.02.2017 / 13:48:25   DP durdurulamaz !
+Sebep : AV açýk.

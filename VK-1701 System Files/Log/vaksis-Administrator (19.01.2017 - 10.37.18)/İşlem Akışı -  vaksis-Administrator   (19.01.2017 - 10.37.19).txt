@@ -1,0 +1,25 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:37:19
+19.01.2017 / 10:37:20  -Kelebek vana kapatýldý.
+19.01.2017 / 10:37:22  -AH-ATM açýldý.
+19.01.2017 / 10:40:06  -K-ATM kapatýldý.
+19.01.2017 / 10:40:29  -K-ATM açýldý.
+19.01.2017 / 10:40:33  -K-ATM kapatýldý.
+19.01.2017 / 10:40:42  -K-ATM açýldý.
+19.01.2017 / 10:41:28  -K-ATM kapatýldý.
+19.01.2017 / 10:41:56  -K-ATM açýldý.
+19.01.2017 / 10:42:31  -AH-ATM kapatýldý.
+                                                      
+19.01.2017 / 10:43:06  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+19.01.2017 / 10:43:08  -Isýtýcý sýfýra set edildi.
+19.01.2017 / 10:43:28  -MP'ye dur komutu gönderildi.
+19.01.2017 / 10:43:31  -AH-VKV açýldý.
+19.01.2017 / 10:43:32  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+19.01.2017 / 10:45:30  -Alt Hat atmosfer basýncýna ulaþtý.
+19.01.2017 / 10:45:31  -AH-ATM kapatýldý.
+19.01.2017 / 10:45:33  -AH-ATM açýldý.
+19.01.2017 / 10:45:37  -AH-ATM kapatýldý.
+
+***** ERROR  19.01.2017 / 10:45:37    BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+
+19.01.2017 / 10:46:17  -Isýtýcý sýfýra set edildi.

@@ -1,0 +1,87 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:44:13
+13.02.2017 / 10:44:15  -Kelebek vana kapatýldý.
+13.02.2017 / 10:44:45  -Su akýþ vanasý açýldý.
+                                                      
+13.02.2017 / 10:45:05  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+13.02.2017 / 10:45:08  -1. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 10:45:09  -2. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 10:45:11  -3. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 10:45:27  -Alt Hat atmosfer basýncýna ulaþtý.
+13.02.2017 / 10:45:32  -AH-ATM kapatýldý.
+13.02.2017 / 10:45:42  -Kelebek vana ara pozisyona alýndý.
+13.02.2017 / 10:46:07  -Kelebek vana açýldý.
+13.02.2017 / 10:46:12  -K-ATM kapatýldý.
+13.02.2017 / 10:46:15  -MP'ye çalýþ komutu gönderildi.
+13.02.2017 / 10:46:15  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+13.02.2017 / 10:51:40  -RP'ye çalýþ komutu gönderildi.
+13.02.2017 / 10:51:40  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+13.02.2017 / 10:52:18  -BBÖ-BV açýldý.
+13.02.2017 / 10:52:28  -Kelebek vana ara pozisyona alýndý.
+13.02.2017 / 10:52:54  -Kelebek vana kapatýldý.
+13.02.2017 / 10:53:03  -DP-BV açýldý.
+13.02.2017 / 10:53:06  -DP'ye çalýþ komutu gönderildi.
+13.02.2017 / 10:55:45  -DP'nin ýsýnmasý bekleniyor.
+13.02.2017 / 11:13:41  -Ana vana açýldý.
+13.02.2017 / 11:13:42  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+13.02.2017 / 12:40:05  -Ýstenilen basýnç seviyesine geldi.
+13.02.2017 / 12:40:12  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+13.02.2017 / 12:40:14  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+13.02.2017 / 13:10:24  -Isýtýcý istenilen deðere set edildi.
+13.02.2017 / 13:10:26  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:10:27  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:16:24  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:16:28  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:16:29  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:22:27  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:22:28  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:22:29  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:28:55  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:28:56  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:28:57  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:32:20  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:32:21  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:32:22  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:37:38  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:37:39  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:37:40  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:49:16  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:49:17  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:53:28  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 13:53:29  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 14:02:33  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 14:13:15  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 14:23:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 14:23:25  -2. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 14:23:26  -3. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 14:23:27  -Isýtýcý sýfýra set edildi.
+13.02.2017 / 14:23:57  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 14:23:59  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 14:23:59  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 14:58:41  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 14:58:46  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 14:58:49  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 15:01:33  -3. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 15:02:52  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+13.02.2017 / 15:13:00  -1. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 15:13:00  -2. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 15:13:01  -3. Bölge Isýtýcýsý sýfýra set edildi.
+13.02.2017 / 15:13:01  -Isýtýcý sýfýra set edildi.
+13.02.2017 / 15:16:27  -Ortak gaz vanasý açýldý.
+13.02.2017 / 15:16:31  -Ar gaz vanasý açýldý.
+13.02.2017 / 15:16:36  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+13.02.2017 / 15:16:56  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+13.02.2017 / 15:17:03  -Ana vana kapatýldý.
+13.02.2017 / 15:17:15  -DP'ye dur komutu gönderildi.
+13.02.2017 / 15:50:37  -DP-BV kapatýldý.
+13.02.2017 / 15:50:41  -RP'ye dur komutu gönderildi.
+13.02.2017 / 15:50:46  -MP'ye dur komutu gönderildi.
+13.02.2017 / 15:50:49  -AH-VKV açýldý.
+13.02.2017 / 15:52:28  -AH-ATM açýldý.
+13.02.2017 / 15:52:30  -AH-VKV kapatýldý.
+13.02.2017 / 17:09:19  -K-ATM açýldý.
+13.02.2017 / 17:17:11  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+13.02.2017 / 17:17:16  -Ar gaz vanasý kapatýldý.
+13.02.2017 / 17:17:19  -Ortak gaz vanasý kapatýldý.
+13.02.2017 / 17:19:22  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+13.02.2017 / 17:19:33  -BBÖ-BV kapatýldý.

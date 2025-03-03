@@ -1,0 +1,41 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:17:09
+1.03.2017 / 11:17:11  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 11:17:16  -Kelebek vana açýldý.
+1.03.2017 / 11:28:01  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 11:28:27  -Kelebek vana kapatýldý.
+1.03.2017 / 11:28:33  -MP'ye dur komutu gönderildi.
+1.03.2017 / 11:28:37  -K-VKV açýldý.
+1.03.2017 / 11:30:16  -AH-ATM açýldý.
+1.03.2017 / 11:30:19  -AH-ATM kapatýldý.
+1.03.2017 / 11:30:21  -AH-ATM açýldý.
+1.03.2017 / 11:31:08  -AH-ATM açýldý.
+
+***** ERROR  1.03.2017 / 11:31:08    MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+
+1.03.2017 / 11:31:13  -AH-ATM açýldý.
+1.03.2017 / 11:31:15  -AH-ATM açýldý.
+
+***** ERROR  1.03.2017 / 11:31:15    MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+
+1.03.2017 / 11:31:20  -K-ATM açýldý.
+1.03.2017 / 11:31:22  -K-ATM açýldý.
+1.03.2017 / 11:31:23  -K-VKV kapatýldý.
+1.03.2017 / 11:31:28  -AH-ATM kapatýldý.
+1.03.2017 / 11:31:30  -MP'ye çalýþ komutu gönderildi.
+1.03.2017 / 11:31:57  -RP'ye çalýþ komutu gönderildi.
+1.03.2017 / 11:34:18  -RP'ye dur komutu gönderildi.
+1.03.2017 / 11:34:23  -MP'ye dur komutu gönderildi.
+1.03.2017 / 11:34:25  -AH-VKV açýldý.
+1.03.2017 / 11:36:06  -AH-ATM açýldý.
+1.03.2017 / 11:36:09  -AH-VKV kapatýldý.
+1.03.2017 / 11:53:00  -AH-VKV kapatýldý.
+
+***** ERROR  1.03.2017 / 11:53:00    1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+1.03.2017 / 11:53:02  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 11:53:02  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 11:53:05  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 11:53:35  -3. Bölge Isýtýcýsý sýfýra set edildi.

@@ -1,0 +1,8 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:01:48
+1.02.2017 / 08:02:55  -K-ATM açýldý.
+1.02.2017 / 08:02:57  -K-VKV kapatýldý.
+1.02.2017 / 08:17:47  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+1.02.2017 / 08:18:20  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+1.02.2017 / 08:19:54  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+1.02.2017 / 08:20:43  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+1.02.2017 / 08:30:50  -Su akýþ vanasý açýldý.

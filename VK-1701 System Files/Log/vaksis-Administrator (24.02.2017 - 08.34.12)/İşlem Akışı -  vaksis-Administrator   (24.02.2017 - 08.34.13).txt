@@ -1,0 +1,199 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:34:13
+24.02.2017 / 08:34:14  -Kelebek vana kapatýldý.
+24.02.2017 / 08:53:02  -K-VKV açýldý.
+24.02.2017 / 08:55:59  -K-ATM açýldý.
+24.02.2017 / 08:56:01  -K-VKV kapatýldý.
+24.02.2017 / 09:46:53  -Su akýþ vanasý açýldý.
+24.02.2017 / 09:46:54  -Su akýþ vanasý açýldý.
+
+***** ERROR  24.02.2017 / 09:46:54    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+24.02.2017 / 09:46:54  -Su akýþ vanasý kapatýldý.
+24.02.2017 / 09:46:55  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 09:46:56  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 09:46:57  -Su akýþ vanasý açýldý.
+24.02.2017 / 09:46:58  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 09:47:00  -Su akýþ vanasý kapatýldý.
+24.02.2017 / 09:47:01  -Su akýþ vanasý açýldý.
+24.02.2017 / 09:47:46                                             
+24.02.2017 / 09:47:46  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+24.02.2017 / 09:47:49  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 09:47:50  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 09:47:52  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 09:48:09  -AH-VKV açýldý.
+24.02.2017 / 09:48:10  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+24.02.2017 / 09:50:03  -Alt Hat atmosfer basýncýna ulaþtý.
+24.02.2017 / 09:50:05  -AH-VKV kapatýldý.
+24.02.2017 / 09:50:09  -AH-ATM kapatýldý.
+24.02.2017 / 09:50:19  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 09:50:44  -Kelebek vana açýldý.
+24.02.2017 / 09:50:48  -K-ATM kapatýldý.
+24.02.2017 / 09:50:51  -MP'ye çalýþ komutu gönderildi.
+24.02.2017 / 09:50:52  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+24.02.2017 / 09:56:19  -RP'ye çalýþ komutu gönderildi.
+24.02.2017 / 09:56:19  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+24.02.2017 / 09:56:56  -BBÖ-BV açýldý.
+24.02.2017 / 09:57:07  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 09:57:33  -Kelebek vana kapatýldý.
+24.02.2017 / 09:57:42  -DP-BV açýldý.
+24.02.2017 / 09:57:45  -DP'ye çalýþ komutu gönderildi.
+24.02.2017 / 10:01:18  -DP'nin ýsýnmasý bekleniyor.
+24.02.2017 / 10:18:03  -Ana vana açýldý.
+24.02.2017 / 10:18:04  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+24.02.2017 / 11:04:15  -Ýstenilen basýnç seviyesine geldi.
+24.02.2017 / 11:04:22  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+24.02.2017 / 11:04:25  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+24.02.2017 / 11:04:48                                             
+24.02.2017 / 11:04:48  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+24.02.2017 / 11:04:51  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 11:04:52  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 11:04:54  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 11:05:05  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+24.02.2017 / 11:05:07  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+24.02.2017 / 11:05:14  -DP'nin ýsýnmasý bekleniyor.
+24.02.2017 / 11:05:19  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+24.02.2017 / 11:06:55  -Ýstenilen basýnç seviyesine geldi.
+24.02.2017 / 11:07:02  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+24.02.2017 / 11:07:05  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+24.02.2017 / 11:07:08  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+
+***** ERROR  24.02.2017 / 11:07:08    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 11:07:15  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+
+***** ERROR  24.02.2017 / 11:07:15    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 11:07:26  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:07:27  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:07:31  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:08:00  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 11:08:00    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 11:08:32  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:09:05  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 11:09:05    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 11:21:01  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:21:02  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:21:04  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 11:21:04    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 11:23:54  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:23:55  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 11:23:55    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 11:37:34  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:37:52  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  24.02.2017 / 11:37:52    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+24.02.2017 / 11:40:51  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 11:40:52  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+24.02.2017 / 12:15:07  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 12:15:09  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 12:15:17  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 13:07:59  -Ana vana kapatýldý.
+24.02.2017 / 13:08:11  -Ortak gaz vanasý açýldý.
+24.02.2017 / 13:08:16  -Ortak gaz vanasý açýldý.
+
+***** ERROR  24.02.2017 / 13:08:16    GaV-H2 açýlamaz !
+Sebep : GaV-Ort kapalý ya da GaV-Ar veya Gav N2 kapalý olabilir.
+
+24.02.2017 / 13:08:16  -Ar gaz vanasý açýldý.
+24.02.2017 / 13:08:23  -Hidrojen gaz vanasý açýldý.
+24.02.2017 / 13:08:24  -Hidrojen gaz vanasý açýldý.
+24.02.2017 / 13:08:28  -Azot gaz vanasý açýldý.
+24.02.2017 / 13:08:34  -Azot (Purge) gaz vanasý açýldý.
+24.02.2017 / 13:08:59  -Ana vana açýldý.
+24.02.2017 / 13:09:03  -Ana vana açýldý.
+
+***** ERROR  24.02.2017 / 13:09:03    DP-BV çalýþmasý ile ilgili sorun tespit edildi (Kod 1).
+
+24.02.2017 / 13:09:04  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 13:09:04  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 13:09:05  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 13:09:05  -BBÖ-BV kapatýldý.
+24.02.2017 / 13:09:05  -DP'ye dur komutu gönderildi.
+24.02.2017 / 13:09:06  -Ana vana kapatýldý.
+24.02.2017 / 13:09:08  -Hidrojen gaz vanasý kapatýldý.
+24.02.2017 / 13:09:11  -Azot gaz vanasý kapatýldý.
+24.02.2017 / 13:09:15  -Ar gaz vanasý kapatýldý.
+24.02.2017 / 13:09:26  -Ar gaz vanasý kapatýldý.
+
+***** ERROR  24.02.2017 / 13:09:26    DP-BV çalýþmasý ile ilgili sorun tespit edildi (Kod 1).
+
+24.02.2017 / 13:09:28  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 13:09:28  -Ortak gaz vanasý kapatýldý.
+24.02.2017 / 13:09:28  -2. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 13:09:29  -3. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 13:09:29  -1. Bölge Isýtýcýsý sýfýra set edildi.
+24.02.2017 / 13:09:59  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 13:10:03  -RP'ye çalýþ komutu gönderildi.
+24.02.2017 / 13:10:09  -Ortak gaz vanasý açýldý.
+24.02.2017 / 13:10:19  -Ar gaz vanasý açýldý.
+24.02.2017 / 13:10:22  -Azot gaz vanasý açýldý.
+24.02.2017 / 13:10:23  -Azot (Purge) gaz vanasý açýldý.
+24.02.2017 / 13:10:24  -Kelebek vana açýldý.
+24.02.2017 / 13:10:26  -Hidrojen gaz vanasý açýldý.
+24.02.2017 / 13:10:54  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 13:11:05  -BBÖ-BV açýldý.
+24.02.2017 / 13:11:20  -Kelebek vana kapatýldý.
+24.02.2017 / 13:11:28  -DP-BV açýldý.
+24.02.2017 / 13:11:32  -DP'ye çalýþ komutu gönderildi.
+24.02.2017 / 13:11:50  -Ana vana açýldý.
+24.02.2017 / 13:51:25  -Ana vana kapatýldý.
+24.02.2017 / 13:51:32  -Ar gaz vanasý kapatýldý.
+24.02.2017 / 13:51:34  -Hidrojen gaz vanasý kapatýldý.
+24.02.2017 / 13:51:36  -DP'ye dur komutu gönderildi.
+24.02.2017 / 13:51:41  -DP-BV kapatýldý.
+24.02.2017 / 13:51:51  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 13:52:08  -BBÖ-BV kapatýldý.
+24.02.2017 / 13:52:10  -BBÖ-BV kapatýldý.
+
+***** ERROR  24.02.2017 / 13:52:10    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+24.02.2017 / 13:52:11  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+24.02.2017 / 13:52:14  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+24.02.2017 / 13:52:16  -Kelebek vana açýldý.
+24.02.2017 / 13:53:26  -Kelebek vana açýldý.
+
+***** ERROR  24.02.2017 / 13:53:26    GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+
+24.02.2017 / 13:53:36  -Ortak gaz vanasý kapatýldý.
+24.02.2017 / 13:53:39  -Ortak gaz vanasý kapatýldý.
+24.02.2017 / 13:53:45  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+24.02.2017 / 13:53:50  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  24.02.2017 / 13:53:50    N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+24.02.2017 / 13:53:57  -Ortak gaz vanasý açýldý.
+24.02.2017 / 13:54:03  -Ortak gaz vanasý açýldý.
+24.02.2017 / 13:54:55  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+24.02.2017 / 13:57:05  -Azot (Purge) gaz vanasý kapatýldý.
+24.02.2017 / 13:57:10  -Ortak gaz vanasý kapatýldý.
+24.02.2017 / 13:57:20  -Kelebek vana ara pozisyona alýndý.
+24.02.2017 / 13:57:45  -Kelebek vana kapatýldý.
+24.02.2017 / 13:58:07  -DP-BV açýldý.
+24.02.2017 / 13:58:11  -DP'ye çalýþ komutu gönderildi.
+24.02.2017 / 13:59:08  -Ana vana açýldý.
+24.02.2017 / 14:03:21  -BBÖ-BV açýldý.
+24.02.2017 / 14:03:26  -Ortak gaz vanasý açýldý.
+24.02.2017 / 14:03:29  -Azot (Purge) gaz vanasý açýldý.
+24.02.2017 / 14:03:35  -Azot gaz vanasý açýldý.
+24.02.2017 / 14:03:37  -Ar gaz vanasý açýldý.
+24.02.2017 / 14:03:39  -Hidrojen gaz vanasý açýldý.

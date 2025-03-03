@@ -1,0 +1,4 @@
+Hata Mesajlarý -  vaksis-Administrator  / 14:31:31
+
+17.01.2017 / 14:32   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da aly hat basýncý 1 Torr'un üzerinde olabilir.

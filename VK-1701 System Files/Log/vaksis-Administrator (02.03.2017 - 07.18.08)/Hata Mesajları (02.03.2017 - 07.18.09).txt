@@ -1,0 +1,89 @@
+Hata Mesajlarý -  vaksis-Administrator  / 07:18:09
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+2.03.2017 / 09:17:53   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+2.03.2017 / 09:18:34   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:17:53   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+2.03.2017 / 09:27:49   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:18:34   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:17:53   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+2.03.2017 / 09:31:16   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:27:49   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:18:34   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:17:53   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+2.03.2017 / 09:47:05   Kazan Atmosfer Basýncýna ulaþtý !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:31:16   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:27:49   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:18:34   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:17:53   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+2.03.2017 / 15:52:20   GaV-N2-PURGE açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+2.03.2017 / 09:47:05   Kazan Atmosfer Basýncýna ulaþtý !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:31:16   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:27:49   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:18:34   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:17:53   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+2.03.2017 / 16:57:25   K-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 4).
+2.03.2017 / 15:52:20   GaV-N2-PURGE açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+2.03.2017 / 09:47:05   Kazan Atmosfer Basýncýna ulaþtý !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:31:16   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:27:49   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:18:34   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:17:53   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+2.03.2017 / 17:05:06   Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+2.03.2017 / 16:57:25   K-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 4).
+2.03.2017 / 15:52:20   GaV-N2-PURGE açýlamaz !
+Sebep : GaV-Ort kapalý olabilir.
+2.03.2017 / 09:47:05   Kazan Atmosfer Basýncýna ulaþtý !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:31:16   1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+2.03.2017 / 09:27:49   Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:18:34   Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:17:53   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+2.03.2017 / 09:10:37   N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.

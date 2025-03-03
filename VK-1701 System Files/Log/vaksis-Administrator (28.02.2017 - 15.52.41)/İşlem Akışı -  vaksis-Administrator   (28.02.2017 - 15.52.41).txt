@@ -1,0 +1,28 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 15:52:41
+28.02.2017 / 15:52:43  -1. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 15:52:43    1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+28.02.2017 / 15:52:43  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 15:52:44  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 15:52:45  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 15:52:45    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+28.02.2017 / 15:52:46  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 15:52:46  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 15:52:47  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 15:52:47    N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+28.02.2017 / 15:52:52  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 15:52:52    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+28.02.2017 / 15:52:54  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 15:52:56  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 15:52:57  -3. Bölge Isýtýcýsý sýfýra set edildi.

@@ -1,0 +1,21 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 07:57:48
+21.01.2017 / 07:57:50  -Kelebek vana kapatýldý.
+21.01.2017 / 07:57:51  -AH-ATM açýldý.
+                                                      
+21.01.2017 / 08:34:26  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+21.01.2017 / 08:34:29  -1. Bölge Isýtýcý sýfýra set edildi.
+21.01.2017 / 08:34:29  -3. Bölge Isýtýcý sýfýra set edildi.
+21.01.2017 / 08:34:42  -DP'nin soðumasý bekleniyor.
+21.01.2017 / 08:34:49  -K-VKV açýldý.
+21.01.2017 / 08:34:50  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+21.01.2017 / 08:37:37  -K-ATM açýldý.
+21.01.2017 / 08:37:39  -K-VKV kapatýldý.
+21.01.2017 / 08:37:40  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+21.01.2017 / 08:37:41  -Alt Hat atmosfer basýncýna ulaþtý.
+           -Durdurma iþlemi tamamlandý
+                                                      
+21.01.2017 / 08:37:49  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+21.01.2017 / 08:38:27  -AH-ATM kapatýldý.
+21.01.2017 / 08:38:31  -AH-VKV açýldý.
+21.01.2017 / 08:38:35  -AH-ATM açýldý.
+21.01.2017 / 08:38:38  -AH-VKV kapatýldý.

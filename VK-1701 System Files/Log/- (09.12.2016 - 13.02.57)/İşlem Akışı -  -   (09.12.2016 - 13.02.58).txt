@@ -1,0 +1,11 @@
+Ýþlem Akýþý -  -  / 13:02:58
+9.12.2016 / 13:03  -Kelebek vana kapatýldý.
+
+***** ERROR  9.12.2016 / 13:03    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+
+9.12.2016 / 13:04  -Kelebek vana kapatýldý.
+
+***** ERROR  9.12.2016 / 13:04    AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+

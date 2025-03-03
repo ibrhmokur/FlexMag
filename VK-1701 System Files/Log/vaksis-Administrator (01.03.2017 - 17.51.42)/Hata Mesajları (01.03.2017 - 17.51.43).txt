@@ -1,0 +1,5 @@
+Hata Mesajlarý -  vaksis-Administrator  / 17:51:43
+1.03.2017 / 17:52:01   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 17:52:34   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 17:52:01   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).

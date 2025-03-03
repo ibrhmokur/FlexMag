@@ -1,0 +1,121 @@
+İşlem Akışı -  vaksis-Administrator  / 14:35:25
+18.02.2017 / 14:35:27  -Kelebek vana kapatıldı.
+18.02.2017 / 14:35:27  -RP'ye çalış komutu gönderildi.
+18.02.2017 / 14:35:28  -BBÖ-BV açıldı.
+18.02.2017 / 14:35:33  -BBÖ-BV açıldı.
+
+***** ERROR  18.02.2017 / 14:35:33    AV çalışması ile ilgili sorun tespit edildi (Kod 8).
+
+18.02.2017 / 14:35:34  -1. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:35:34  -2. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:35:35  -3. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:35:35  -BBÖ-BV kapatıldı.
+18.02.2017 / 14:35:35  -2. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:35:36  -Ana vana kapatıldı.
+18.02.2017 / 14:35:38  -RP'ye dur komutu gönderildi.
+18.02.2017 / 14:35:49  -RP'ye çalış komutu gönderildi.
+18.02.2017 / 14:35:58  -DP'ye çalış komutu gönderildi.
+18.02.2017 / 14:36:06  -DP-BV kapatıldı.
+18.02.2017 / 14:36:11  -DP-BV kapatıldı.
+
+***** ERROR  18.02.2017 / 14:36:11    DP çalışması ile ilgili sorun tespit edildi (Kod 2).
+
+18.02.2017 / 14:36:12  -1. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:36:12  -2. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:36:13  -3. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:36:13  -DP'ye dur komutu gönderildi.
+18.02.2017 / 14:36:17  -RP'ye dur komutu gönderildi.
+18.02.2017 / 14:36:19  -RP'ye çalış komutu gönderildi.
+18.02.2017 / 14:36:30  -DP'ye çalış komutu gönderildi.
+18.02.2017 / 14:36:36  -DP'ye çalış komutu gönderildi.
+18.02.2017 / 14:36:45  -DP-BV kapatıldı.
+18.02.2017 / 14:36:46  -DP-BV açıldı.
+18.02.2017 / 14:36:50  -BBÖ-BV açıldı.
+18.02.2017 / 14:37:02  -Ana vana açıldı.
+18.02.2017 / 14:37:19  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:37:19  -Isıtıcı istenilen değere set edildi.
+18.02.2017 / 14:37:24  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:37:25  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:37:43  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:37:44  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:37:45  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:37:56  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:37:57  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:37:58  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:39:34  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:39:38  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:39:41  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:39:46  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:39:47  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:39:54  -1. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:39:55  -2. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:39:56  -3. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 14:39:56  -Isıtıcı sıfıra set edildi.
+18.02.2017 / 14:52:46  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:52:46  -Isıtıcı istenilen değere set edildi.
+18.02.2017 / 14:52:47  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:52:47  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:53:12  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:53:13  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:53:14  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:53:49  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:53:49  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:53:50  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:55:06  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:55:07  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:55:08  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:59:33  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:59:33  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 14:59:34  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:04:37  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:04:38  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:04:39  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:09:02  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:09:03  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:09:04  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:10:18  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:10:19  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:10:46  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:10:48  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:11:22  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:12:27  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:12:28  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:12:28  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:15:05  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:15:05  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:15:06  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:17:37  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:17:39  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:18:36  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:18:37  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:19:22  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:19:23  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:19:24  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:21:14  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:21:15  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:21:16  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:22:54  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:22:54  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:22:56  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:24:16  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:24:16  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:24:17  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:24:50  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:24:53  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:25:13  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:25:40  -1. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:25:42  -2. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:25:46  -3. Bölge Isıtıcısı istenilen değere set edildi.
+18.02.2017 / 15:26:22  -1. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 15:26:23  -2. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 15:26:23  -3. Bölge Isıtıcısı sıfıra set edildi.
+18.02.2017 / 15:26:24  -Isıtıcı sıfıra set edildi.
+18.02.2017 / 15:36:40  -BBÖ-BV kapatıldı.
+18.02.2017 / 15:36:43  -Ana vana kapatıldı.
+18.02.2017 / 15:36:53  -DP'ye dur komutu gönderildi.
+18.02.2017 / 15:37:25  -DP-BV kapatıldı.
+18.02.2017 / 15:37:27  -RP'ye dur komutu gönderildi.
+18.02.2017 / 15:37:33  -MP'ye dur komutu gönderildi.
+18.02.2017 / 15:37:36  -AH-VKV açıldı.
+18.02.2017 / 15:39:14  -AH-ATM açıldı.
+18.02.2017 / 15:39:16  -AH-VKV kapatıldı.

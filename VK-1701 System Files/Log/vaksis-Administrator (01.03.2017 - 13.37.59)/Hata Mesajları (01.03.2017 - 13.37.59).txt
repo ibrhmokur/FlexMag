@@ -1,0 +1,17 @@
+Hata Mesajlarý -  vaksis-Administrator  / 13:37:59
+1.03.2017 / 13:38:01   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+1.03.2017 / 13:38:06   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 13:38:01   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+1.03.2017 / 13:38:06   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+1.03.2017 / 13:38:06   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 13:38:01   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+1.03.2017 / 13:38:35   DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+1.03.2017 / 13:38:06   Isýtýcýlar açýlamaz !
+Sebep : HATA KOD 19 !
+1.03.2017 / 13:38:06   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 13:38:01   Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.

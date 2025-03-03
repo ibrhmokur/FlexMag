@@ -1,0 +1,30 @@
+İşlem Akışı -  vaksis-Administrator  / 17:24:29
+6.02.2017 / 17:25:05  -1. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 17:25:05  -2. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 17:25:07  -3. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 17:29:57  -1. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 17:29:57  -2. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 17:29:58  -3. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 17:44:37  -1. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 17:44:37  -2. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 17:44:38  -3. Bölge Isıtıcısı istenilen değere set edildi.
+6.02.2017 / 18:02:20  -1. Bölge Isıtıcısı sıfıra set edildi.
+6.02.2017 / 18:02:21  -2. Bölge Isıtıcısı sıfıra set edildi.
+6.02.2017 / 18:02:23  -3. Bölge Isıtıcısı sıfıra set edildi.
+6.02.2017 / 18:02:24  -Isıtıcı sıfıra set edildi.
+6.02.2017 / 18:02:35  -BBÖ-BV kapatıldı.
+6.02.2017 / 18:02:55  -BBÖ-BV kapatıldı.
+
+***** ERROR  6.02.2017 / 18:02:55    Isıtıcılar açılamaz !
+Sebep : ??? kapalı olabilir.
+
+6.02.2017 / 18:02:56  -Ana vana kapatıldı.
+6.02.2017 / 18:03:09  -Ana vana kapatıldı.
+6.02.2017 / 18:03:13  -DP'ye dur komutu gönderildi.
+6.02.2017 / 18:24:21  -DP-BV kapatıldı.
+6.02.2017 / 18:24:58  -RP'ye dur komutu gönderildi.
+6.02.2017 / 18:25:05  -MP'ye dur komutu gönderildi.
+6.02.2017 / 18:25:08  -AH-VKV açıldı.
+6.02.2017 / 18:25:45  -Su akış vanası kapatıldı.
+6.02.2017 / 18:26:45  -AH-ATM açıldı.
+6.02.2017 / 18:26:47  -AH-VKV kapatıldı.

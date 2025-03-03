@@ -1,0 +1,48 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:04:19
+21.02.2017 / 11:04:21  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 11:04:26  -Kelebek vana açýldý.
+21.02.2017 / 11:10:08  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 11:10:34  -Kelebek vana kapatýldý.
+21.02.2017 / 11:11:07  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 11:11:33  -Kelebek vana açýldý.
+21.02.2017 / 11:11:58  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 11:12:23  -Kelebek vana kapatýldý.
+21.02.2017 / 11:12:39  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 11:13:05  -Kelebek vana açýldý.
+21.02.2017 / 11:18:24  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 11:18:34  -Kelebek vana açýldý.
+21.02.2017 / 11:18:39  -Ortak gaz vanasý açýldý.
+21.02.2017 / 11:18:49  -Azot gaz vanasý açýldý.
+21.02.2017 / 11:20:00  -Azot gaz akýþ kontrolcüsü aktif hale getirildi.
+21.02.2017 / 11:20:09  -Azot gaz akýþ kontrolcüsü deaktif hale getirildi.
+21.02.2017 / 11:20:14  -Azot gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  21.02.2017 / 11:20:14    N2 gaz akýþý yok ! Lütfen N2 Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+21.02.2017 / 11:20:38  -Azot gaz akýþ kontrolcüsü aktif hale getirildi.
+21.02.2017 / 11:20:53  -Azot gaz akýþ kontrolcüsü aktif hale getirildi.
+21.02.2017 / 11:46:41  -Azot gaz akýþ kontrolcüsü deaktif hale getirildi.
+21.02.2017 / 11:46:44  -RP'ye dur komutu gönderildi.
+21.02.2017 / 11:46:50  -Kelebek vana kapatýldý.
+21.02.2017 / 11:46:57  -Kelebek vana ara pozisyona alýndý.
+21.02.2017 / 11:47:04  -Azot gaz vanasý kapatýldý.
+21.02.2017 / 11:47:21  -Azot (Purge) gaz vanasý açýldý.
+21.02.2017 / 11:48:01  -Kelebek vana açýldý.
+21.02.2017 / 11:54:26  -Oksijen gaz akýþ kontrolcüsü aktif hale getirildi.
+21.02.2017 / 12:02:12  -RP'ye dur komutu gönderildi.
+21.02.2017 / 12:16:35  -Oksijen gaz akýþ kontrolcüsü deaktif hale getirildi.
+21.02.2017 / 12:16:41  -Azot (Purge) gaz vanasý kapatýldý.
+21.02.2017 / 12:16:44  -Ortak gaz vanasý kapatýldý.
+21.02.2017 / 12:16:51  -Kelebek vana kapatýldý.
+21.02.2017 / 12:17:47  -MP'ye dur komutu gönderildi.
+21.02.2017 / 12:17:50  -AH-VKV açýldý.
+21.02.2017 / 12:18:09  -AH-VKV açýldý.
+
+***** ERROR  21.02.2017 / 12:18:09    MP çalýþtýrýlamaz !
+Sebep : AH-VKV veya K-KVK açýk olabilir.
+
+21.02.2017 / 12:18:50  -AH-VKV kapatýldý.
+21.02.2017 / 12:18:55  -AH-VKV açýldý.
+21.02.2017 / 12:19:32  -AH-ATM açýldý.
+21.02.2017 / 12:19:34  -AH-VKV kapatýldý.
+21.02.2017 / 13:10:12  -AH-VKV kapatýldý.

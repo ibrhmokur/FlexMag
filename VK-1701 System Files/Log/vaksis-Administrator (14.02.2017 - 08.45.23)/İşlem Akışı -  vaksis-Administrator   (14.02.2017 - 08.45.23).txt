@@ -1,0 +1,19 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:45:23
+14.02.2017 / 08:45:25  -Kelebek vana kapatýldý.
+14.02.2017 / 10:25:59  -Kelebek vana kapatýldý.
+
+***** ERROR  14.02.2017 / 10:25:59    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+14.02.2017 / 18:07:05  -Kelebek vana kapatýldý.
+14.02.2017 / 18:07:13  -Kelebek vana ara pozisyona alýndý.
+14.02.2017 / 18:07:19  -AH-ATM kapatýldý.
+14.02.2017 / 18:07:38  -Kelebek vana açýldý.
+14.02.2017 / 18:10:19  -RP'ye çalýþ komutu gönderildi.
+14.02.2017 / 18:11:46  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  14.02.2017 / 18:11:46    BG-BV açýlamaz !
+Sebep : Kazan atmosfer basýncýnda ya da K-VKV açýk olabilir.
+
+14.02.2017 / 18:11:55  -RP'ye çalýþ komutu gönderildi.
+14.02.2017 / 18:12:12  -BBÖ-BV açýldý.

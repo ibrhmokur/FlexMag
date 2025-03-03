@@ -1,0 +1,4 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 16:39:15
+2.02.2017 / 16:39:16  -Kelebek vana kapatýldý.
+2.02.2017 / 16:42:20  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+2.02.2017 / 16:49:25  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.

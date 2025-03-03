@@ -1,0 +1,6 @@
+Ýþlem Akýþý -  -  / 13:27:09
+9.12.2016 / 13:27  -RP'ye çalýþ komutu gönderildi.
+9.12.2016 / 13:27  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  9.12.2016 / 13:27    RP çalýþmasý ile ilgili sorun tespit edildi (Kod 7).
+

@@ -1,0 +1,4 @@
+Hata Mesajları -  vaksis-Administrator  / 09:51:18
+
+31.01.2017 / 09:51:18   Isıtıcılar açılamaz !
+Sebep : ??? kapalı olabilir.

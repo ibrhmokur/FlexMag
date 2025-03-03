@@ -1,0 +1,20 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:22:23
+2.02.2017 / 11:23:36  -Kelebek vana ara pozisyona alýndý.
+2.02.2017 / 11:24:01  -Kelebek vana açýldý.
+2.02.2017 / 11:24:09  -AH-ATM kapatýldý.
+2.02.2017 / 11:24:11  -AH-ATM kapatýldý.
+
+***** ERROR  2.02.2017 / 11:24:11    MP durdurulamaz !
+Sebep : DP-BV ya da BK-KV açýk, RP çalýþýyor  olabilir.
+
+2.02.2017 / 11:24:22  -Kelebek vana ara pozisyona alýndý.
+2.02.2017 / 11:24:26  -MP'ye dur komutu gönderildi.
+2.02.2017 / 11:24:29  -AH-VKV açýldý.
+2.02.2017 / 11:24:32  -K-VKV açýldý.
+2.02.2017 / 11:24:33  -K-VKV açýldý.
+2.02.2017 / 11:24:43  -K-ATM açýldý.
+2.02.2017 / 11:24:46  -K-VKV kapatýldý.
+2.02.2017 / 11:24:48  -Kelebek vana kapatýldý.
+2.02.2017 / 11:25:04  -AH-ATM açýldý.
+2.02.2017 / 11:25:07  -AH-VKV kapatýldý.
+2.02.2017 / 11:25:57  -Su akýþ vanasý açýldý.

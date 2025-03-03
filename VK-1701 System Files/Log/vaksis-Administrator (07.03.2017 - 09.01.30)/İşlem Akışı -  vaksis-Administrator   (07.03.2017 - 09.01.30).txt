@@ -1,0 +1,125 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:01:30
+7.03.2017 / 09:01:32  -Kelebek vana kapatýldý.
+7.03.2017 / 09:01:39  -Ýzolasyon Kapaðý kapatýldý.
+7.03.2017 / 09:09:40  -Ýzolasyon Kapaðý ara pozisyona alýndý.
+7.03.2017 / 09:09:48  -Ýzolasyon Kapaðý açýldý.
+7.03.2017 / 09:09:51  -Ýzolasyon Kapaðý ara pozisyona alýndý.
+7.03.2017 / 09:10:03  -Ýzolasyon Kapaðý kapatýldý.
+7.03.2017 / 09:10:13  -Ýzolasyon Kapaðý ara pozisyona alýndý.
+7.03.2017 / 09:10:21  -Ýzolasyon Kapaðý kapatýldý.
+7.03.2017 / 09:10:41  -Transfer mekanizmasý ileri pozisyona alýndý.
+7.03.2017 / 09:11:06  -Transfer mekanizmasý geri pozisyona alýndý.
+7.03.2017 / 10:04:30  -Su akýþ vanasý açýldý.
+7.03.2017 / 11:32:30  -Ana vana ara pozisyona alýndý.
+7.03.2017 / 11:32:41  -Ana vana kapatýldý.
+7.03.2017 / 11:32:46  -Ana vana ara pozisyona alýndý.
+7.03.2017 / 11:32:55  -Ana vana kapatýldý.
+7.03.2017 / 13:32:52  -K-VKV açýldý.
+7.03.2017 / 13:35:50  -K-ATM açýldý.
+7.03.2017 / 13:35:53  -K-VKV kapatýldý.
+7.03.2017 / 14:00:14  -Ýzolasyon Kapaðý ara pozisyona alýndý.
+7.03.2017 / 14:00:27  -Ýzolasyon Kapaðý kapatýldý.
+7.03.2017 / 14:00:56  -Ýzolasyon Kapaðý ara pozisyona alýndý.
+7.03.2017 / 14:01:04  -Ýzolasyon Kapaðý kapatýldý.
+7.03.2017 / 14:02:52  -Transfer mekanizmasý ileri pozisyona alýndý.
+7.03.2017 / 14:06:52  -Transfer mekanizmasý geri pozisyona alýndý.
+7.03.2017 / 14:08:51  -Ýzolasyon Kapaðý ara pozisyona alýndý.
+7.03.2017 / 14:09:03  -Ýzolasyon Kapaðý kapatýldý.
+                                                      
+7.03.2017 / 14:44:06  -Sistemi "Kaba Vakuma Alma" Ýþlemi Baþlatýldý.
+7.03.2017 / 14:44:08  -1. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 14:44:10  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 14:44:10  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 14:44:27  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+7.03.2017 / 14:44:28  -Alt Hat atmosfer basýncýna ulaþtý.
+7.03.2017 / 14:44:34  -AH-ATM kapatýldý.
+7.03.2017 / 14:44:43  -Kelebek vana ara pozisyona alýndý.
+7.03.2017 / 14:45:09  -Kelebek vana açýldý.
+7.03.2017 / 14:45:14  -K-ATM kapatýldý.
+7.03.2017 / 14:45:17  -MP'ye çalýþ komutu gönderildi.
+7.03.2017 / 14:45:18  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+7.03.2017 / 14:45:56  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+
+***** ERROR  7.03.2017 / 14:45:56    1. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+7.03.2017 / 14:45:57  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 14:45:58  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 14:46:05  -Kelebek vana ara pozisyona alýndý.
+7.03.2017 / 14:46:31  -Kelebek vana kapatýldý.
+7.03.2017 / 14:47:01  -Kelebek vana kapatýldý.
+                                                      
+7.03.2017 / 14:47:04  -Sistemi "Kaba Vakuma Alma" Ýþlemi Baþlatýldý.
+7.03.2017 / 14:47:07  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 14:47:09  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 14:47:26  -MP'ye dur komutu gönderildi.
+7.03.2017 / 14:47:30  -AH-VKV açýldý.
+7.03.2017 / 14:47:30  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+7.03.2017 / 14:49:08  -Alt Hat atmosfer basýncýna ulaþtý.
+7.03.2017 / 14:49:11  -AH-VKV kapatýldý.
+7.03.2017 / 14:49:16  -AH-ATM kapatýldý.
+7.03.2017 / 14:49:19  -K-ATM açýldý.
+7.03.2017 / 14:49:28  -Kelebek vana ara pozisyona alýndý.
+7.03.2017 / 14:49:54  -Kelebek vana açýldý.
+7.03.2017 / 14:49:58  -K-ATM kapatýldý.
+7.03.2017 / 14:50:02  -MP'ye çalýþ komutu gönderildi.
+7.03.2017 / 14:50:02  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+7.03.2017 / 15:00:02  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+
+***** ERROR  7.03.2017 / 15:00:02    Sistemi kaba vakuma alma iþlemi Kazan Basýncý
+10 Torr altýna düþürülemediði için iptal edildi !
+Lütfen Kazan Vakum baðlantýlarýný kontrol ediniz.
+
+7.03.2017 / 15:00:03  -1. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 15:00:03  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 15:00:04  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 15:00:13  -Kelebek vana ara pozisyona alýndý.
+7.03.2017 / 15:00:31  -Kelebek vana ara pozisyona alýndý.
+                                                      
+7.03.2017 / 15:00:35  -Sistemi "Kaba Vakuma Alma" Ýþlemi Baþlatýldý.
+7.03.2017 / 15:00:38  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 15:00:39  -Kelebek vana kapatýldý.
+7.03.2017 / 15:00:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 15:00:57  -MP'ye dur komutu gönderildi.
+7.03.2017 / 15:01:01  -AH-VKV açýldý.
+7.03.2017 / 15:01:01  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+7.03.2017 / 15:02:38  -Alt Hat atmosfer basýncýna ulaþtý.
+7.03.2017 / 15:02:41  -AH-VKV kapatýldý.
+7.03.2017 / 15:02:46  -AH-ATM kapatýldý.
+7.03.2017 / 15:02:57  -MP'ye çalýþ komutu gönderildi.
+7.03.2017 / 15:03:23  -RP'ye çalýþ komutu gönderildi.
+7.03.2017 / 15:03:40  -Kelebek vana ara pozisyona alýndý.
+7.03.2017 / 15:04:05  -Kelebek vana açýldý.
+7.03.2017 / 15:04:09  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+7.03.2017 / 15:04:11  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+7.03.2017 / 15:04:25  -Kelebek vana ara pozisyona alýndý.
+7.03.2017 / 15:04:51  -Kelebek vana kapatýldý.
+7.03.2017 / 15:04:55  -RP'ye dur komutu gönderildi.
+7.03.2017 / 15:04:58  -MP'ye dur komutu gönderildi.
+7.03.2017 / 15:05:02  -AH-VKV açýldý.
+7.03.2017 / 15:05:03  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+7.03.2017 / 15:06:39  -AH-ATM açýldý.
+7.03.2017 / 15:06:40  -Alt Hat atmosfer basýncýna ulaþtý.
+7.03.2017 / 15:06:42  -AH-VKV kapatýldý.
+7.03.2017 / 15:06:49  -Otomatik Kaba Vakuma Ýþlemi Tamamlandý.
+                                                      
+7.03.2017 / 17:17:23  -Ýzolasyon Kapaðý ara pozisyona alýndý.
+7.03.2017 / 17:18:05  -Ýzolasyon Kapaðý kapatýldý.
+7.03.2017 / 17:18:20  -Ýzolasyon Kapaðý ara pozisyona alýndý.
+7.03.2017 / 17:18:38  -Ýzolasyon Kapaðý kapatýldý.
+7.03.2017 / 17:27:19  -Ýzolasyon Kapaðý kapatýldý.
+
+***** ERROR  7.03.2017 / 17:27:19    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+7.03.2017 / 17:27:19  -Su akýþ vanasý kapatýldý.
+7.03.2017 / 17:27:20  -1. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 17:27:20  -2. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 17:27:20  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 17:27:26  -3. Bölge Isýtýcýsý sýfýra set edildi.
+7.03.2017 / 17:27:29  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  7.03.2017 / 17:27:29    Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+7.03.2017 / 17:27:32  -3. Bölge Isýtýcýsý sýfýra set edildi.

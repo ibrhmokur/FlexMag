@@ -1,0 +1,131 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:44:14
+4.02.2017 / 11:44:15  -Kelebek vana kapatýldý.
+
+***** ERROR  4.02.2017 / 11:44:15    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:45:34                                             
+4.02.2017 / 11:45:35  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+4.02.2017 / 11:45:38  -1. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 11:45:38  -2. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 11:45:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+4.02.2017 / 11:45:56  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+4.02.2017 / 11:45:56  -Alt Hat atmosfer basýncýna ulaþtý.
+4.02.2017 / 11:46:03  -AH-ATM kapatýldý.
+4.02.2017 / 11:46:13  -Kelebek vana ara pozisyona alýndý.
+4.02.2017 / 11:46:39  -Kelebek vana açýldý.
+4.02.2017 / 11:46:43  -K-ATM kapatýldý.
+4.02.2017 / 11:46:46  -MP'ye çalýþ komutu gönderildi.
+4.02.2017 / 11:46:47  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+4.02.2017 / 11:51:46  -RP'ye çalýþ komutu gönderildi.
+4.02.2017 / 11:51:47  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+4.02.2017 / 11:51:53  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+
+***** ERROR  4.02.2017 / 11:51:53    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:52:25  -BBÖ-BV açýldý.
+4.02.2017 / 11:52:36  -Kelebek vana ara pozisyona alýndý.
+4.02.2017 / 11:52:39  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  4.02.2017 / 11:52:39    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:52:40  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  4.02.2017 / 11:52:40    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:52:41  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  4.02.2017 / 11:52:41    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:52:42  -Kelebek vana ara pozisyona alýndý.
+4.02.2017 / 11:52:43  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  4.02.2017 / 11:52:43    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:52:52  -Kelebek vana ara pozisyona alýndý.
+4.02.2017 / 11:52:53  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  4.02.2017 / 11:52:53    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:53:00  -Kelebek vana ara pozisyona alýndý.
+4.02.2017 / 11:53:01  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  4.02.2017 / 11:53:01    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:53:01  -Kelebek vana kapatýldý.
+
+***** ERROR  4.02.2017 / 11:53:01    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:53:02  -Kelebek vana kapatýldý.
+4.02.2017 / 11:53:03  -Kelebek vana kapatýldý.
+4.02.2017 / 11:53:04  -Kelebek vana kapatýldý.
+
+***** ERROR  4.02.2017 / 11:53:04    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:53:09  -Kelebek vana kapatýldý.
+4.02.2017 / 11:53:10  -Kelebek vana kapatýldý.
+
+***** ERROR  4.02.2017 / 11:53:10    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  4.02.2017 / 11:53:10    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:53:11  -DP-BV açýldý.
+4.02.2017 / 11:53:12  -DP-BV açýldý.
+
+***** ERROR  4.02.2017 / 11:53:12    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:53:13  -DP'ye çalýþ komutu gönderildi.
+4.02.2017 / 11:54:09  -DP'nin ýsýnmasý bekleniyor.
+4.02.2017 / 11:54:28  -DP'nin ýsýnmasý bekleniyor.
+4.02.2017 / 11:54:30  -DP'nin ýsýnmasý bekleniyor.
+4.02.2017 / 11:54:31  -DP'nin ýsýnmasý bekleniyor.
+
+***** ERROR  4.02.2017 / 11:54:31    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  4.02.2017 / 11:54:31    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:54:33  -DP'nin ýsýnmasý bekleniyor.
+
+***** ERROR  4.02.2017 / 11:54:33    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:54:43  -DP'nin ýsýnmasý bekleniyor.
+4.02.2017 / 11:54:46  -DP'nin ýsýnmasý bekleniyor.
+
+***** ERROR  4.02.2017 / 11:54:46    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 11:54:56  -DP'nin ýsýnmasý bekleniyor.
+4.02.2017 / 11:54:57  -DP'nin ýsýnmasý bekleniyor.
+4.02.2017 / 11:54:58  -DP'nin ýsýnmasý bekleniyor.
+
+***** ERROR  4.02.2017 / 11:54:58    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+
+***** ERROR  4.02.2017 / 11:54:58    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+4.02.2017 / 12:04:51  -Ana vana açýldý.
+4.02.2017 / 12:04:51  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+4.02.2017 / 12:34:53  -Ýstenilen basýnç seviyesine geldi.
+4.02.2017 / 12:35:00  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+4.02.2017 / 12:35:03  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+4.02.2017 / 12:56:23  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

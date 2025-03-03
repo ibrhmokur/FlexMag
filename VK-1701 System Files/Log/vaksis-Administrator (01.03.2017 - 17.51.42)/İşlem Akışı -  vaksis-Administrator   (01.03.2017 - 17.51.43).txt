@@ -1,0 +1,27 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:51:43
+1.03.2017 / 17:51:44  -Kelebek vana kapatýldý.
+1.03.2017 / 17:51:46  -BBÖ-BV açýldý.
+1.03.2017 / 17:52:01  -BBÖ-BV açýldý.
+
+***** ERROR  1.03.2017 / 17:52:01    AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+
+1.03.2017 / 17:52:02  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 17:52:02  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 17:52:03  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 17:52:04  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 17:52:04  -BBÖ-BV kapatýldý.
+1.03.2017 / 17:52:04  -Ana vana kapatýldý.
+1.03.2017 / 17:52:06  -RP'ye dur komutu gönderildi.
+1.03.2017 / 17:52:26  -DP-BV kapatýldý.
+1.03.2017 / 17:52:30  -DP-BV kapatýldý.
+1.03.2017 / 17:52:31  -RP'ye çalýþ komutu gönderildi.
+1.03.2017 / 17:52:34  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  1.03.2017 / 17:52:34    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+1.03.2017 / 17:52:40  -DP-BV açýldý.
+1.03.2017 / 17:52:43  -DP-BV açýldý.
+1.03.2017 / 17:52:44  -DP'ye çalýþ komutu gönderildi.
+1.03.2017 / 17:52:52  -BBÖ-BV açýldý.
+1.03.2017 / 17:53:02  -Ana vana açýldý.

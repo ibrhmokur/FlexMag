@@ -1,0 +1,16 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:57:59
+22.02.2017 / 11:58:12   AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+22.02.2017 / 11:58:46   BG-BV açýlamaz !
+Sebep : Kazan atmosfer basýncýnda ya da K-VKV açýk olabilir.
+22.02.2017 / 11:58:12   AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+22.02.2017 / 11:59:01   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+22.02.2017 / 11:58:46   BG-BV açýlamaz !
+Sebep : Kazan atmosfer basýncýnda ya da K-VKV açýk olabilir.
+22.02.2017 / 11:58:12   AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+22.02.2017 / 12:00:50   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+22.02.2017 / 11:59:01   BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+22.02.2017 / 11:58:46   BG-BV açýlamaz !
+Sebep : Kazan atmosfer basýncýnda ya da K-VKV açýk olabilir.
+22.02.2017 / 11:58:12   AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).

@@ -1,0 +1,20 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:44:08
+           -Kelebek vana kapatýldý.
+19.01.2017 / 09:44:26                                             
+19.01.2017 / 09:44:42  -BBÖ-BV kapatýldý.
+19.01.2017 / 09:44:47  -BBÖ-BV açýldý.
+           -BBÖ-BV açýldý.
+19.01.2017 / 09:44:59                                             
+19.01.2017 / 09:45:00                                             
+19.01.2017 / 09:45:02  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+19.01.2017 / 09:45:02  -Isýtýcý sýfýra set edildi.
+19.01.2017 / 09:45:04  -Isýtýcý sýfýra set edildi.
+19.01.2017 / 09:45:15  -DP'nin soðumasý bekleniyor.
+19.01.2017 / 09:45:22  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+19.01.2017 / 09:45:25  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+19.01.2017 / 09:45:25  -Alt Hat atmosfer basýncýna ulaþtý.
+19.01.2017 / 09:45:26  -Alt Hat atmosfer basýncýna ulaþtý.
+19.01.2017 / 09:45:30  -Alt Hat atmosfer basýncýna ulaþtý.
+           -Durdurma iþlemi tamamlandý
+19.01.2017 / 09:45:34                                             
+19.01.2017 / 09:45:46  -BBÖ-BV kapatýldý.

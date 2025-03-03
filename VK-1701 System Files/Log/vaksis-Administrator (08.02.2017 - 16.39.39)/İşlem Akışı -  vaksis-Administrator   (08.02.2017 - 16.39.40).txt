@@ -1,0 +1,46 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 16:39:40
+8.02.2017 / 16:49:19  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+8.02.2017 / 16:50:12  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+8.02.2017 / 16:50:15  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+8.02.2017 / 16:51:42  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+8.02.2017 / 16:56:42  -Su akýþ vanasý açýldý.
+                                                      
+8.02.2017 / 16:56:53  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+8.02.2017 / 16:56:56  -1. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 16:56:56  -2. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 16:56:58  -3. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 16:57:15  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+8.02.2017 / 16:57:15  -Alt Hat atmosfer basýncýna ulaþtý.
+8.02.2017 / 16:57:22  -AH-ATM kapatýldý.
+8.02.2017 / 16:57:31  -Kelebek vana ara pozisyona alýndý.
+8.02.2017 / 16:57:56  -Kelebek vana açýldý.
+8.02.2017 / 16:58:01  -K-ATM kapatýldý.
+8.02.2017 / 16:58:03  -MP'ye çalýþ komutu gönderildi.
+8.02.2017 / 16:58:04  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+8.02.2017 / 17:03:11  -RP'ye çalýþ komutu gönderildi.
+8.02.2017 / 17:03:12  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+8.02.2017 / 17:03:50  -BBÖ-BV açýldý.
+8.02.2017 / 17:04:01  -Kelebek vana ara pozisyona alýndý.
+8.02.2017 / 17:04:26  -Kelebek vana kapatýldý.
+8.02.2017 / 17:04:35  -DP-BV açýldý.
+8.02.2017 / 17:04:39  -DP'ye çalýþ komutu gönderildi.
+8.02.2017 / 17:06:22  -DP'nin ýsýnmasý bekleniyor.
+8.02.2017 / 17:12:27  -DP'ye dur komutu gönderildi.
+8.02.2017 / 17:12:28  -3. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 17:12:30  -1. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 17:12:30  -RP'ye dur komutu gönderildi.
+8.02.2017 / 17:12:30  -2. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 17:12:31  -BBÖ-BV kapatýldý.
+8.02.2017 / 17:12:33  -3. Bölge Isýtýcýsý sýfýra set edildi.
+8.02.2017 / 17:12:45  -Su akýþ vanasý kapatýldý.
+8.02.2017 / 17:12:58  -DP-BV kapatýldý.
+8.02.2017 / 17:13:03  -RP'ye çalýþ komutu gönderildi.
+8.02.2017 / 17:13:16  -Kelebek vana ara pozisyona alýndý.
+8.02.2017 / 17:13:42  -Kelebek vana açýldý.
+8.02.2017 / 17:33:41  -Kelebek vana ara pozisyona alýndý.
+8.02.2017 / 17:34:07  -Kelebek vana kapatýldý.
+8.02.2017 / 17:50:43  -RP'ye dur komutu gönderildi.
+8.02.2017 / 17:50:53  -MP'ye dur komutu gönderildi.
+8.02.2017 / 17:50:56  -AH-VKV açýldý.
+8.02.2017 / 17:52:34  -AH-ATM açýldý.
+8.02.2017 / 17:52:36  -AH-VKV kapatýldý.

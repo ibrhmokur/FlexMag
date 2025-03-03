@@ -1,0 +1,19 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:13:34
+23.02.2017 / 16:53:54  -Kelebek vana kapatýldý.
+
+***** ERROR  23.02.2017 / 16:53:54    Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+23.02.2017 / 16:53:56  -1. Bölge Isýtýcýsý sýfýra set edildi.
+23.02.2017 / 16:53:57  -2. Bölge Isýtýcýsý sýfýra set edildi.
+23.02.2017 / 16:54:01  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.02.2017 / 16:54:43  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.02.2017 / 17:59:44  -Kelebek vana ara pozisyona alýndý.
+23.02.2017 / 18:00:06  -AH-ATM kapatýldý.
+23.02.2017 / 18:00:10  -Kelebek vana açýldý.
+23.02.2017 / 18:05:26  -RP'ye çalýþ komutu gönderildi.
+23.02.2017 / 18:10:02  -RP'ye dur komutu gönderildi.
+23.02.2017 / 18:10:08  -RP'ye çalýþ komutu gönderildi.
+23.02.2017 / 18:10:11  -Kelebek vana ara pozisyona alýndý.
+23.02.2017 / 18:10:37  -Kelebek vana kapatýldý.
+23.02.2017 / 18:10:42  -RP'ye dur komutu gönderildi.

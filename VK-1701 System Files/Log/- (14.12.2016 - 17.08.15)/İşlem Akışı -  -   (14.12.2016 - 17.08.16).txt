@@ -1,0 +1,11 @@
+Ýþlem Akýþý -  -  / 17:08:16
+14.12.2016 / 17:08  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  14.12.2016 / 17:08    RP çalýþmasý ile ilgili sorun tespit edildi (Kod 7).
+
+14.12.2016 / 17:08  -Isýtýcý sýfýra set edildi.
+14.12.2016 / 17:09  -AH-VKV açýldý.
+
+***** ERROR  14.12.2016 / 17:09    AH-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 5).
+
+14.12.2016 / 17:09  -Isýtýcý sýfýra set edildi.

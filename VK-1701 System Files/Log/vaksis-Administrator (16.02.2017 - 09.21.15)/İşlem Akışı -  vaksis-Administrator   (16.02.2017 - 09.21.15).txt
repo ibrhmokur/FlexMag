@@ -1,0 +1,225 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 09:21:15
+16.02.2017 / 09:21:17  -Kelebek vana kapatýldý.
+16.02.2017 / 09:21:18  -AH-ATM açýldý.
+16.02.2017 / 09:21:25  -AH-VKV kapatýldý.
+                                                      
+16.02.2017 / 09:21:34  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+16.02.2017 / 09:21:37  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:21:37  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:21:39  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 09:21:55  -Alt Hat atmosfer basýncýna ulaþtý.
+16.02.2017 / 09:22:02  -AH-ATM kapatýldý.
+16.02.2017 / 09:22:11  -Kelebek vana ara pozisyona alýndý.
+16.02.2017 / 09:22:37  -Kelebek vana açýldý.
+16.02.2017 / 09:22:42  -K-ATM kapatýldý.
+16.02.2017 / 09:22:45  -MP'ye çalýþ komutu gönderildi.
+16.02.2017 / 09:22:46  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+16.02.2017 / 09:28:03  -RP'ye çalýþ komutu gönderildi.
+16.02.2017 / 09:28:04  -Kazan basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+16.02.2017 / 09:28:42  -BBÖ-BV açýldý.
+16.02.2017 / 09:28:53  -Kelebek vana ara pozisyona alýndý.
+16.02.2017 / 09:29:18  -Kelebek vana kapatýldý.
+16.02.2017 / 09:29:28  -DP-BV açýldý.
+16.02.2017 / 09:29:31  -DP'ye çalýþ komutu gönderildi.
+16.02.2017 / 09:31:45  -DP'nin ýsýnmasý bekleniyor.
+16.02.2017 / 09:49:56  -Ana vana açýldý.
+16.02.2017 / 09:49:56  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+16.02.2017 / 10:09:20  -Ýstenilen basýnç seviyesine geldi.
+16.02.2017 / 10:09:27  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+16.02.2017 / 10:09:30  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.
+16.02.2017 / 10:10:01  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 10:10:01  -Isýtýcý istenilen deðere set edildi.
+16.02.2017 / 10:10:02  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 10:10:04  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 10:56:02  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  16.02.2017 / 10:56:02    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+16.02.2017 / 10:56:03  -Su akýþ vanasý kapatýldý.
+16.02.2017 / 10:56:06  -Su akýþ vanasý kapatýldý.
+
+***** ERROR  16.02.2017 / 10:56:06    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+16.02.2017 / 10:56:06  -Su akýþ vanasý açýldý.
+16.02.2017 / 10:56:08  -DP'ye dur komutu gönderildi.
+16.02.2017 / 10:56:09  -BBÖ-BV kapatýldý.
+16.02.2017 / 10:56:10  -Ana vana kapatýldý.
+16.02.2017 / 10:56:11  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 10:56:12  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 10:56:12  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 10:56:12  -Isýtýcý sýfýra set edildi.
+16.02.2017 / 10:56:12  -RP'ye dur komutu gönderildi.
+16.02.2017 / 10:56:16  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 10:56:32  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 10:56:41  -DP-BV kapatýldý.
+16.02.2017 / 10:56:49  -RP'ye çalýþ komutu gönderildi.
+16.02.2017 / 10:56:58  -DP-BV açýldý.
+16.02.2017 / 10:57:02  -DP'ye çalýþ komutu gönderildi.
+16.02.2017 / 10:57:11  -BBÖ-BV açýldý.
+16.02.2017 / 10:57:12  -BBÖ-BV açýldý.
+
+***** ERROR  16.02.2017 / 10:57:12    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+16.02.2017 / 10:57:14  -BBÖ-BV açýldý.
+
+***** ERROR  16.02.2017 / 10:57:14    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+16.02.2017 / 10:57:20  -BBÖ-BV açýldý.
+16.02.2017 / 10:57:23  -Ana vana açýldý.
+16.02.2017 / 10:57:27  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 10:57:27  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 10:57:28  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 11:07:46  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 11:07:47  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 11:07:48  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 12:02:49  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 12:02:50  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 12:02:51  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:28:03  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:28:04  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:28:05  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:38:17  -RP'ye dur komutu gönderildi.
+
+***** ERROR  16.02.2017 / 13:38:17    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+16.02.2017 / 13:38:18  -Su akýþ vanasý kapatýldý.
+16.02.2017 / 13:38:18  -DP'ye dur komutu gönderildi.
+16.02.2017 / 13:38:20  -BBÖ-BV kapatýldý.
+16.02.2017 / 13:38:21  -Ana vana kapatýldý.
+16.02.2017 / 13:38:22  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 13:38:22  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 13:38:22  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 13:38:23  -Isýtýcý sýfýra set edildi.
+16.02.2017 / 13:38:27  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 13:38:51  -DP-BV kapatýldý.
+16.02.2017 / 13:38:52  -AH-VKV açýldý.
+16.02.2017 / 13:40:04  -Su akýþ vanasý açýldý.
+16.02.2017 / 13:40:07  -Su akýþ vanasý açýldý.
+16.02.2017 / 13:40:08  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 13:40:08  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 13:40:09  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 13:40:14  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 13:40:33  -AH-ATM açýldý.
+16.02.2017 / 13:40:37  -AH-VKV kapatýldý.
+16.02.2017 / 13:40:42  -AH-ATM kapatýldý.
+16.02.2017 / 13:40:43  -MP'ye çalýþ komutu gönderildi.
+16.02.2017 / 13:41:08  -RP'ye çalýþ komutu gönderildi.
+16.02.2017 / 13:41:27  -DP-BV açýldý.
+16.02.2017 / 13:41:31  -DP'ye çalýþ komutu gönderildi.
+16.02.2017 / 13:41:41  -BBÖ-BV açýldý.
+16.02.2017 / 13:41:51  -Ana vana açýldý.
+16.02.2017 / 13:42:09  -Ana vana açýldý.
+
+***** ERROR  16.02.2017 / 13:42:09    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, Dp çalýþmýyor ya da kazan basýncý 1E-4 Torr'dan yüksek olabilir.
+
+16.02.2017 / 13:42:14  -Ana vana açýldý.
+16.02.2017 / 13:42:25  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:42:25  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:42:26  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:57:23  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:57:24  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 13:57:25  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:13:02  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:13:03  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:13:03  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:24:08  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:24:09  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:24:10  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:34:44  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:34:45  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:34:45  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:47:21  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:47:22  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:47:23  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 14:59:33  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 14:59:34  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 14:59:35  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 14:59:36  -Isýtýcý sýfýra set edildi.
+16.02.2017 / 15:00:48  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:00:48  -Isýtýcý istenilen deðere set edildi.
+16.02.2017 / 15:00:51  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:00:54  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:01:05  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:01:08  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:01:11  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:02:23  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:02:27  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:02:30  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:02:38  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:02:41  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:02:43  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:03:11  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:04:40  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:04:59  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:05:38  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:07:05  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:07:47  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:08:03  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 15:08:03  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 15:08:04  -Isýtýcý sýfýra set edildi.
+16.02.2017 / 15:10:57  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:10:58  -Isýtýcý istenilen deðere set edildi.
+16.02.2017 / 15:11:09  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:12:39  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:12:47  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 15:12:50  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:12:54  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:13:10  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 15:13:12  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 15:13:13  -Isýtýcý sýfýra set edildi.
+16.02.2017 / 15:14:17  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:14:18  -Isýtýcý istenilen deðere set edildi.
+16.02.2017 / 15:14:19  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:14:21  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:15:00  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:15:03  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:15:05  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:16:52  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:16:55  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:16:57  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:18:22  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:18:25  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:18:28  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:22:10  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:22:24  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:22:35  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:22:48  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:22:55  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:23:34  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:26:51  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:27:06  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:27:29  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:27:32  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:27:50  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:28:21  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:30:47  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:32:28  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:37:01  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:43:51  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:44:01  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:44:16  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:44:20  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+16.02.2017 / 15:47:04  -1. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 15:47:04  -2. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 15:47:05  -3. Bölge Isýtýcýsý sýfýra set edildi.
+16.02.2017 / 15:47:05  -Isýtýcý sýfýra set edildi.
+16.02.2017 / 18:03:45  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  16.02.2017 / 18:03:45    BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 
+
+16.02.2017 / 18:03:53  -BBÖ-BV kapatýldý.
+16.02.2017 / 18:04:01  -Ana vana kapatýldý.
+16.02.2017 / 18:04:03  -Ana vana kapatýldý.
+16.02.2017 / 18:04:13  -DP'ye dur komutu gönderildi.
+16.02.2017 / 18:23:50  -RP'ye dur komutu gönderildi.
+16.02.2017 / 18:23:56  -MP'ye dur komutu gönderildi.
+16.02.2017 / 18:23:59  -AH-VKV açýldý.
+16.02.2017 / 18:25:39  -AH-ATM açýldý.
+16.02.2017 / 18:25:41  -AH-VKV kapatýldý.

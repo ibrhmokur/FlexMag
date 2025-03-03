@@ -1,0 +1,43 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:10:56
+6.02.2017 / 17:11:27  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+6.02.2017 / 17:11:28  -Isýtýcý istenilen deðere set edildi.
+6.02.2017 / 17:11:29  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+6.02.2017 / 17:11:31  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+6.02.2017 / 17:17:11  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+6.02.2017 / 17:17:12  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+6.02.2017 / 17:17:13  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+6.02.2017 / 17:19:36  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  6.02.2017 / 17:19:36    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+6.02.2017 / 17:19:40  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  6.02.2017 / 17:19:40    AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+
+6.02.2017 / 17:19:41  -DP'ye dur komutu gönderildi.
+6.02.2017 / 17:19:43  -Ana vana kapatýldý.
+6.02.2017 / 17:19:44  -1. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 17:19:45  -2. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 17:19:45  -RP'ye dur komutu gönderildi.
+6.02.2017 / 17:19:45  -3. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 17:19:45  -Isýtýcý sýfýra set edildi.
+6.02.2017 / 17:19:46  -BBÖ-BV kapatýldý.
+6.02.2017 / 17:19:48  -2. Bölge Isýtýcýsý sýfýra set edildi.
+6.02.2017 / 17:20:13  -DP-BV kapatýldý.
+6.02.2017 / 17:21:01  -DP-BV kapatýldý.
+
+***** ERROR  6.02.2017 / 17:21:01    DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+
+6.02.2017 / 17:21:07  -RP'ye çalýþ komutu gönderildi.
+6.02.2017 / 17:21:10  -RP'ye çalýþ komutu gönderildi.
+
+***** ERROR  6.02.2017 / 17:21:10    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+6.02.2017 / 17:21:16  -DP-BV açýldý.
+6.02.2017 / 17:21:21  -DP'ye çalýþ komutu gönderildi.
+6.02.2017 / 17:21:32  -DP'ye çalýþ komutu gönderildi.
+6.02.2017 / 17:21:39  -Ana vana açýldý.
+6.02.2017 / 17:21:43  -BBÖ-BV açýldý.

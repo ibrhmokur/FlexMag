@@ -1,0 +1,10 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:30:04
+20.01.2017 / 17:36:27  -BBÖ-BV kapatýldý.
+20.01.2017 / 17:36:31  -BBÖ-BV kapatýldý.
+
+***** ERROR  20.01.2017 / 17:36:31    DP durdurulamaz !
+Sebep : AV açýk.
+
+20.01.2017 / 17:36:33  -Ana vana kapatýldý.
+20.01.2017 / 17:36:35  -Ana vana kapatýldý.
+20.01.2017 / 17:36:42  -TP'ye dur komutu gönderildi

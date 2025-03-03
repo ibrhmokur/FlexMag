@@ -1,0 +1,22 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:58:21
+10.02.2017 / 17:58:50  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+10.02.2017 / 17:58:50  -Isýtýcý istenilen deðere set edildi.
+10.02.2017 / 18:00:37  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+10.02.2017 / 18:01:22  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 18:01:22  -Isýtýcý sýfýra set edildi.
+10.02.2017 / 18:09:40  -Isýtýcý sýfýra set edildi.
+
+***** ERROR  10.02.2017 / 18:09:40    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+10.02.2017 / 18:09:40  -Ana vana kapatýldý.
+10.02.2017 / 18:09:43  -BBÖ-BV kapatýldý.
+10.02.2017 / 18:09:44  -BBÖ-BV kapatýldý.
+
+***** ERROR  10.02.2017 / 18:09:44    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+10.02.2017 / 18:09:57  -BBÖ-BV kapatýldý.
+10.02.2017 / 18:10:01  -DP'ye dur komutu gönderildi.
+10.02.2017 / 18:12:12  -Isýtýcý istenilen deðere set edildi.
+10.02.2017 / 18:13:59  -1. Bölge Isýtýcýsý istenilen deðere set edildi.

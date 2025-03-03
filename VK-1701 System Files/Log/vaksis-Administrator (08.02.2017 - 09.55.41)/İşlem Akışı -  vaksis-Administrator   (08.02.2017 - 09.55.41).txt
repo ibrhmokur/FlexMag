@@ -1,0 +1,7 @@
+İşlem Akışı -  vaksis-Administrator  / 09:55:41
+8.02.2017 / 09:55:43  -Kelebek vana kapatıldı.
+8.02.2017 / 09:56:11  -Ar gaz vanası kapatıldı.
+8.02.2017 / 09:56:12  -Hidrojen gaz vanası kapatıldı.
+8.02.2017 / 09:56:14  -Azot gaz vanası kapatıldı.
+8.02.2017 / 09:56:18  -Azot (Purge) gaz vanası kapatıldı.
+8.02.2017 / 09:56:49  -Ortak gaz vanası kapatıldı.

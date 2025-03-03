@@ -1,0 +1,17 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:21:56
+           -Kelebek vana kapatýldý.
+18.01.2017 / 11:22  -Kelebek vana kapatýldý.
+18.01.2017 / 11:22  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+18.01.2017 / 11:22  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:22  -Ana vana kapatýldý.
+
+***** ERROR  18.01.2017 / 11:22    DP durdurulamaz !
+Sebep : AV açýk.
+
+
+***** ERROR  18.01.2017 / 11:22    Sistemi durdurma iþlemi 
+DP durdurulamadýðý  için iptal edildi !
+Lütfen baðlantýlarý kontrol ediniz.
+
+18.01.2017 / 11:22  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:22  -RP'ye dur komutu gönderildi.

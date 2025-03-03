@@ -1,0 +1,18 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:53:46
+19.01.2017 / 08:54  -PL-ATM kapatýldý.
+19.01.2017 / 08:54  -PL-ATM açýldý.
+19.01.2017 / 08:54  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+19.01.2017 / 08:54  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+           -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+                                                      
+19.01.2017 / 08:55                                             
+19.01.2017 / 08:55  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+19.01.2017 / 08:55  -Isýtýcý sýfýra set edildi.
+19.01.2017 / 08:55  -DP'nin ýsýnmasý bekleniyor.
+19.01.2017 / 08:55  -Alt Hat atmosfer basýncýna ulaþtý.
+           -Durdurma iþlemi tamamlandý
+19.01.2017 / 08:55  -PL-ATM kapatýldý.
+19.01.2017 / 08:55  -AH-VKV açýldý.
+19.01.2017 / 08:55  -PL-ATM açýldý.
+19.01.2017 / 09:01  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+19.01.2017 / 09:01  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.

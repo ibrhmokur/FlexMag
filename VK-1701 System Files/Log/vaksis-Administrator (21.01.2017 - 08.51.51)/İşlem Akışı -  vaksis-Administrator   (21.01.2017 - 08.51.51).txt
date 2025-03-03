@@ -1,0 +1,64 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:51:51
+21.01.2017 / 08:51:53  -Kelebek vana kapatýldý.
+21.01.2017 / 09:35:59  -Su akýþ vanasý açýldý.
+21.01.2017 / 09:42:02  -AH-ATM kapatýldý.
+21.01.2017 / 09:42:03  -MP'ye çalýþ komutu gönderildi.
+21.01.2017 / 09:42:28  -Kelebek vana açýldý.
+21.01.2017 / 09:42:30  -Kelebek vana açýldý.
+
+***** ERROR  21.01.2017 / 09:42:30    BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+
+21.01.2017 / 09:42:35  -1. Bölge Isýtýcý sýfýra set edildi.
+21.01.2017 / 09:42:35  -2. Bölge Isýtýcý sýfýra set edildi.
+21.01.2017 / 09:42:35  -3. Bölge Isýtýcý sýfýra set edildi.
+21.01.2017 / 09:42:39  -Kelebek vana ara pozisyona alýndý.
+21.01.2017 / 09:43:06  -Kelebek vana kapatýldý.
+21.01.2017 / 09:43:13  -MP'ye dur komutu gönderildi.
+21.01.2017 / 09:43:16  -AH-VKV açýldý.
+21.01.2017 / 09:43:27  -AH-VKV açýldý.
+21.01.2017 / 09:43:54  -AH-VKV açýldý.
+
+***** ERROR  21.01.2017 / 09:43:54    BK-KV açýlamaz !
+Sebep : Kazan atmosferdeyse MP çalýþýyor deðilse çalýþmýyor olabilir ya da DP-BV, K-VKV, AH-VKV veya AV açýk olabilir.
+
+21.01.2017 / 09:44:59  -AH-ATM açýldý.
+21.01.2017 / 09:45:02  -AH-VKV kapatýldý.
+21.01.2017 / 09:46:34  -AH-VKV kapatýldý.
+21.01.2017 / 09:46:54  -Kelebek vana ara pozisyona alýndý.
+21.01.2017 / 09:47:00  -AH-ATM kapatýldý.
+21.01.2017 / 09:47:19  -Kelebek vana açýldý.
+21.01.2017 / 09:52:23  -RP'ye çalýþ komutu gönderildi.
+21.01.2017 / 09:52:28  -RP'ye dur komutu gönderildi.
+21.01.2017 / 09:52:36  -Kelebek vana ara pozisyona alýndý.
+21.01.2017 / 09:53:01  -Kelebek vana kapatýldý.
+21.01.2017 / 09:53:11  -MP'ye dur komutu gönderildi.
+21.01.2017 / 09:53:13  -AH-VKV açýldý.
+21.01.2017 / 09:54:54  -AH-ATM açýldý.
+21.01.2017 / 09:54:56  -AH-VKV kapatýldý.
+                                                      
+21.01.2017 / 09:55:08  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+21.01.2017 / 09:55:10  -1. Bölge Isýtýcý sýfýra set edildi.
+21.01.2017 / 09:55:12  -2. Bölge Isýtýcý sýfýra set edildi.
+21.01.2017 / 09:55:12  -3. Bölge Isýtýcý sýfýra set edildi.
+21.01.2017 / 09:55:31  -AH-VKV açýldý.
+21.01.2017 / 09:55:32  -Alt Hat atmosfer basýncýna ulaþtý.
+21.01.2017 / 09:55:33  -AH-VKV kapatýldý.
+21.01.2017 / 09:55:39  -AH-ATM kapatýldý.
+21.01.2017 / 09:55:47  -MP'ye çalýþ komutu gönderildi.
+21.01.2017 / 09:56:06  -RP'ye çalýþ komutu gönderildi.
+21.01.2017 / 09:56:20  -Kelebek vana ara pozisyona alýndý.
+21.01.2017 / 09:56:45  -Kelebek vana açýldý.
+21.01.2017 / 09:56:50  -Kazan basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+21.01.2017 / 09:56:52  -Kazan basýncýnýn 10 dakika içerisinde 0,5 Torr deðerine düþmesi bekleniyor.
+21.01.2017 / 09:56:56  -BBÖ-BV açýldý.
+21.01.2017 / 09:57:06  -Kelebek vana ara pozisyona alýndý.
+21.01.2017 / 09:57:32  -Kelebek vana kapatýldý.
+21.01.2017 / 09:57:41  -DP-BV açýldý.
+21.01.2017 / 09:57:44  -DP'ye çalýþ komutu gönderildi.
+21.01.2017 / 09:59:49  -DP'nin ýsýnmasý bekleniyor.
+21.01.2017 / 10:15:17  -Ana vana açýldý.
+21.01.2017 / 10:15:18  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+21.01.2017 / 10:20:39  -Ýstenilen basýnç seviyesine geldi.
+21.01.2017 / 10:20:46  -Otomatik Pompalama Ýþlemi Tamamlandý.
+                                                      
+21.01.2017 / 10:20:49  -Daha düþük basýnç deðerleri için LÜTFEN BEKLEYÝNÝZ.

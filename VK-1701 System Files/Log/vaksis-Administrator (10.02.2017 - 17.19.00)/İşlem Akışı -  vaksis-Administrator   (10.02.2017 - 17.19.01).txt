@@ -1,0 +1,47 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:19:01
+10.02.2017 / 17:19:02  -Kelebek vana kapatýldý.
+10.02.2017 / 17:19:26  -Isýtýcý istenilen deðere set edildi.
+10.02.2017 / 17:19:33  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:19:33  -Isýtýcý sýfýra set edildi.
+10.02.2017 / 17:20:24  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:20:29  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:20:31  -3. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:20:32  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:20:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:20:52  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:21:15  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+10.02.2017 / 17:21:48  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  10.02.2017 / 17:21:48    DP durdurulamaz !
+Sebep : AV açýk.
+
+10.02.2017 / 17:21:49  -Isýtýcý istenilen deðere set edildi.
+10.02.2017 / 17:21:51  -DP'ye dur komutu gönderildi.
+10.02.2017 / 17:21:52  -Ana vana kapatýldý.
+10.02.2017 / 17:21:52  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:21:53  -3. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:21:54  -RP'ye dur komutu gönderildi.
+10.02.2017 / 17:21:55  -BBÖ-BV kapatýldý.
+10.02.2017 / 17:21:57  -Isýtýcý sýfýra set edildi.
+10.02.2017 / 17:21:57  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:22:01  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+10.02.2017 / 17:22:04  -DP'ye çalýþ komutu gönderildi.
+10.02.2017 / 17:22:09  -RP'ye çalýþ komutu gönderildi.
+10.02.2017 / 17:22:22  -DP-BV kapatýldý.
+10.02.2017 / 17:22:24  -DP-BV açýldý.
+10.02.2017 / 17:22:34  -BBÖ-BV açýldý.
+10.02.2017 / 17:22:35  -BBÖ-BV açýldý.
+
+***** ERROR  10.02.2017 / 17:22:35    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+10.02.2017 / 17:22:42  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:22:46  -Ana vana açýldý.
+10.02.2017 / 17:22:55  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:22:56  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:23:13  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:23:14  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:23:16  -3. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:23:29  -1. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:23:31  -2. Bölge Isýtýcýsý sýfýra set edildi.
+10.02.2017 / 17:23:31  -3. Bölge Isýtýcýsý sýfýra set edildi.

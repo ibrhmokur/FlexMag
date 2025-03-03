@@ -1,0 +1,7 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:03:58
+31.01.2017 / 08:04:00  -Kelebek vana kapatýldý.
+
+***** ERROR  31.01.2017 / 08:04:00    Isýtýcýlar açýlamaz !
+Sebep : ??? kapalý olabilir.
+
+31.01.2017 / 08:04:15  -1. Bölge Isýtýcýsý istenilen deðere set edildi.

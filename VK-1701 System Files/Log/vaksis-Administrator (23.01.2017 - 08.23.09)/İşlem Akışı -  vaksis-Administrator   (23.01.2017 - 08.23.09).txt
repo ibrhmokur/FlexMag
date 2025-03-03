@@ -1,0 +1,30 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:23:09
+23.01.2017 / 08:23:11  -Kelebek vana kapatýldý.
+23.01.2017 / 08:23:13  -AH-ATM açýldý.
+23.01.2017 / 08:23:52  -BBÖ-BV açýldý.
+23.01.2017 / 08:24:51  -Su akýþ vanasý açýldý.
+                                                      
+23.01.2017 / 08:25:08  -Sistemi "Vakuma Alma" Ýþlemi Baþlatýldý.
+23.01.2017 / 08:25:11  -1. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:25:12  -2. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:25:13  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:25:25  -AH-ATM kapatýldý.
+23.01.2017 / 08:25:29  -MP'ye çalýþ komutu gönderildi.
+23.01.2017 / 08:25:30  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+23.01.2017 / 08:25:48  -RP'ye çalýþ komutu gönderildi.
+23.01.2017 / 08:25:49  -Alt Hat basýncýnýn 10 dakika içerisinde 0,9 Torr deðerine düþmesi bekleniyor.
+23.01.2017 / 08:26:00  -DP-BV açýldý.
+23.01.2017 / 08:26:02  -DP'ye çalýþ komutu gönderildi.
+23.01.2017 / 08:29:36  -DP'nin ýsýnmasý bekleniyor.
+23.01.2017 / 08:43:30  -Ana vana açýldý.
+23.01.2017 / 08:43:31  -Ýstenilen basýnç seviyesine düþmesi bekleniyor.
+23.01.2017 / 08:48:43  -Ana vana kapatýldý.
+23.01.2017 / 08:48:46  -Ana vana kapatýldý.
+
+***** ERROR  23.01.2017 / 08:48:46    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+23.01.2017 / 08:48:48  -DP'ye dur komutu gönderildi
+23.01.2017 / 08:48:49  -3. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:48:51  -1. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:48:51  -2. Bölge Isýtýcýsý sýfýra set edildi.
+23.01.2017 / 08:49:05  -BBÖ-BV kapatýldý.

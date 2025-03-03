@@ -1,0 +1,11 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:46:05
+20.12.2016 / 10:46  -Kelebek vana kapatýldý.
+20.12.2016 / 10:46  -Ana vana açýldý.
+
+***** ERROR  20.12.2016 / 10:46    AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+
+20.12.2016 / 10:46  -Isýtýcý sýfýra set edildi.
+20.12.2016 / 10:47  -Isýtýcý sýfýra set edildi.
+20.12.2016 / 10:48  -Isýtýcý sýfýra set edildi.
+20.12.2016 / 10:49  -Ana vana kapatýldý.
+20.12.2016 / 10:49  -Isýtýcý sýfýra set edildi.

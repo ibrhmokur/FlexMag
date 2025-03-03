@@ -1,0 +1,8 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:04:40
+20.01.2017 / 08:04:42  -Kelebek vana kapatýldý.
+20.01.2017 / 08:04:44  -Kelebek vana kapatýldý.
+
+***** ERROR  20.01.2017 / 08:04:44    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+
+20.01.2017 / 08:04:54  -Su akýþ vanasý açýldý.

@@ -1,0 +1,10 @@
+İşlem Akışı -  vaksis-Administrator  / 10:18:37
+31.01.2017 / 10:18:53  -1. Bölge Isıtıcısı istenilen değere set edildi.
+31.01.2017 / 10:18:54  -1. Bölge Isıtıcısı sıfıra set edildi.
+31.01.2017 / 10:18:56  -2. Bölge Isıtıcısı istenilen değere set edildi.
+31.01.2017 / 10:18:58  -2. Bölge Isıtıcısı sıfıra set edildi.
+31.01.2017 / 10:19:00  -3. Bölge Isıtıcısı istenilen değere set edildi.
+31.01.2017 / 10:19:02  -3. Bölge Isıtıcısı sıfıra set edildi.
+31.01.2017 / 10:19:02  -Isıtıcı sıfıra set edildi.
+31.01.2017 / 10:19:03  -1. Bölge Isıtıcısı istenilen değere set edildi.
+31.01.2017 / 10:19:08  -1. Bölge Isıtıcısı sıfıra set edildi.

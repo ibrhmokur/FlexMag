@@ -1,0 +1,5 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:42:30
+
+17.01.2017 / 12:02   GaV-Ortak açýlamaz !
+Sebep : CH-ATM  veya
+ CH-VBV açýk ya da Kazan Basýncý 5 Torr dan büyük olabilir.

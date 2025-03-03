@@ -1,0 +1,7 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 07:11:32
+2.03.2017 / 07:11:34  -Kelebek vana kapatýldý.
+2.03.2017 / 07:11:35  -AH-ATM açýldý.
+
+***** ERROR  2.03.2017 / 07:11:35    Sistem hava basýncý yeterli deðil !
+Lütfen basýnçlý hava baðlantýlarýný kontrol ediniz.
+

@@ -1,0 +1,120 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 10:09:26
+1.03.2017 / 10:09:28  -Kelebek vana kapatýldý.
+1.03.2017 / 10:09:43  -RP'ye çalýþ komutu gönderildi.
+1.03.2017 / 10:09:54  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 10:09:58  -BBÖ-BV açýldý.
+1.03.2017 / 10:10:07  -Ortak gaz vanasý açýldý.
+1.03.2017 / 10:10:17  -Ar gaz vanasý açýldý.
+1.03.2017 / 10:10:19  -Azot gaz vanasý açýldý.
+1.03.2017 / 10:10:20  -Kelebek vana açýldý.
+1.03.2017 / 10:10:22  -Azot gaz vanasý kapatýldý.
+1.03.2017 / 10:10:25  -Hidrojen gaz vanasý açýldý.
+1.03.2017 / 10:10:27  -Azot (Purge) gaz vanasý açýldý.
+1.03.2017 / 10:10:37  -Argon gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:10:40  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:10:53  -Hidrojenn gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:11:10  -Hidrojen gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:11:16  -Hidrojenn gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:11:35  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:11:39  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  1.03.2017 / 10:11:39    N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+1.03.2017 / 10:11:53  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:12:29  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:12:52  -Hidrojen gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:12:54  -Argon gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:12:55  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:13:44  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 10:13:49  -RP'ye dur komutu gönderildi.
+1.03.2017 / 10:14:09  -Kelebek vana kapatýldý.
+1.03.2017 / 10:14:30  -K-VKV açýldý.
+1.03.2017 / 10:14:33  -K-VKV kapatýldý.
+1.03.2017 / 10:14:36  -MP'ye dur komutu gönderildi.
+1.03.2017 / 10:14:39  -K-VKV açýldý.
+1.03.2017 / 10:14:44  -K-VKV kapatýldý.
+1.03.2017 / 10:14:46  -Ortak gaz vanasý kapatýldý.
+1.03.2017 / 10:14:49  -K-VKV açýldý.
+1.03.2017 / 10:15:11  -K-VKV kapatýldý.
+1.03.2017 / 10:15:29  -Ortak gaz vanasý açýldý.
+1.03.2017 / 10:15:33  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:16:20  -AH-ATM açýldý.
+1.03.2017 / 10:16:23  -AH-VKV kapatýldý.
+1.03.2017 / 10:16:26  -AH-VKV kapatýldý.
+
+***** ERROR  1.03.2017 / 10:16:26    GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+
+1.03.2017 / 10:16:30  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:16:35  -Ortak gaz vanasý kapatýldý.
+1.03.2017 / 10:16:42  -Ortak gaz vanasý kapatýldý.
+1.03.2017 / 10:16:44  -K-VKV açýldý.
+1.03.2017 / 10:16:58  -K-VKV kapatýldý.
+1.03.2017 / 10:17:06  -K-VKV açýldý.
+1.03.2017 / 10:17:10  -K-VKV kapatýldý.
+1.03.2017 / 10:17:29  -K-VKV açýldý.
+1.03.2017 / 10:17:33  -K-VKV kapatýldý.
+1.03.2017 / 10:17:42  -K-VKV açýldý.
+1.03.2017 / 10:17:46  -K-VKV kapatýldý.
+1.03.2017 / 10:18:01  -K-VKV açýldý.
+1.03.2017 / 10:18:06  -K-VKV kapatýldý.
+1.03.2017 / 10:18:14  -K-VKV açýldý.
+1.03.2017 / 10:18:24  -K-VKV kapatýldý.
+1.03.2017 / 10:18:35  -K-VKV açýldý.
+1.03.2017 / 10:18:40  -K-VKV kapatýldý.
+1.03.2017 / 10:18:59  -K-VKV açýldý.
+1.03.2017 / 10:19:05  -K-VKV kapatýldý.
+1.03.2017 / 10:19:43  -K-VKV açýldý.
+1.03.2017 / 10:19:48  -K-VKV kapatýldý.
+1.03.2017 / 10:20:34  -K-VKV açýldý.
+1.03.2017 / 10:20:38  -K-VKV kapatýldý.
+1.03.2017 / 10:20:54  -K-VKV açýldý.
+1.03.2017 / 10:20:58  -K-VKV kapatýldý.
+1.03.2017 / 10:21:18  -K-VKV açýldý.
+1.03.2017 / 10:21:42  -K-VKV kapatýldý.
+1.03.2017 / 10:22:12  -K-VKV açýldý.
+1.03.2017 / 10:22:14  -K-VKV kapatýldý.
+1.03.2017 / 10:22:27  -Ortak gaz vanasý açýldý.
+1.03.2017 / 10:22:32  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:23:06  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+
+***** ERROR  1.03.2017 / 10:23:06    GaV-Com kapatýlamaz !
+Sebep :  Ar,O2, N2 veya CH4 gaz akýþý kesilmemiþ olabilir.
+
+1.03.2017 / 10:23:12  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:23:15  -Ortak gaz vanasý kapatýldý.
+1.03.2017 / 10:23:18  -K-VKV açýldý.
+1.03.2017 / 10:23:22  -K-VKV kapatýldý.
+1.03.2017 / 10:23:29  -Ortak gaz vanasý açýldý.
+1.03.2017 / 10:23:34  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:24:00  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+1.03.2017 / 10:25:40  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+
+***** ERROR  1.03.2017 / 10:25:40    Kazan Atmosfer Basýncýna ulaþtý !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+1.03.2017 / 10:25:40  -K-ATM açýldý.
+1.03.2017 / 10:25:41  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:25:41  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:25:41  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:25:42  -BBÖ-BV kapatýldý.
+1.03.2017 / 10:25:46  -Hidrojen gaz vanasý kapatýldý.
+1.03.2017 / 10:25:51  -Ar gaz vanasý kapatýldý.
+1.03.2017 / 10:25:59  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+1.03.2017 / 10:26:06  -Ortak gaz vanasý kapatýldý.
+1.03.2017 / 10:26:27  -Ortak gaz vanasý kapatýldý.
+1.03.2017 / 10:43:05  -Ortak gaz vanasý kapatýldý.
+
+***** ERROR  1.03.2017 / 10:43:05    2. Bölge sýcaklýðý 1300ºC nin üzerine yükseldi !
+Sistem Yarý Otomatik Duruma geçiriliyor.
+
+1.03.2017 / 10:43:07  -1. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:43:07  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:43:07  -2. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:43:08  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:48:58  -3. Bölge Isýtýcýsý sýfýra set edildi.
+1.03.2017 / 10:49:11  -Kelebek vana ara pozisyona alýndý.
+1.03.2017 / 10:49:37  -Kelebek vana açýldý.
+1.03.2017 / 10:53:27  -AH-ATM kapatýldý.
+1.03.2017 / 10:56:40  -RP'ye çalýþ komutu gönderildi.

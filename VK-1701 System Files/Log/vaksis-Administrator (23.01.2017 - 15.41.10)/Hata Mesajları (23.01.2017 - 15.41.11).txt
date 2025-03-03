@@ -1,0 +1,11 @@
+Hata Mesajlarý -  vaksis-Administrator  / 15:41:11
+
+23.01.2017 / 15:41:17   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+23.01.2017 / 15:41:17   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+23.01.2017 / 15:42:43   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+23.01.2017 / 15:41:17   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+23.01.2017 / 15:42:43   DP-BV açýlamaz !
+Sebep : MP veya RP çalýþmýyor ya da BK-KV açýk ya da alt hat basýncý 1 Torr'un üzerinde olabilir.
+23.01.2017 / 15:43:04   DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.

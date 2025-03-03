@@ -1,0 +1,40 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 08:03:38
+27.01.2017 / 08:03:40  -Kelebek vana kapatýldý.
+27.01.2017 / 08:04:41  -Su akýþ vanasý açýldý.
+27.01.2017 / 08:04:45  -Su akýþ vanasý kapatýldý.
+27.01.2017 / 08:04:47  -Su akýþ vanasý açýldý.
+27.01.2017 / 08:04:50  -Su akýþ vanasý kapatýldý.
+27.01.2017 / 08:04:53  -Su akýþ vanasý açýldý.
+                                                      
+27.01.2017 / 08:08:48  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+27.01.2017 / 08:08:52  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 08:08:52  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 08:08:54  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 08:09:06  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 08:09:07  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 08:09:07  -3. Bölge Isýtýcýsý sýfýra set edildi.
+                                                      
+27.01.2017 / 08:14:24  -Sistemi "Durdurma" Ýþlemi Baþlatýldý.
+27.01.2017 / 08:14:28  -1. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 08:14:28  -2. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 08:14:30  -3. Bölge Isýtýcýsý sýfýra set edildi.
+27.01.2017 / 08:14:40  -DP'nin soðumasý bekleniyor.
+27.01.2017 / 08:14:47  -K-VKV açýldý.
+27.01.2017 / 08:14:48  -Kazanýn atmosfer basýncýna gelmesi bekleniyor
+27.01.2017 / 08:17:30  -K-ATM açýldý.
+27.01.2017 / 08:17:32  -K-VKV kapatýldý.
+27.01.2017 / 08:17:32  -Alt Hattýn atmosfer basýncýna gelmesi bekleniyor
+27.01.2017 / 08:17:33  -Alt Hat atmosfer basýncýna ulaþtý.
+27.01.2017 / 08:17:36  -Durdurma iþlemi tamamlandý
+                                                      
+27.01.2017 / 08:17:39  -Kazan atmosfer basýncýna ulaþtý. Alttaþ yükleme / alýnma iþlemi yapýlabilir
+27.01.2017 / 08:27:46  -Su akýþ vanasý kapatýldý.
+27.01.2017 / 08:48:51  -Su akýþ vanasý açýldý.
+27.01.2017 / 08:58:30  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+27.01.2017 / 08:58:35  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+27.01.2017 / 08:59:20  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+27.01.2017 / 08:59:29  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+27.01.2017 / 09:00:01  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+27.01.2017 / 09:00:04  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+27.01.2017 / 09:00:37  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+27.01.2017 / 09:00:40  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.

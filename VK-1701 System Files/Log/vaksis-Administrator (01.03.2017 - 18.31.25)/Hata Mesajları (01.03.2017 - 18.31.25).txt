@@ -1,0 +1,13 @@
+Hata Mesajlarý -  vaksis-Administrator  / 18:31:25
+1.03.2017 / 18:39:16   BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 
+1.03.2017 / 18:39:49   K-VKV açýlamaz !
+Sebep :  FAN çalýþýyor ya da Isýtýcýlar Sýcak ya da AV, GAV-ORTAK veya BK-KV açýk olabilir.
+1.03.2017 / 18:39:16   BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 
+1.03.2017 / 18:39:58   K-VKV açýlamaz !
+Sebep :  FAN çalýþýyor ya da Isýtýcýlar Sýcak ya da AV, GAV-ORTAK veya BK-KV açýk olabilir.
+1.03.2017 / 18:39:49   K-VKV açýlamaz !
+Sebep :  FAN çalýþýyor ya da Isýtýcýlar Sýcak ya da AV, GAV-ORTAK veya BK-KV açýk olabilir.
+1.03.2017 / 18:39:16   BG-BV kapatýlamaz !
+Sebep : Ar,O2, N2 veya CH4 gaz akýþý devam ediyor olabilir. 

@@ -1,0 +1,10 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:02:27
+           -Kelebek vana kapatýldý.
+                                                      
+18.01.2017 / 11:02                                             
+18.01.2017 / 11:02  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:03  -Isýtýcý sýfýra set edildi.
+18.01.2017 / 11:03  -Alt Hat basýncýnýn 10 dakika içerisinde 10 Torr deðerine düþmesi bekleniyor.
+18.01.2017 / 11:03  -RP'ye çalýþ komutu gönderildi.
+18.01.2017 / 11:03  -DP-BV açýldý.
+18.01.2017 / 11:04  -TP'ye çalýþ komutu gönderildi.

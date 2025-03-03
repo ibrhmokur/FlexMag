@@ -1,0 +1,320 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:01:10
+28.02.2017 / 17:01:12  -Kelebek vana açýldý.
+28.02.2017 / 17:01:12  -Kelebek vana ara pozisyona alýndý.
+28.02.2017 / 17:01:17  -Kelebek vana açýldý.
+28.02.2017 / 17:02:08  -RP'ye çalýþ komutu gönderildi.
+28.02.2017 / 17:06:15  -Kelebek vana ara pozisyona alýndý.
+28.02.2017 / 17:06:40  -Kelebek vana kapatýldý.
+28.02.2017 / 17:06:56  -Kelebek vana kapatýldý.
+
+***** ERROR  28.02.2017 / 17:06:56    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+28.02.2017 / 17:06:58  -DP-BV açýldý.
+28.02.2017 / 17:07:01  -DP-BV açýldý.
+28.02.2017 / 17:08:27  -Su akýþ vanasý açýldý.
+28.02.2017 / 17:09:24  -DP'ye çalýþ komutu gönderildi.
+28.02.2017 / 17:10:31  -DP'ye çalýþ komutu gönderildi.
+
+***** ERROR  28.02.2017 / 17:10:31    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+28.02.2017 / 17:10:41  -DP'ye çalýþ komutu gönderildi.
+
+***** ERROR  28.02.2017 / 17:10:41    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+28.02.2017 / 17:10:57  -DP'ye çalýþ komutu gönderildi.
+
+***** ERROR  28.02.2017 / 17:10:57    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+28.02.2017 / 17:11:17  -DP'ye çalýþ komutu gönderildi.
+28.02.2017 / 17:13:55  -DP'ye çalýþ komutu gönderildi.
+
+***** ERROR  28.02.2017 / 17:13:55    AV kapatýlamaz !
+Sebep : HATA KOD 7 !
+
+28.02.2017 / 17:14:16  -Ana vana açýldý.
+28.02.2017 / 17:14:49  -Ana vana açýldý.
+28.02.2017 / 17:20:06  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:20:07  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:20:08  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:24:04  -BBÖ-BV açýldý.
+28.02.2017 / 17:24:12  -BBÖ-BV açýldý.
+
+***** ERROR  28.02.2017 / 17:24:12    Isýtýcýlar açýlamaz !
+Sebep : Soðutma suyu kapalý, kazan atmosfer basýncýnda, DP çalýþmýyor ya da kazan basýncý 1E-3 Torr'dan yüksek olabilir.
+
+28.02.2017 / 17:24:17  -BBÖ-BV açýldý.
+
+***** ERROR  28.02.2017 / 17:24:17    Isýtýcýlarýn çalýþmasý ile ilgili sorun tespit edildi (Kod 9).
+
+28.02.2017 / 17:24:18  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:24:18  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:24:19  -DP'ye dur komutu gönderildi.
+28.02.2017 / 17:24:19  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:24:20  -BBÖ-BV kapatýldý.
+28.02.2017 / 17:24:21  -Ana vana kapatýldý.
+28.02.2017 / 17:24:22  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:24:23  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:24:23  -RP'ye dur komutu gönderildi.
+28.02.2017 / 17:24:43  -DP-BV kapatýldý.
+28.02.2017 / 17:24:45  -DP-BV kapatýldý.
+28.02.2017 / 17:24:51  -RP'ye çalýþ komutu gönderildi.
+28.02.2017 / 17:24:57  -BBÖ-BV açýldý.
+28.02.2017 / 17:25:06  -BBÖ-BV açýldý.
+
+***** ERROR  28.02.2017 / 17:25:06    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP veya RP çalýþmýyor ya da kazan basýncý 1 Torr'un üzerinde olabilir.
+
+28.02.2017 / 17:25:08  -DP-BV açýldý.
+28.02.2017 / 17:25:12  -DP'ye çalýþ komutu gönderildi.
+28.02.2017 / 17:25:21  -DP'ye çalýþ komutu gönderildi.
+28.02.2017 / 17:26:05  -Ana vana açýldý.
+28.02.2017 / 17:26:25  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:26:26  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:26:26  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:27:56  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:27:57  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:28:15  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:28:16  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:28:22  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:28:23  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:28:32  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:28:33  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:29:04  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:29:28  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:29:29  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:36:36  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:36:37  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:41:07  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:41:08  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:44:37  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:44:38  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:44:39  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:47:15  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:47:16  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:47:18  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:49:49  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:49:51  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:49:52  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:51:53  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:51:57  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:53:57  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:53:58  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:54:00  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:56:35  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:58:19  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:58:20  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:58:20  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 17:58:40  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:58:40  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 17:58:42  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 18:34:51  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 18:34:51    N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+28.02.2017 / 18:35:02  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 18:59:33  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 18:59:35  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 19:00:45  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:00:46  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:00:47  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:11:16  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:11:18  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:11:18  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:14:03  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:03    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+28.02.2017 / 19:14:04  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:04    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:05  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:05    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  28.02.2017 / 19:14:05    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:06  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:06    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+28.02.2017 / 19:14:07  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:07    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:08  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:08    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  28.02.2017 / 19:14:08    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:09  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:09    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  28.02.2017 / 19:14:09    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:11  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:11    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  28.02.2017 / 19:14:11    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:12  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:12    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  28.02.2017 / 19:14:12    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:13  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:13    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+28.02.2017 / 19:14:14  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:14    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:15  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:14:15    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+28.02.2017 / 19:14:15  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 19:14:16  -2. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 19:14:16    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:14:16  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 19:16:52  -1. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:16:53  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:16:53  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:23:36  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 19:23:41  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 19:23:42  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 19:24:37  -2. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:24:38  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+28.02.2017 / 19:24:39  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:39    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  28.02.2017 / 19:24:39    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (2)
+
+
+***** ERROR  28.02.2017 / 19:24:39    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:24:40  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:40    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+28.02.2017 / 19:24:41  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:41    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (2)
+
+
+***** ERROR  28.02.2017 / 19:24:41    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:24:42  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:42    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  28.02.2017 / 19:24:42    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (2)
+
+
+***** ERROR  28.02.2017 / 19:24:42    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:24:43  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:43    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+28.02.2017 / 19:24:44  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:44    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (2)
+
+
+***** ERROR  28.02.2017 / 19:24:44    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:24:45  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:45    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (1)
+
+
+***** ERROR  28.02.2017 / 19:24:45    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (2)
+
+
+***** ERROR  28.02.2017 / 19:24:45    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 19:24:46  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:46    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (2)
+
+28.02.2017 / 19:24:47  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 19:24:47    Lütfen Trafo Kutusunun sigortasýný kontrol ediniz ! (3)
+
+28.02.2017 / 20:24:35  -3. Bölge Isýtýcýsý istenilen deðere set edildi.
+
+***** ERROR  28.02.2017 / 20:24:35    Soðutma suyu sýcaklýðý 40ºC'ýn üzerine çýktýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 20:24:36  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 20:24:36  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 20:24:37  -DP'ye dur komutu gönderildi.
+28.02.2017 / 20:24:37  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 20:24:38  -BBÖ-BV kapatýldý.
+28.02.2017 / 20:24:39  -Ana vana kapatýldý.
+28.02.2017 / 20:24:40  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 20:24:41  -RP'ye dur komutu gönderildi.
+28.02.2017 / 20:25:01  -DP-BV kapatýldý.
+28.02.2017 / 20:27:13  -Ortak gaz vanasý açýldý.
+28.02.2017 / 20:27:15  -Kelebek vana ara pozisyona alýndý.
+28.02.2017 / 20:27:20  -Azot (Purge) gaz vanasý açýldý.
+28.02.2017 / 20:28:35  -BBÖ-BV açýldý.
+28.02.2017 / 20:28:56  -Azot (Purge) gaz akýþ kontrolcüsü aktif hale getirildi.
+28.02.2017 / 20:29:31  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+28.02.2017 / 21:03:48  -Gaz Sirkülasyon Fanýna çalýþ komutu gönderildi.
+28.02.2017 / 21:22:34  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+28.02.2017 / 21:22:39  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+
+***** ERROR  28.02.2017 / 21:22:39    N2 Purge gaz akýþý yok !
+Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+
+28.02.2017 / 21:22:51  -Azot (Purge) gaz akýþ kontrolcüsü deaktif hale getirildi.
+28.02.2017 / 21:23:05  -Azot (Purge) gaz vanasý kapatýldý.
+28.02.2017 / 21:23:13  -Ortak gaz vanasý kapatýldý.
+28.02.2017 / 21:23:18  -Gaz Sirkülasyon Fanýna dur komutu gönderildi.
+28.02.2017 / 21:23:24  -RP'ye çalýþ komutu gönderildi.
+28.02.2017 / 21:23:55  -Kelebek vana açýldý.
+28.02.2017 / 21:25:19  -RP'ye dur komutu gönderildi.
+28.02.2017 / 21:25:23  -Kelebek vana ara pozisyona alýndý.
+28.02.2017 / 21:25:39  -Kelebek vana ara pozisyona alýndý.
+
+***** ERROR  28.02.2017 / 21:25:39    Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 21:25:39  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 21:25:40  -3. Bölge Isýtýcýsý sýfýra set edildi.
+
+***** ERROR  28.02.2017 / 21:25:40    Su akýþý olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+
+28.02.2017 / 21:25:41  -1. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 21:25:41  -BBÖ-BV kapatýldý.
+28.02.2017 / 21:25:43  -2. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 21:25:44  -3. Bölge Isýtýcýsý sýfýra set edildi.
+28.02.2017 / 21:25:47  -Kelebek vana kapatýldý.
+28.02.2017 / 21:25:51  -Kelebek vana kapatýldý.
+28.02.2017 / 21:26:12  -MP'ye dur komutu gönderildi.
+28.02.2017 / 21:26:15  -AH-VKV açýldý.
+28.02.2017 / 21:27:54  -AH-ATM açýldý.
+28.02.2017 / 21:27:57  -AH-VKV kapatýldý.

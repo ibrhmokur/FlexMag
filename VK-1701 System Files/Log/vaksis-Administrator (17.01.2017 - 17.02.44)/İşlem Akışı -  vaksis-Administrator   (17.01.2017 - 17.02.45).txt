@@ -1,0 +1,13 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 17:02:45
+17.01.2017 / 17:02  -Kelebek vana açýldý.
+17.01.2017 / 17:07  -TP'ye çalýþ komutu gönderildi.
+
+***** ERROR  17.01.2017 / 17:07    DP çalýþmasý ile ilgili sorun tespit edildi (Kod 2).
+
+17.01.2017 / 17:07  -TP'ye dur komutu gönderildi
+17.01.2017 / 17:07  -Isýtýcý sýfýra set edildi.
+17.01.2017 / 17:07  -RP'ye dur komutu gönderildi.
+17.01.2017 / 17:07  -Kelebek vana ara pozisyona alýndý.
+17.01.2017 / 17:07  -Kelebek vana kapatýldý.
+17.01.2017 / 17:08  -Kelebek vana ara pozisyona alýndý.
+17.01.2017 / 17:08  -Kelebek vana açýldý.

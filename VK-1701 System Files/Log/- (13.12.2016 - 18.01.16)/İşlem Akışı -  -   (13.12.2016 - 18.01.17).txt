@@ -1,0 +1,18 @@
+Ýþlem Akýþý -  -  / 18:01:17
+13.12.2016 / 18:02  -Kelebek vana kapatýldý.
+
+***** ERROR  13.12.2016 / 18:02    DP çalýþtýrýlamaz !
+Sebep : Su akýþý açýk deðil ya da DP-BV kapalý veya MP çalýþmýyor olabilir.
+
+
+***** ERROR  13.12.2016 / 18:02    AH-VKV açýlamaz !
+Sebep : MP çalýþýyor ya da TP-BV veya BP-BV açýk olabilir. 
+
+
+***** ERROR  13.12.2016 / 18:02    DP durdurulamaz !
+Sebep : KV açýk.
+
+
+***** ERROR  13.12.2016 / 18:02    BK-KV açýlamaz !
+Sebep : TP çalýþýyor ve Kazan Basýncý 1 Torr'un üstünde olabilir.
+

@@ -1,0 +1,5 @@
+Hata Mesajlarý -  vaksis-Administrator  / 17:53:59
+1.03.2017 / 17:54:17   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).
+1.03.2017 / 17:54:41   AV açýlamaz !
+Sebep : MP, RP veya DP çalýþmýyor ya da DP-BV açýk yada kazan basýncý 1 Torr'un üzerinde olabilir.
+1.03.2017 / 17:54:17   AV çalýþmasý ile ilgili sorun tespit edildi (Kod 8).

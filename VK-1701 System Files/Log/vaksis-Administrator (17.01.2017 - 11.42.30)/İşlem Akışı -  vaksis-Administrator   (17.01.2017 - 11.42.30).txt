@@ -1,0 +1,15 @@
+Ýþlem Akýþý -  vaksis-Administrator  / 11:42:30
+17.01.2017 / 11:43  -Kelebek vana kapatýldý.
+17.01.2017 / 11:47  -Kelebek vana ara pozisyona alýndý.
+17.01.2017 / 11:48  -Kelebek vana ara pozisyona alýndý.
+17.01.2017 / 12:02  -Kelebek vana kapatýldý.
+
+***** ERROR  17.01.2017 / 12:02    GaV-Ortak açýlamaz !
+Sebep : CH-ATM  veya
+ CH-VBV açýk ya da Kazan Basýncý 5 Torr dan büyük olabilir.
+
+17.01.2017 / 12:02  -AH-VKV açýldý.
+17.01.2017 / 12:02  -AH-VKV kapatýldý.
+17.01.2017 / 12:02  -PL-ATM açýldý.
+17.01.2017 / 13:04  -PL-ATM açýldý.
+17.01.2017 / 13:04  -Isýtýcý istenilen deðere set edildi.

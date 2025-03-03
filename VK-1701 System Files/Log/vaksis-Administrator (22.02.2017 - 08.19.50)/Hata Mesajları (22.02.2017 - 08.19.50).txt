@@ -1,0 +1,16 @@
+Hata Mesajlarý -  vaksis-Administrator  / 08:19:50
+22.02.2017 / 09:42:51   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+22.02.2017 / 11:28:10   K-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 4).
+22.02.2017 / 09:42:51   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+22.02.2017 / 11:28:55   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+22.02.2017 / 11:28:10   K-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 4).
+22.02.2017 / 09:42:51   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !
+22.02.2017 / 11:51:21   Elektrik Yok !
+Lütfen Güvenlik Prosedürü tamamlandýktan sonra Bilgisayarýnýzý kapatýnýz !
+22.02.2017 / 11:28:55   N2 Purge gaz akýþý yok ! Lütfen N2 Purge Regülatör vanasýnýn açýk olduðundan emin olunuz.
+22.02.2017 / 11:28:10   K-VKV çalýþmasý ile ilgili sorun tespit edildi (Kod 4).
+22.02.2017 / 09:42:51   Su akýþ miktarý yeterli olmadýðý için, iþlem durduruldu !
+Lütfen Kapalý Devre Su soðuma sisteminizi kontrol ediniz !

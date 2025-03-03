@@ -1,0 +1,10 @@
+Hata Mesajlarý -  vaksis-Administrator  / 11:36:08
+
+31.01.2017 / 11:37:56   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+31.01.2017 / 11:37:56   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+31.01.2017 / 11:38:31   MP durdurulamaz !
+Sebep : DP-BV ya da BK-KV açýk, RP çalýþýyor  olabilir.
+31.01.2017 / 11:37:56   BK-KV çalýþmasý ile ilgili sorun tespit edildi (Kod 6).
+31.01.2017 / 11:38:31   MP durdurulamaz !
+Sebep : DP-BV ya da BK-KV açýk, RP çalýþýyor  olabilir.
+31.01.2017 / 11:38:43   MP çalýþmasý ile ilgili sorun tespit edildi (Kod 3).
