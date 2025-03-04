@@ -1,2 +1,0 @@
-Süre (Sn)	Basýnç (Torr)
-0		6,1E+1
